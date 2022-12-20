@@ -7,6 +7,7 @@
 - [Awesome-Zig](#awesome-zig)
   - [Summary](#summary)
     - [Official Zig](#official-zig)
+    - [Learning Resources](#learning-resources)
     - [Awesome List](#awesome-list)
   - [Embedded Programming](#embedded-programming)
   - [Robot Operating System](#robot-operating-system)
@@ -23,7 +24,24 @@
 
   - ### Official Zig
 
-    - [zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/>) : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+    - [zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://andrewkelley.me/)
+
+
+  - ### Learning Resources
+
+    - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
+
+    - [Zig Standard Library](https://ziglang.org/documentation/master/std/#root) : Zig Standard Library.
+
+    - [ziglearn](https://ziglearn.org/) : ziglearn.org.
+
+    - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) <img src="https://img.shields.io/github/stars/Sobeston/ziglearn?style=social"/> : Repo for https://ziglearn.org content. Get up to speed with Zig quickly.
+
+    - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
+
+    - [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) : A half-hour to learn Zig.
+
+
 
 
   - ### Awesome List
