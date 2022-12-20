@@ -77,6 +77,8 @@
 
   - [zalgebra](https://github.com/kooparse/zalgebra) <img src="https://img.shields.io/github/stars/kooparse/zalgebra?style=social"/> : Linear algebra library for games and real-time graphics. 
 
+  - [zlm](https://github.com/ziglibs/zlm) <img src="https://img.shields.io/github/stars/ziglibs/zlm?style=social"/> : Zig linear mathemathics.
+
   - [VecFns](https://github.com/omaraaa/VecFns) <img src="https://img.shields.io/github/stars/omaraaa/VecFns?style=social"/> : Automatic Vector Math Functions In Zig. 
 
   - [Laremere/alg](https://github.com/Laremere/alg) <img src="https://img.shields.io/github/stars/Laremere/alg?style=social"/> : Algebra for Zig.
@@ -92,6 +94,11 @@
 
   - [zigcv](https://github.com/ryoppippi/zigcv) <img src="https://img.shields.io/github/stars/ryoppippi/zigcv?style=social"/> : opencv bindings for zig.
 
+  - [zgl](https://github.com/ziglibs/zgl) <img src="https://img.shields.io/github/stars/ziglibs/zgl?style=social"/> : Zig OpenGL Wrapper.
+
+  - [zig-opengl](https://github.com/MasterQ32/zig-opengl) <img src="https://img.shields.io/github/stars/MasterQ32/zig-opengl?style=social"/> : OpenGL binding generator based on the opengl registry.
+
+  - [zero-graphics](https://github.com/MasterQ32/zero-graphics) <img src="https://img.shields.io/github/stars/MasterQ32/zero-graphics?style=social"/> : Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web.
 
  
 - ## Finite State Machine
@@ -107,6 +114,19 @@
   - [hexops/Mach](https://github.com/hexops/mach) <img src="https://img.shields.io/github/stars/hexops/mach?style=social"/> : Mach is a game engine & graphics toolkit for the future.
 
   - [hexops/mach-gpu](https://github.com/hexops/mach-gpu) <img src="https://img.shields.io/github/stars/hexops/mach-gpu?style=social"/> : mach/gpu: truly cross-platform WebGPU graphics for Zig.
+
+  - [ckrowland/simulations](https://github.com/ckrowland/simulations) <img src="https://img.shields.io/github/stars/ckrowland/simulations?style=social"/> : GPU accelerated visual simulations.
+
+
+
+- ## Game Engine
+
+  - [zig-gamedev](https://github.com/michal-z/zig-gamedev) <img src="https://img.shields.io/github/stars/michal-z/zig-gamedev?style=social"/> : Building game development ecosystem for @ziglang!
+
+  - [ryupold/zecsi](https://github.com/ryupold/zecsi) <img src="https://img.shields.io/github/stars/ryupold/zecsi?style=social"/> : Small game framework made with Zig utilizing the awesome raylib.
+
+
+
 
 
 - ## GUI
