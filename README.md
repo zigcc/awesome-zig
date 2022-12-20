@@ -107,7 +107,10 @@
 
   - [zero-graphics](https://github.com/MasterQ32/zero-graphics) <img src="https://img.shields.io/github/stars/MasterQ32/zero-graphics?style=social"/> : Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web.
 
+  - [sokol-zig](https://github.com/floooh/sokol-zig) <img src="https://img.shields.io/github/stars/floooh/sokol-zig?style=social"/> : Zig bindings for the [sokol](https://github.com/floooh/sokol) headers.
  
+
+
 - ## Finite State Machine
 
   - [zigfsm](https://github.com/cryptocode/zigfsm) <img src="https://img.shields.io/github/stars/cryptocode/zigfsm?style=social"/> : A finite state machine library for Zig.
