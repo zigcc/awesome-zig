@@ -32,7 +32,7 @@
 
   - ### Official Zig
 
-    - [zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://andrewkelley.me/)
+    - [Zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://andrewkelley.me/)
 
 
   - ### Learning Resources
