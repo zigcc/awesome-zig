@@ -10,6 +10,7 @@
     - [Learning Resources](#learning-resources)
     - [Awesome List](#awesome-list)
     - [Community](#community)
+    - [Blogs](#blogs)
   - [Package Manager](#package-manager)
   - [Embedded Development](#embedded-development)
   - [Universal Operating System](#universal-operating-system)
@@ -64,6 +65,18 @@
   - ### Community
 
     - [Zig NEWS](https://zig.news/) : Zig NEWS is a community of amazing programmers.
+    - [Zig 语言中文社区](https://zigcc.github.io/) : Zig 语言中文社区，致力于分享、传播 Zig 语言在中文用户内的使用。
+
+  - ### Blogs
+
+    - [Zig 语言中文社区](https://zigcc.github.io/)
+      - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
+      - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)   
+      - [202209 | 锋芒毕露](https://zigcc.github.io/monthly/202209/)  
+      - [202210 | 0.10 蓄势待发](https://zigcc.github.io/monthly/202209/) 
+      - [202211 | 0.10 横空出世](https://zigcc.github.io/monthly/202211/)
+      - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
+      - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
 
 
 
