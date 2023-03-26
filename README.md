@@ -62,7 +62,7 @@
 
     - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) <img src="https://img.shields.io/github/stars/nrdmn/awesome-zig?style=social"/> : Awesome Zig. 
 
-    - [sjinzh/awesome-zig](https://github.com/sjinzh/awesome-zig) <img src="https://img.shields.io/github/stars/sjinzh/awesome-zig?style=social"/> : This repository lists some awesome public Zig programming language projects. 
+    - [sjinzh/awesome-zig](https://github.com/sjinzh/awesome-zig) <img src="https://img.shields.io/github/stars/sjinzh/awesome-zig?style=social"/> : 🔥🔥🔥This repository lists some awesome public Zig programming language projects. 
 
 
   - ### Community
