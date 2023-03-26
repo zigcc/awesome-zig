@@ -12,24 +12,25 @@
     - [Community](#community)
     - [Blogs](#blogs)
   - [Package Manager](#package-manager)
+  - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
   - [Universal Operating System](#universal-operating-system)
   - [Robot Operating System](#robot-operating-system)
   - [FFI Bindings](#ffi-bindings)
   - [GPU Integration](#gpu-integration)
-  - [Linear Algebra](#linear-algebra)
+  - [Graphics Library](#graphics-library) 
+  - [Scientific Computation](#scientific-computation)
+    - [Linear Algebra](#linear-algebra)
   - [Image Processing](#image-processing)
+  - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
-  - [JavaScript Runtime](#javaScript-runtime)
-  - [Asynchronous Runtime](#asynchronous-runtime)
-  - [Communication Interface](#communication-interface)
-  - [Data Structure and Algorithm](#data-structure-and-algorithm)
+  - [Web Framework](#web-framework)
   - [GUI](#gui)
 
 
 
-- ## Summary
+## Summary
 
   - ### Official Zig
 
@@ -49,6 +50,8 @@
     - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
 
     - [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) : A half-hour to learn Zig.
+
+    - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project 《Hello, Algorithm》|《 Hello，算法 》 about data structures and algorithms.
 
 
   - ### Awesome List
@@ -80,7 +83,7 @@
 
 
 
-- ## Package Manager
+## Package Manager
 
   - [nektro/zigmod](https://github.com/nektro/zigmod) <img src="https://img.shields.io/github/stars/nektro/zigmod?style=social"/> : 📦 A package manager for the Zig programming language.
 
@@ -89,8 +92,16 @@
   - [marler8997/zigup](https://github.com/marler8997/zigup) <img src="https://img.shields.io/github/stars/marler8997/zigup?style=social"/> : Download and manage zig compilers.
 
 
+## Asynchronous Runtime
 
-- ## Embedded Development
+  - [kprotty/zap](https://github.com/kprotty/zap) <img src="https://img.shields.io/github/stars/kprotty/zap?style=social"/> : An asynchronous runtime with a focus on performance and resource efficiency.
+
+  - [lithdew/pike](https://github.com/lithdew/pike) <img src="https://img.shields.io/github/stars/lithdew/pike?style=social"/> : Async I/O for Zig.
+
+  - [mitchellh/libxev](https://github.com/mitchellh/libxev) <img src="https://img.shields.io/github/stars/mitchellh/libxev?style=social"/> : libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
+
+
+## Embedded Development
 
   - [Vexu/bog](https://github.com/Vexu/bog) <img src="https://img.shields.io/github/stars/Vexu/bog?style=social"/> : Small, strongly typed, embeddable language. 
 
@@ -116,7 +127,7 @@
 
 
 
-- ## Universal Operating System
+## Universal Operating System
 
   - [ZystemOS/Pluto](https://github.com/ZystemOS/pluto) <img src="https://img.shields.io/github/stars/ZystemOS/pluto?style=social"/> : An x86 kernel written in Zig.
 
@@ -126,10 +137,13 @@
 
   - [rafaelbreno/zig-os](https://github.com/rafaelbreno/zig-os) <img src="https://img.shields.io/github/stars/rafaelbreno/zig-os?style=social"/> : A simple OS written in Zig following Philipp Oppermann's posts [Writing an OS in Rust](https://os.phil-opp.com/).
 
+  - [jzck/kernel-zig](https://github.com/jzck/kernel-zig) <img src="https://img.shields.io/github/stars/jzck/kernel-zig?style=social"/> : 💾 hobby x86 kernel zig.
+
+  - [andrewrk/HellOS](https://github.com/andrewrk/HellOS) <img src="https://img.shields.io/github/stars/andrewrk/HellOS?style=social"/> : "hello world" x86 kernel example.
 
 
 
-- ## Robot Operating System
+## Robot Operating System
 
   - [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) <img src="https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social"/> : micro-ROS library for Arduino. 
 
@@ -140,7 +154,7 @@
 
 
 
-- ## FFI Bindings 
+## FFI Bindings 
 
   - [suirad/zig-header-gen](https://github.com/suirad/zig-header-gen) <img src="https://img.shields.io/github/stars/suirad/zig-header-gen?style=social"/> : Automatically generate headers/bindings for other languages from Zig code.
 
@@ -156,11 +170,9 @@
 
 
 
-- ## GPU Integration 
+## GPU Integration 
 
   - [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) <img src="https://img.shields.io/github/stars/Snektron/vulkan-zig?style=social"/> : Vulkan binding generator for Zig.
-
-  - [hexops/Mach](https://github.com/hexops/mach) <img src="https://img.shields.io/github/stars/hexops/mach?style=social"/> : Mach is a game engine & graphics toolkit for the future.
 
   - [hexops/mach-gpu](https://github.com/hexops/mach-gpu) <img src="https://img.shields.io/github/stars/hexops/mach-gpu?style=social"/> : mach/gpu: truly cross-platform WebGPU graphics for Zig.
 
@@ -169,28 +181,9 @@
   - [ckrowland/simulations](https://github.com/ckrowland/simulations) <img src="https://img.shields.io/github/stars/ckrowland/simulations?style=social"/> : GPU accelerated visual simulations.
 
 
+## Graphics Library
 
-- ## Linear Algebra
-
-
-  - [kooparse/zalgebra](https://github.com/kooparse/zalgebra) <img src="https://img.shields.io/github/stars/kooparse/zalgebra?style=social"/> : Linear algebra library for games and real-time graphics. 
-
-  - [ziglibs/zlm](https://github.com/ziglibs/zlm) <img src="https://img.shields.io/github/stars/ziglibs/zlm?style=social"/> : Zig linear mathemathics.
-
-  - [omaraaa/VecFns](https://github.com/omaraaa/VecFns) <img src="https://img.shields.io/github/stars/omaraaa/VecFns?style=social"/> : Automatic Vector Math Functions In Zig. 
-
-  - [Laremere/alg](https://github.com/Laremere/alg) <img src="https://img.shields.io/github/stars/Laremere/alg?style=social"/> : Algebra for Zig.
-
-  - [BanchouBoo/algae](https://github.com/BanchouBoo/algae) <img src="https://img.shields.io/github/stars/BanchouBoo/algae?style=social"/> : Zig math library focused on game development.
-
-  
-
-
-- ## Image Processing
-
-  - [zigimg/zigimg](https://github.com/zigimg/zigimg) <img src="https://img.shields.io/github/stars/zigimg/zigimg?style=social"/> : Zig library for reading and writing different image formats.
-
-  - [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) <img src="https://img.shields.io/github/stars/ryoppippi/zigcv?style=social"/> : opencv bindings for zig.
+  - [hexops/mach-glfw](https://github.com/hexops/mach-glfw) <img src="https://img.shields.io/github/stars/hexops/mach-glfw?style=social"/> : Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more. 
 
   - [ziglibs/zgl](https://github.com/ziglibs/zgl) <img src="https://img.shields.io/github/stars/ziglibs/zgl?style=social"/> : Zig OpenGL Wrapper.
 
@@ -199,50 +192,66 @@
   - [MasterQ32/zero-graphics](https://github.com/MasterQ32/zero-graphics) <img src="https://img.shields.io/github/stars/MasterQ32/zero-graphics?style=social"/> : Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web.
 
   - [floooh/sokol-zig](https://github.com/floooh/sokol-zig) <img src="https://img.shields.io/github/stars/floooh/sokol-zig?style=social"/> : Zig bindings for the [sokol](https://github.com/floooh/sokol) headers.
- 
-   - [ziglibs/zgl](https://github.com/ziglibs/zgl) <img src="https://img.shields.io/github/stars/ziglibs/zgl?style=social"/> : Zig OpenGL Wrapper.
 
    - [JonSnowbd/ZT](https://github.com/JonSnowbd/ZT) <img src="https://img.shields.io/github/stars/JonSnowbd/ZT?style=social"/> : A zig based Imgui Application framework.
 
 
 
+## Scientific Computation
 
-- ## Finite State Machine
+  - ### Linear Algebra
+
+    - [kooparse/zalgebra](https://github.com/kooparse/zalgebra) <img src="https://img.shields.io/github/stars/kooparse/zalgebra?style=social"/> : Linear algebra library for games and real-time graphics. 
+
+    - [ziglibs/zlm](https://github.com/ziglibs/zlm) <img src="https://img.shields.io/github/stars/ziglibs/zlm?style=social"/> : Zig linear mathemathics.
+
+    - [omaraaa/VecFns](https://github.com/omaraaa/VecFns) <img src="https://img.shields.io/github/stars/omaraaa/VecFns?style=social"/> : Automatic Vector Math Functions In Zig. 
+
+    - [Laremere/alg](https://github.com/Laremere/alg) <img src="https://img.shields.io/github/stars/Laremere/alg?style=social"/> : Algebra for Zig.
+
+    - [BanchouBoo/algae](https://github.com/BanchouBoo/algae) <img src="https://img.shields.io/github/stars/BanchouBoo/algae?style=social"/> : Zig math library focused on game development.
+
+    
+## Image Processing
+
+  - [zigimg/zigimg](https://github.com/zigimg/zigimg) <img src="https://img.shields.io/github/stars/zigimg/zigimg?style=social"/> : Zig library for reading and writing different image formats.
+
+  - [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) <img src="https://img.shields.io/github/stars/ryoppippi/zigcv?style=social"/> : opencv bindings for zig.
+
+
+
+## Sensor and Communication Interface
+
+  - [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) <img src="https://img.shields.io/github/stars/MasterQ32/zig-network?style=social"/> : A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP.
+
+  - [MasterQ32/zig-serial](https://github.com/MasterQ32/zig-serial) <img src="https://img.shields.io/github/stars/MasterQ32/zig-serial?style=social"/> : Serial port configuration library for Zig.
+
+
+## Finite State Machine
 
   - [cryptocode/zigfsm](https://github.com/cryptocode/zigfsm) <img src="https://img.shields.io/github/stars/cryptocode/zigfsm?style=social"/> : A finite state machine library for Zig.
 
 
 
-- ## Game Engine
+## Game Engine
+
+  - [Mach](https://github.com/hexops/mach) <img src="https://img.shields.io/github/stars/hexops/mach?style=social"/> : Mach is a game engine & graphics toolkit for the future. machengine.org. 
 
   - [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev) <img src="https://img.shields.io/github/stars/michal-z/zig-gamedev?style=social"/> : Building game development ecosystem for @ziglang!
 
   - [ryupold/zecsi](https://github.com/ryupold/zecsi) <img src="https://img.shields.io/github/stars/ryupold/zecsi?style=social"/> : Small game framework made with Zig utilizing the awesome raylib.
 
+  - [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) <img src="https://img.shields.io/github/stars/wendigojaeger/ZigGBA?style=social"/> : Work in progress SDK for creating Game Boy Advance games using Zig programming language. 
 
-- ## JavaScript Runtime
+
+## Web Framework
 
   - [oven-sh/bun](https://github.com/oven-sh/bun) <img src="https://img.shields.io/github/stars/oven-sh/bun?style=social"/> : Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
-
-- ## Asynchronous Runtime
-
-  - [kprotty/zap](https://github.com/kprotty/zap) <img src="https://img.shields.io/github/stars/kprotty/zap?style=social"/> : An asynchronous runtime with a focus on performance and resource efficiency.
-
-  - [lithdew/pike](https://github.com/lithdew/pike) <img src="https://img.shields.io/github/stars/lithdew/pike?style=social"/> : Async I/O for Zig.
-
-  - [mitchellh/libxev](https://github.com/mitchellh/libxev) <img src="https://img.shields.io/github/stars/mitchellh/libxev?style=social"/> : libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
-
-- ## Communication Interface
-
-  - [MasterQ32/zig-serial](https://github.com/MasterQ32/zig-serial) <img src="https://img.shields.io/github/stars/MasterQ32/zig-serial?style=social"/> : Serial port configuration library for Zig.
+  - [frmdstryr/zhp](https://github.com/frmdstryr/zhp) <img src="https://img.shields.io/github/stars/frmdstryr/zhp?style=social"/> : frmdstryr/zhp.
 
 
-- ## Data Structure and Algorithm
 
-  - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project 《Hello, Algorithm》|《 Hello，算法 》 about data structures and algorithms.
-
-
-- ## GUI
+## GUI
 
   - [capy-ui/capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Library for easily making cross-platform native GUIs.
