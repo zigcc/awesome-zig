@@ -26,6 +26,8 @@
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
+  - [Machine Learning](#machine-learning)
+    - [ML Framework](#ml-framework)
   - [Web Framework](#web-framework)
   - [GUI](#gui)
 
@@ -206,6 +208,8 @@
 
   - [ziglibs/zgl](https://github.com/ziglibs/zgl) <img src="https://img.shields.io/github/stars/ziglibs/zgl?style=social"/> : Zig OpenGL Wrapper.
 
+  - [MasterQ32/SDL.zig](https://github.com/MasterQ32/SDL.zig) <img src="https://img.shields.io/github/stars/MasterQ32/SDL.zig?style=social"/> : A shallow wrapper around SDL that provides object API and error handling.
+
   - [MasterQ32/zig-opengl](https://github.com/MasterQ32/zig-opengl) <img src="https://img.shields.io/github/stars/MasterQ32/zig-opengl?style=social"/> : OpenGL binding generator based on the opengl registry.
 
   - [MasterQ32/zero-graphics](https://github.com/MasterQ32/zero-graphics) <img src="https://img.shields.io/github/stars/MasterQ32/zero-graphics?style=social"/> : Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web.
@@ -214,6 +218,7 @@
 
    - [JonSnowbd/ZT](https://github.com/JonSnowbd/ZT) <img src="https://img.shields.io/github/stars/JonSnowbd/ZT?style=social"/> : A zig based Imgui Application framework.
 
+   - [craftlinks/zig_learn_opengl](https://github.com/craftlinks/zig_learn_opengl) <img src="https://img.shields.io/github/stars/craftlinks/zig_learn_opengl?style=social"/> : Follow the Learn-OpenGL book using Zig.
 
 
 ## Scientific Computation
@@ -236,6 +241,8 @@
   - [zigimg/zigimg](https://github.com/zigimg/zigimg) <img src="https://img.shields.io/github/stars/zigimg/zigimg?style=social"/> : Zig library for reading and writing different image formats.
 
   - [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) <img src="https://img.shields.io/github/stars/ryoppippi/zigcv?style=social"/> : opencv bindings for zig.
+
+  - [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) <img src="https://img.shields.io/github/stars/kassane/libvlc-zig?style=social"/> : Zig bindings for libVLC media framework. 
 
 
 
@@ -263,6 +270,17 @@
   - [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) <img src="https://img.shields.io/github/stars/wendigojaeger/ZigGBA?style=social"/> : Work in progress SDK for creating Game Boy Advance games using Zig programming language. 
 
   - [prime31/zig-gamekit](https://github.com/prime31/zig-gamekit) <img src="https://img.shields.io/github/stars/prime31/zig-gamekit?style=social"/> : Companion repo for zig-renderkit for making 2D games.
+
+  - [Jack-Ji/jok](https://github.com/Jack-Ji/jok) <img src="https://img.shields.io/github/stars/Jack-Ji/jok?style=social"/> : A minimal 2d/3d game framework for zig.
+
+
+
+## Machine Learning
+
+  - ### ML Framework
+
+    - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
+
 
 
 
