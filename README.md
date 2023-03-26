@@ -13,6 +13,7 @@
     - [Blogs](#blogs)
   - [Package Manager](#package-manager)
   - [Asynchronous Runtime](#asynchronous-runtime)
+  - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Embedded Development](#embedded-development)
   - [Universal Operating System](#universal-operating-system)
   - [Robot Operating System](#robot-operating-system)
@@ -50,8 +51,6 @@
     - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
 
     - [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) : A half-hour to learn Zig.
-
-    - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project 《Hello, Algorithm》|《 Hello，算法 》 about data structures and algorithms.
 
 
   - ### Awesome List
@@ -99,6 +98,19 @@
   - [lithdew/pike](https://github.com/lithdew/pike) <img src="https://img.shields.io/github/stars/lithdew/pike?style=social"/> : Async I/O for Zig.
 
   - [mitchellh/libxev](https://github.com/mitchellh/libxev) <img src="https://img.shields.io/github/stars/mitchellh/libxev?style=social"/> : libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
+
+
+
+## Data Structure and Algorithm 
+
+  - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project 《Hello, Algorithm》|《 Hello，算法 》 about data structures and algorithms.
+
+  - [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) <img src="https://img.shields.io/github/stars/JakubSzark/zig-string?style=social"/> : Zig String (A UTF-8 String Library). This library is a UTF-8 compatible string library for the Zig programming language. 
+
+  - [jecolon/zigstr](https://github.com/jecolon/zigstr) <img src="https://img.shields.io/github/stars/jecolon/zigstr?style=social"/> : Zigstr is a UTF-8 string type for Zig programs. 
+
+  - [mitchellh/zig-graph](https://github.com/mitchellh/zig-graph) <img src="https://img.shields.io/github/stars/mitchellh/zig-graph?style=social"/> : Directed graph data structure for Zig. 
+
 
 
 ## Embedded Development
@@ -151,6 +163,9 @@
   - [jacobperron/rclzig](https://github.com/jacobperron/rclzig) <img src="https://img.shields.io/github/stars/jacobperron/rclzig?style=social"/> : ROS 2 client library in Zig. 
 
   - [luickk/MinimalRoboticsPlatform](https://github.com/luickk/MinimalRoboticsPlatform) <img src="https://img.shields.io/github/stars/luickk/MinimalRoboticsPlatform?style=social"/> : MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development. 
+
+
+
 
 
 
