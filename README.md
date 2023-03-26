@@ -37,12 +37,11 @@
 
     - [Zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://andrewkelley.me/)
 
+    - [Zig std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
 
   - ### Learning Resources
 
     - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
-
-    - [Zig Standard Library](https://ziglang.org/documentation/master/std/#root) : Zig Standard Library.
 
     - [ziglearn](https://ziglearn.org/) : ziglearn.org.
 
