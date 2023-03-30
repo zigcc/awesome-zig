@@ -80,6 +80,10 @@
       - [202211 | 0.10 横空出世](https://zigcc.github.io/monthly/202211/)
       - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
       - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
+    - [CoRecursive](https://corecursive.com/)
+      - [Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
+    - [matklad](https://matklad.github.io/)
+      - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 
 
 
@@ -119,6 +123,8 @@
   - [Vexu/bog](https://github.com/Vexu/bog) <img src="https://img.shields.io/github/stars/Vexu/bog?style=social"/> : Small, strongly typed, embeddable language. 
 
   - [ZigEmbeddedGroup/MicroZig](https://github.com/ZigEmbeddedGroup/microzig) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/microzig?style=social"/> : Unified abstraction layer and HAL for several microcontrollers.
+
+  - [ZigEmbeddedGroup/raspberrypi-rp2040](https://github.com/ZigEmbeddedGroup/raspberrypi-rp2040) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/raspberrypi-rp2040?style=social"/> : MicroZig Hardware Support Package for Raspberry Pi RP2040.
 
   - [nmeum/zig-riscv-embedded](https://github.com/nmeum/zig-riscv-embedded) <img src="https://img.shields.io/github/stars/nmeum/zig-riscv-embedded?style=social"/> : Experimental Zig-based CoAP node for the HiFive1 RISC-V board.
 
