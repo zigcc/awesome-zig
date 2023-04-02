@@ -29,6 +29,7 @@
   - [Machine Learning](#machine-learning)
     - [ML Framework](#ml-framework)
   - [Web Framework](#web-framework)
+  - [WebAssembly Runtime](#webAssembly-runtime)
   - [GUI](#gui)
 
 
@@ -297,6 +298,17 @@
 
 
 
+## WebAssembly Runtime
+
+  - [zware](https://github.com/malcolmstill/zware) <img src="https://img.shields.io/github/stars/malcolmstill/zware?style=social"/> : Zig WebAssembly Runtime Engine. zware is a library for executing WebAssembly embedded in [Zig](https://ziglang.org/) programs.
+
+  - [wazm](https://github.com/fengb/wazm) <img src="https://img.shields.io/github/stars/fengb/wazm?style=social"/> : wazm — Web Assembly Zig Machine.
+
+  - [zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) <img src="https://img.shields.io/github/stars/shritesh/zig-wasm-dom?style=social"/> : Zig + WebAssembly + JS + DOM.
+
+  - [wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasmtime-zig?style=social"/> : Zig embedding of Wasmtime.
+
+
 ## GUI
 
-  - [capy-ui/capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Library for easily making cross-platform native GUIs.
+  - [capy-ui/capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
