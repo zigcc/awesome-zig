@@ -12,18 +12,21 @@
     - [Community](#community)
     - [Blogs](#blogs)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
+  - [Memory Allocator](#memory-allocator)
   - [Package Manager](#package-manager)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
   - [Universal Operating System](#universal-operating-system)
   - [Robot Operating System](#robot-operating-system)
   - [FFI Bindings](#ffi-bindings)
-  - [GPU Integration](#gpu-integration)
-  - [Graphics Library](#graphics-library) 
+  - [GPU Computation](#gpu-computation)
+  - [Graphics Library](#graphics-library)
+  - [Date and Time](#date-and-time)
   - [Scientific Computation](#scientific-computation)
     - [Linear Algebra](#linear-algebra)
-  - [Image Processing](#image-processing)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
+  - [Text Processing](#text-processing)
+  - [Image and Video Processing](#image-and-video-processing)
   - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
   - [Machine Learning](#machine-learning)
@@ -46,9 +49,7 @@
 
     - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
 
-    - [ziglearn](https://ziglearn.org/) : ziglearn.org.
-
-    - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) <img src="https://img.shields.io/github/stars/Sobeston/ziglearn?style=social"/> : Repo for https://ziglearn.org content. Get up to speed with Zig quickly.
+    - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) <img src="https://img.shields.io/github/stars/Sobeston/ziglearn?style=social"/> : Repo for [https://ziglearn.org](https://ziglearn.org/) content. Get up to speed with Zig quickly.
 
     - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
 
@@ -97,6 +98,37 @@
 
   - [mitchellh/zig-graph](https://github.com/mitchellh/zig-graph) <img src="https://img.shields.io/github/stars/mitchellh/zig-graph?style=social"/> : Directed graph data structure for Zig. 
   
+  - [alichraghi/zort](https://github.com/alichraghi/zort) <img src="https://img.shields.io/github/stars/alichraghi/zort?style=social"/> : Zort: Sorting algorithms in zig.
+
+  - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) <img src="https://img.shields.io/github/stars/TheAlgorithms/Zig?style=social"/> : All Algorithms implemented in Zig.
+
+
+
+## Memory Allocator
+
+  - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) <img src="https://img.shields.io/github/stars/mdsteele/ziegfried?style=social"/> : A general-purpose memory allocator for Zig.
+
+  - [fengb/zee_alloc](https://github.com/fengb/zee_alloc) <img src="https://img.shields.io/github/stars/fengb/zee_alloc?style=social"/> : tiny Zig allocator primarily targeting WebAssembly.
+
+  - [suirad/Seal](https://github.com/suirad/Seal) <img src="https://img.shields.io/github/stars/suirad/Seal?style=social"/> : An allocator that wraps another allocator and detects if memory is leaked after usage.
+
+  - [rvcas/mpool](https://github.com/rvcas/mpool) <img src="https://img.shields.io/github/stars/rvcas/mpool?style=social"/> : A memory pool library written in Zig.
+
+  - [nsmryan/zig_sealed_and_compact](https://github.com/nsmryan/zig_sealed_and_compact) <img src="https://img.shields.io/github/stars/nsmryan/zig_sealed_and_compact?style=social"/> : Zig functions for memory management.
+
+  - [suirad/adma](https://github.com/suirad/adma) <img src="https://img.shields.io/github/stars/suirad/adma?style=social"/> : A general purpose, multithreaded capable slab allocator for Zig.
+
+  - [hmusgrave/zcirc](https://github.com/hmusgrave/zcirc) <img src="https://img.shields.io/github/stars/hmusgrave/zcirc?style=social"/> : A dynamic circular buffer allocator for zig.
+
+  - [dweiller/zig-composable-allocators](https://github.com/dweiller/zig-composable-allocators) <img src="https://img.shields.io/github/stars/dweiller/zig-composable-allocators?style=social"/> : Comptime-generic composable allocators.
+
+  - [bcrist/Zig-TempAllocator](https://github.com/bcrist/Zig-TempAllocator) <img src="https://img.shields.io/github/stars/bcrist/Zig-TempAllocator?style=social"/> : Arena allocator for interactive programs and simulations.
+
+  - [shintales/colloseum](https://github.com/shintales/colloseum) <img src="https://img.shields.io/github/stars/shintales/colloseum?style=social"/> : A generational arena allocator using Zig multi array list.
+
+  - [rdunnington/zig-stable-array](https://github.com/rdunnington/zig-stable-array) <img src="https://img.shields.io/github/stars/rdunnington/zig-stable-array?style=social"/> : Address-stable array with a max size that allocates directly from virtual memory.
+
+
 
 ## Package Manager
 
@@ -106,25 +138,40 @@
 
   - [marler8997/zigup](https://github.com/marler8997/zigup) <img src="https://img.shields.io/github/stars/marler8997/zigup?style=social"/> : Download and manage zig compilers.
 
+  - [zigtools/zpm](https://github.com/zigtools/zpm) <img src="https://img.shields.io/github/stars/zigtools/zpm?style=social"/> : Zig package manager helper.
+
+  - [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig) <img src="https://img.shields.io/github/stars/cheetah/asdf-zig?style=social"/> : zig plugin for asdf version manager. [https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)
+
+  - [korandoru/setup-zig](https://github.com/korandoru/setup-zig) <img src="https://img.shields.io/github/stars/korandoru/setup-zig?style=social"/> : Set up your GitHub Actions workflow with a specific version of Zig.
+
+
+
 
 ## Asynchronous Runtime
+
+  - [mitchellh/libxev](https://github.com/mitchellh/libxev) <img src="https://img.shields.io/github/stars/mitchellh/libxev?style=social"/> : libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
+
 
   - [kprotty/zap](https://github.com/kprotty/zap) <img src="https://img.shields.io/github/stars/kprotty/zap?style=social"/> : An asynchronous runtime with a focus on performance and resource efficiency.
 
   - [lithdew/pike](https://github.com/lithdew/pike) <img src="https://img.shields.io/github/stars/lithdew/pike?style=social"/> : Async I/O for Zig.
 
-  - [mitchellh/libxev](https://github.com/mitchellh/libxev) <img src="https://img.shields.io/github/stars/mitchellh/libxev?style=social"/> : libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
+
 
 
 ## Embedded Development
 
   - [Vexu/bog](https://github.com/Vexu/bog) <img src="https://img.shields.io/github/stars/Vexu/bog?style=social"/> : Small, strongly typed, embeddable language. 
 
-  - [ZigEmbeddedGroup/MicroZig](https://github.com/ZigEmbeddedGroup/microzig) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/microzig?style=social"/> : Unified abstraction layer and HAL for several microcontrollers.
+  - [MicroZig](https://github.com/ZigEmbeddedGroup/microzig) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/microzig?style=social"/> : Unified abstraction layer and HAL for several microcontrollers.
+
+  - [ZigEmbeddedGroup/stmicro-stm32](https://github.com/ZigEmbeddedGroup/stmicro-stm32) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/stmicro-stm32?style=social"/> : HAL for stm32 (STMicro) devices.
 
   - [ZigEmbeddedGroup/raspberrypi-rp2040](https://github.com/ZigEmbeddedGroup/raspberrypi-rp2040) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/raspberrypi-rp2040?style=social"/> : MicroZig Hardware Support Package for Raspberry Pi RP2040.
 
   - [nmeum/zig-riscv-embedded](https://github.com/nmeum/zig-riscv-embedded) <img src="https://img.shields.io/github/stars/nmeum/zig-riscv-embedded?style=social"/> : Experimental Zig-based CoAP node for the HiFive1 RISC-V board.
+
+  - [lupyuen/pinephone-nuttx](https://github.com/lupyuen/pinephone-nuttx) <img src="https://img.shields.io/github/stars/lupyuen/pinephone-nuttx?style=social"/> : Apache NuttX RTOS for PinePhone. Apache NuttX is a lightweight Real-Time Operating System (RTOS) that runs on PINE64 PinePhone.
 
   - [lupyuen/zig-bl602-nuttx](https://github.com/lupyuen/zig-bl602-nuttx) <img src="https://img.shields.io/github/stars/lupyuen/zig-bl602-nuttx?style=social"/> : Zig on RISC-V BL602 with Apache NuttX RTOS and LoRaWAN.
 
@@ -138,9 +185,10 @@
 
   - [eastonman/zesty-core](https://github.com/eastonman/zesty-core) <img src="https://img.shields.io/github/stars/eastonman/zesty-core?style=social"/> : A RISC-V OS written in Zig.
 
-  - [MasterQ32/zig-serial](https://github.com/MasterQ32/zig-serial) <img src="https://img.shields.io/github/stars/MasterQ32/zig-serial?style=social"/> : Serial port configuration library for Zig.
+  - [jtgoen/zig-chip-8](https://github.com/jtgoen/zig-chip-8) <img src="https://img.shields.io/github/stars/jtgoen/zig-chip-8?style=social"/> : Zig Implementation of a Chip-8 Emulator.
 
-  - [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasm-zig?style=social"/> : Common Wasm runtime binding to C API.
+
+
 
 
 
@@ -148,7 +196,7 @@
 
   - [ZystemOS/Pluto](https://github.com/ZystemOS/pluto) <img src="https://img.shields.io/github/stars/ZystemOS/pluto?style=social"/> : An x86 kernel written in Zig.
 
-  - [davidgm94/rise](https://github.com/davidgm94/rise) <img src="https://img.shields.io/github/stars/davidgm94/rise?style=social"/> : Trying to write a new operating system from scratch in Zig.
+  - [davidgm94/rise](https://github.com/davidgm94/rise) <img src="https://img.shields.io/github/stars/davidgm94/rise?style=social"/> : Rise: an attempt to write a better operating system.
 
   - [iguessthislldo/georgios](https://github.com/iguessthislldo/georgios) <img src="https://img.shields.io/github/stars/iguessthislldo/georgios?style=social"/> : Hobby Operating System.
 
@@ -159,6 +207,9 @@
   - [andrewrk/HellOS](https://github.com/andrewrk/HellOS) <img src="https://img.shields.io/github/stars/andrewrk/HellOS?style=social"/> : "hello world" x86 kernel example.
 
   - [marlersoft/zigwin32](https://github.com/marlersoft/zigwin32) <img src="https://img.shields.io/github/stars/marlersoft/zigwin32?style=social"/> : A complete autogenerated set of Zig bindings for the Win32 API.
+
+  - [a1393323447/zcore-os](https://github.com/a1393323447/zcore-os) <img src="https://img.shields.io/github/stars/a1393323447/zcore-os?style=social"/> : A RISC-V OS written in Zig. rCore-OS translated in Zig language.
+
 
 
 ## Robot Operating System
@@ -179,19 +230,23 @@
 
   - [suirad/zig-header-gen](https://github.com/suirad/zig-header-gen) <img src="https://img.shields.io/github/stars/suirad/zig-header-gen?style=social"/> : Automatically generate headers/bindings for other languages from Zig code.
 
+  - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) <img src="https://img.shields.io/github/stars/natanalt/zig2rs?style=social"/> : use zig code in rust - a medium effort shitpost.
+
+  - [emilHof/zigc](https://github.com/emilHof/zigc) <img src="https://img.shields.io/github/stars/emilHof/zigc?style=social"/> : Zigc aims to provide the basic functionality for compiling and linking [Zig](https://ziglang.org/) libraries into your [Rust](https://www.rust-lang.org/) projects.
+
   - [DutchGhost/zigiffy](https://github.com/DutchGhost/zigiffy) <img src="https://img.shields.io/github/stars/DutchGhost/zigiffy?style=social"/> : Rust FFI with Zig.
 
   - [DutchGhost/rustiffy](https://github.com/DutchGhost/rustiffy) <img src="https://img.shields.io/github/stars/DutchGhost/rustiffy?style=social"/> : Zig FFI with Rust.
+  
+  - [nekodjin/rusty-ziguanas](https://github.com/nekodjin/rusty-ziguanas) <img src="https://img.shields.io/github/stars/nekodjin/rusty-ziguanas?style=social"/> : Experiments in Zig-Rust and Rust-Zig FFI.
 
-  - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) <img src="https://img.shields.io/github/stars/natanalt/zig2rs?style=social"/> : use zig code in rust - a medium effort shitpost.
+  - [jeremyBanks/zig_with_cargo](https://github.com/jeremyBanks/zig_with_cargo) <img src="https://img.shields.io/github/stars/jeremyBanks/zig_with_cargo?style=social"/> : Building Zig libraries in a Rust Cargo package.
 
   - [katafrakt/zig-ruby](https://github.com/katafrakt/zig-ruby) <img src="https://img.shields.io/github/stars/katafrakt/zig-ruby?style=social"/> : This repo contains an experiment of building a Ruby extension with Zig programming language. It implements a slightly altered version of 100 doors from Rosetta Code.
 
-  - [emilHof/zigc](https://github.com/emilHof/zigc) <img src="https://img.shields.io/github/stars/emilHof/zigc?style=social"/> : A tool for compiling and linking Zig libraries to Rust projects.
 
 
-
-## GPU Integration 
+## GPU Computation 
 
   - [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) <img src="https://img.shields.io/github/stars/Snektron/vulkan-zig?style=social"/> : Vulkan binding generator for Zig.
 
@@ -202,6 +257,9 @@
   - [gwenzek/cudaz](https://github.com/gwenzek/cudaz) <img src="https://img.shields.io/github/stars/gwenzek/cudaz?style=social"/> : Toy Cuda wrapper for Zig.
 
   - [ckrowland/simulations](https://github.com/ckrowland/simulations) <img src="https://img.shields.io/github/stars/ckrowland/simulations?style=social"/> : GPU accelerated visual simulations.
+
+  - [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) <img src="https://img.shields.io/github/stars/Avokadoen/zig_vulkan?style=social"/> : Toying with vulkan and zig.
+
 
 
 
@@ -214,6 +272,8 @@
 
   - [MasterQ32/SDL.zig](https://github.com/MasterQ32/SDL.zig) <img src="https://img.shields.io/github/stars/MasterQ32/SDL.zig?style=social"/> : A shallow wrapper around SDL that provides object API and error handling.
 
+  - [andrewrk/SDL](https://github.com/andrewrk/SDL) <img src="https://img.shields.io/github/stars/andrewrk/SDL?style=social"/> : SDL with the build system replaced by Zig. [libsdl.org](https://libsdl.org/)
+
   - [MasterQ32/zig-opengl](https://github.com/MasterQ32/zig-opengl) <img src="https://img.shields.io/github/stars/MasterQ32/zig-opengl?style=social"/> : OpenGL binding generator based on the opengl registry.
 
   - [MasterQ32/zero-graphics](https://github.com/MasterQ32/zero-graphics) <img src="https://img.shields.io/github/stars/MasterQ32/zero-graphics?style=social"/> : Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web.
@@ -223,6 +283,23 @@
    - [JonSnowbd/ZT](https://github.com/JonSnowbd/ZT) <img src="https://img.shields.io/github/stars/JonSnowbd/ZT?style=social"/> : A zig based Imgui Application framework.
 
    - [craftlinks/zig_learn_opengl](https://github.com/craftlinks/zig_learn_opengl) <img src="https://img.shields.io/github/stars/craftlinks/zig_learn_opengl?style=social"/> : Follow the Learn-OpenGL book using Zig.
+
+   - [ashpil/moonshine](https://github.com/ashpil/moonshine) <img src="https://img.shields.io/github/stars/ashpil/moonshine?style=social"/> : Moonshine: A general purpose ray traced renderer built with Zig + Vulkan.
+
+   - [fabioarnold/nanovg-zig](https://github.com/fabioarnold/nanovg-zig) <img src="https://img.shields.io/github/stars/fabioarnold/nanovg-zig?style=social"/> : [NanoVG](https://github.com/memononen/nanovg) - Zig Version. A small anti-aliased hardware-accelerated vector graphics library.
+
+   - [fubark/cosmic](https://github.com/fubark/cosmic) <img src="https://img.shields.io/github/stars/fubark/cosmic?style=social"/> : A platform for computing and creating applications. [cosmic.ooo](https://www.cosmic.ooo/)
+
+
+
+
+
+## Date and Time
+
+  - [scento/zig-date](https://github.com/scento/zig-date) <img src="https://img.shields.io/github/stars/scento/zig-date?style=social"/> : 🕒 time and date for Zig. zig-date is a date and time library for the Zig, inspired by the popular Rust library [chrono](https://github.com/chronotope/chrono).
+
+
+
 
 
 ## Scientific Computation
@@ -239,15 +316,7 @@
 
     - [BanchouBoo/algae](https://github.com/BanchouBoo/algae) <img src="https://img.shields.io/github/stars/BanchouBoo/algae?style=social"/> : Zig math library focused on game development.
 
-    
-## Image Processing
-
-  - [zigimg/zigimg](https://github.com/zigimg/zigimg) <img src="https://img.shields.io/github/stars/zigimg/zigimg?style=social"/> : Zig library for reading and writing different image formats.
-
-  - [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) <img src="https://img.shields.io/github/stars/ryoppippi/zigcv?style=social"/> : opencv bindings for zig.
-
-  - [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) <img src="https://img.shields.io/github/stars/kassane/libvlc-zig?style=social"/> : Zig bindings for libVLC media framework. 
-
+    - [JungerBoyo/zmath](https://github.com/JungerBoyo/zmath) <img src="https://img.shields.io/github/stars/JungerBoyo/zmath?style=social"/> : simple linear algebra library written in zig.
 
 
 ## Sensor and Communication Interface
@@ -255,6 +324,29 @@
   - [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) <img src="https://img.shields.io/github/stars/MasterQ32/zig-network?style=social"/> : A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP.
 
   - [MasterQ32/zig-serial](https://github.com/MasterQ32/zig-serial) <img src="https://img.shields.io/github/stars/MasterQ32/zig-serial?style=social"/> : Serial port configuration library for Zig.
+
+
+
+## Text Processing
+
+  - [jecolon/ziglyph](https://github.com/jecolon/ziglyph) <img src="https://img.shields.io/github/stars/jecolon/ziglyph?style=social"/> : Unicode text processing for the Zig programming language.
+
+  - [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) <img src="https://img.shields.io/github/stars/kubkon/zig-yaml?style=social"/> : YAML parser for Zig.
+
+  - [nektro/zig-json](https://github.com/nektro/zig-json) <img src="https://img.shields.io/github/stars/nektro/zig-json?style=social"/> : A JSON library for inspecting arbitrary values.
+
+
+
+## Image and Video Processing
+
+  - [zigimg/zigimg](https://github.com/zigimg/zigimg) <img src="https://img.shields.io/github/stars/zigimg/zigimg?style=social"/> : Zig library for reading and writing different image formats.
+
+  - [ryoppippi/zigcv](https://github.com/ryoppippi/zigcv) <img src="https://img.shields.io/github/stars/ryoppippi/zigcv?style=social"/> : opencv bindings for zig.
+
+  - [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) <img src="https://img.shields.io/github/stars/kassane/libvlc-zig?style=social"/> : Zig bindings for libVLC media framework. 
+
+  - [marler8997/image-viewer](https://github.com/marler8997/image-viewer) <img src="https://img.shields.io/github/stars/marler8997/image-viewer?style=social"/> : An image-viewer experiment written in Zig. 
+
 
 
 ## Finite State Machine
@@ -277,6 +369,13 @@
 
   - [Jack-Ji/jok](https://github.com/Jack-Ji/jok) <img src="https://img.shields.io/github/stars/Jack-Ji/jok?style=social"/> : A minimal 2d/3d game framework for zig.
 
+  - [paoda/zba](https://github.com/paoda/zba) <img src="https://img.shields.io/github/stars/paoda/zba?style=social"/> : Game Boy Advance Emulator. Yes, I'm awful with project names.
+
+  - [star-tek-mb/Paradise](https://github.com/star-tek-mb/Paradise) <img src="https://img.shields.io/github/stars/star-tek-mb/Paradise?style=social"/> : Paradise is a wasm first game engine written in zig.
+
+  - [zkburke/quanta](https://github.com/zkburke/quanta) <img src="https://img.shields.io/github/stars/zkburke/quanta?style=social"/> : A game engine/framework written in and for zig.
+
+
 
 
 ## Machine Learning
@@ -292,9 +391,13 @@
 
   - [oven-sh/bun](https://github.com/oven-sh/bun) <img src="https://img.shields.io/github/stars/oven-sh/bun?style=social"/> : Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
-  - [mitchellh/zig-js](https://github.com/mitchellh/zig-js) <img src="https://img.shields.io/github/stars/mitchellh/zig-js?style=social"/> : Access the JS host environment from Zig compiled to WebAssembly.
-
   - [frmdstryr/zhp](https://github.com/frmdstryr/zhp) <img src="https://img.shields.io/github/stars/frmdstryr/zhp?style=social"/> : frmdstryr/zhp.
+
+  - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) <img src="https://img.shields.io/github/stars/karlseguin/websocket.zig?style=social"/> : A websocket implementation for zig.
+
+
+
+
 
 
 
@@ -306,9 +409,26 @@
 
   - [zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) <img src="https://img.shields.io/github/stars/shritesh/zig-wasm-dom?style=social"/> : Zig + WebAssembly + JS + DOM.
 
-  - [wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasmtime-zig?style=social"/> : Zig embedding of Wasmtime.
+  - [mitchellh/zig-js](https://github.com/mitchellh/zig-js) <img src="https://img.shields.io/github/stars/mitchellh/zig-js?style=social"/> : Access the JS host environment from Zig compiled to WebAssembly.
+
+  - [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasm-zig?style=social"/> : Common Wasm runtime binding to C API.
+
+  - [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasmtime-zig?style=social"/> : Zig embedding of Wasmtime.
+
+
+
 
 
 ## GUI
 
   - [capy-ui/capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
+
+  - [david-vanderson/gui](https://github.com/david-vanderson/gui) <img src="https://img.shields.io/github/stars/david-vanderson/gui?style=social"/> : Easy to Integrate Immediate Mode GUI for Zig.
+
+  - [Aransentin/ZWL](https://github.com/Aransentin/ZWL) <img src="https://img.shields.io/github/stars/Aransentin/ZWL?style=social"/> : A Zig Windowing Library.
+
+  - [batiati/IUPforZig](https://github.com/batiati/IUPforZig) <img src="https://img.shields.io/github/stars/batiati/IUPforZig?style=social"/> : [IUP (Portable User Interface Toolkit)](https://webserver2.tecgraf.puc-rio.br/iup/) bindings for the Zig language.
+
+  - [kassane/qml_zig](https://github.com/kassane/qml_zig) <img src="https://img.shields.io/github/stars/kassane/qml_zig?style=social"/> : QML bindings for the Zig programming language.
+
+  - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) <img src="https://img.shields.io/github/stars/donpdonp/zootdeck?style=social"/> : Fediverse GTK Desktop Reader. [donpdonp.github.io/zootdeck/](https://donpdonp.github.io/zootdeck/)
