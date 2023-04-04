@@ -1,4 +1,4 @@
-# Awesome-Zig
+# Awesome-Zig-List
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 🔥🔥🔥 This repository lists some awesome public Zig programming language projects.
@@ -64,7 +64,7 @@
 
     - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) <img src="https://img.shields.io/github/stars/nrdmn/awesome-zig?style=social"/> : Awesome Zig. 
 
-    - [sjinzh/awesome-zig](https://github.com/sjinzh/awesome-zig) <img src="https://img.shields.io/github/stars/sjinzh/awesome-zig?style=social"/> : 🔥🔥🔥This repository lists some awesome public Zig programming language projects. 
+    - [sjinzh/awesome-zig-list](https://github.com/sjinzh/awesome-zig-list) <img src="https://img.shields.io/github/stars/sjinzh/awesome-zig-list?style=social"/> : 🔥🔥🔥This repository lists some awesome public Zig programming language projects. 
 
     - [rofrol/awesome-zig](https://github.com/rofrol/awesome-zig) <img src="https://img.shields.io/github/stars/rofrol/awesome-zig?style=social"/> : Everything I find about zig.
 
