@@ -4,7 +4,7 @@
 🔥🔥🔥 This repository lists some awesome public Zig programming language projects.
 
 ## Contents
-- [Awesome-Zig](#awesome-zig)
+- [Awesome-Zig-List](#awesome-zig-list)
   - [Summary](#summary)
     - [Official Zig](#official-zig)
     - [Learning Resources](#learning-resources)
