@@ -108,7 +108,7 @@
 
   - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) <img src="https://img.shields.io/github/stars/TheAlgorithms/Zig?style=social"/> : All Algorithms implemented in Zig.
 
-
+  - [ok-ryoko/multiring.zig](https://github.com/ok-ryoko/multiring.zig) <img src="https://img.shields.io/github/stars/ok-ryoko/multiring.zig?style=social"/> : Singly linked, cyclic and hierarchical abstract data type in Zig.
 
 
 ## Memory Allocator
@@ -152,6 +152,8 @@
   - [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig) <img src="https://img.shields.io/github/stars/cheetah/asdf-zig?style=social"/> : zig plugin for asdf version manager. [https://github.com/asdf-vm/asdf](https://github.com/asdf-vm/asdf)
 
   - [korandoru/setup-zig](https://github.com/korandoru/setup-zig) <img src="https://img.shields.io/github/stars/korandoru/setup-zig?style=social"/> : Set up your GitHub Actions workflow with a specific version of Zig.
+
+  - [thejoshwolfe/zig-download](https://github.com/thejoshwolfe/zig-download) <img src="https://img.shields.io/github/stars/thejoshwolfe/zig-download?style=social"/> : Tool for downloading precompiled zig tarballs from [https://ziglang.org/download/](https://ziglang.org/download/). This is basically the same thing as [zigup](https://github.com/marler8997/zigup), but I wrote this one as an exercise.
 
 
 
@@ -219,7 +221,7 @@
 
   - [a1393323447/zcore-os](https://github.com/a1393323447/zcore-os) <img src="https://img.shields.io/github/stars/a1393323447/zcore-os?style=social"/> : A RISC-V OS written in Zig. rCore-OS translated in Zig language.
 
-
+  - [b0bleet/zvisor](https://github.com/b0bleet/zvisor) <img src="https://img.shields.io/github/stars/b0bleet/zvisor?style=social"/> : Zvisor is an open-source hypervisor written in the Zig programming language, which provides a modern and efficient approach to systems programming.
 
 
 
@@ -254,6 +256,12 @@
   - [jeremyBanks/zig_with_cargo](https://github.com/jeremyBanks/zig_with_cargo) <img src="https://img.shields.io/github/stars/jeremyBanks/zig_with_cargo?style=social"/> : Building Zig libraries in a Rust Cargo package.
 
   - [katafrakt/zig-ruby](https://github.com/katafrakt/zig-ruby) <img src="https://img.shields.io/github/stars/katafrakt/zig-ruby?style=social"/> : This repo contains an experiment of building a Ruby extension with Zig programming language. It implements a slightly altered version of 100 doors from Rosetta Code.
+
+  - [natecraddock/ziglua](https://github.com/natecraddock/ziglua) <img src="https://img.shields.io/github/stars/natecraddock/ziglua?style=social"/> : Zig bindings for the Lua C API.
+
+  - [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) <img src="https://img.shields.io/github/stars/mitchellh/zig-objc?style=social"/> : Objective-C runtime bindings for Zig (Zig calling ObjC).
+
+
 
 
 
@@ -300,6 +308,9 @@
    - [fabioarnold/nanovg-zig](https://github.com/fabioarnold/nanovg-zig) <img src="https://img.shields.io/github/stars/fabioarnold/nanovg-zig?style=social"/> : [NanoVG](https://github.com/memononen/nanovg) - Zig Version. A small anti-aliased hardware-accelerated vector graphics library.
 
    - [fubark/cosmic](https://github.com/fubark/cosmic) <img src="https://img.shields.io/github/stars/fubark/cosmic?style=social"/> : A platform for computing and creating applications. [cosmic.ooo](https://www.cosmic.ooo/)
+
+   - [renerocksai/slides](https://github.com/renerocksai/slides) <img src="https://img.shields.io/github/stars/renerocksai/slides?style=social"/> : This project is both a case study and also marks my first steps in the programming language Zig, towards creating a simple but powerful [imgui](https://github.com/ocornut/imgui/wiki#about-the-imgui-paradigm) based, OpenGL-rendered slideshow app in Zig.
+
 
 
 
@@ -442,10 +453,12 @@
 
   - [david-vanderson/gui](https://github.com/david-vanderson/gui) <img src="https://img.shields.io/github/stars/david-vanderson/gui?style=social"/> : Easy to Integrate Immediate Mode GUI for Zig.
 
+  - [kassane/qml_zig](https://github.com/kassane/qml_zig) <img src="https://img.shields.io/github/stars/kassane/qml_zig?style=social"/> : QML bindings for the Zig programming language.
+
+  - [MoAlyousef/zfltk](https://github.com/MoAlyousef/zfltk) <img src="https://img.shields.io/github/stars/MoAlyousef/zfltk?style=social"/> : Zig bindings for the FLTK gui library.
+
   - [Aransentin/ZWL](https://github.com/Aransentin/ZWL) <img src="https://img.shields.io/github/stars/Aransentin/ZWL?style=social"/> : A Zig Windowing Library.
 
   - [batiati/IUPforZig](https://github.com/batiati/IUPforZig) <img src="https://img.shields.io/github/stars/batiati/IUPforZig?style=social"/> : [IUP (Portable User Interface Toolkit)](https://webserver2.tecgraf.puc-rio.br/iup/) bindings for the Zig language.
-
-  - [kassane/qml_zig](https://github.com/kassane/qml_zig) <img src="https://img.shields.io/github/stars/kassane/qml_zig?style=social"/> : QML bindings for the Zig programming language.
 
   - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) <img src="https://img.shields.io/github/stars/donpdonp/zootdeck?style=social"/> : Fediverse GTK Desktop Reader. [donpdonp.github.io/zootdeck/](https://donpdonp.github.io/zootdeck/)
