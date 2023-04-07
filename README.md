@@ -7,10 +7,9 @@
 - [Awesome-Zig-List](#awesome-zig-list)
   - [Summary](#summary)
     - [Official Zig](#official-zig)
-    - [Learning Resources](#learning-resources)
     - [Awesome List](#awesome-list)
     - [Community](#community)
-    - [Blogs](#blogs)
+    - [Learning Resources](#learning-resources)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
   - [Memory Allocator](#memory-allocator)
   - [Package Manager](#package-manager)
@@ -34,6 +33,7 @@
   - [Web Framework](#web-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
   - [GUI](#gui)
+  - [Blogs](#blogs)
 
 
 
@@ -44,16 +44,6 @@
     - [Zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://andrewkelley.me/)
 
     - [Zig std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
-
-  - ### Learning Resources
-
-    - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
-
-    - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) <img src="https://img.shields.io/github/stars/Sobeston/ziglearn?style=social"/> : Repo for [https://ziglearn.org](https://ziglearn.org/) content. Get up to speed with Zig quickly.
-
-    - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
-
-    - [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) : A half-hour to learn Zig.
 
 
   - ### Awesome List
@@ -69,28 +59,23 @@
     - [rofrol/awesome-zig](https://github.com/rofrol/awesome-zig) <img src="https://img.shields.io/github/stars/rofrol/awesome-zig?style=social"/> : Everything I find about zig.
 
 
-
   - ### Community
 
     - [Zig NEWS](https://zig.news/) : Zig NEWS is a community of amazing programmers.
     - [Zig 语言中文社区](https://zigcc.github.io/) : Zig 语言中文社区，致力于分享、传播 Zig 语言在中文用户内的使用。
 
 
+  - ### Learning Resources
 
-  - ### Blogs
+    - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
 
-    - [Zig 语言中文社区](https://zigcc.github.io/)
-      - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
-      - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)   
-      - [202209 | 锋芒毕露](https://zigcc.github.io/monthly/202209/)  
-      - [202210 | 0.10 蓄势待发](https://zigcc.github.io/monthly/202209/) 
-      - [202211 | 0.10 横空出世](https://zigcc.github.io/monthly/202211/)
-      - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
-      - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
-    - [CoRecursive](https://corecursive.com/)
-      - [Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
-    - [matklad](https://matklad.github.io/)
-      - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+    - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) <img src="https://img.shields.io/github/stars/Sobeston/ziglearn?style=social"/> : Repo for [https://ziglearn.org](https://ziglearn.org/) content. Get up to speed with Zig quickly.
+
+    - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
+
+    - [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) : A half-hour to learn Zig.
+
+
 
 
 
@@ -261,6 +246,7 @@
 
   - [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) <img src="https://img.shields.io/github/stars/mitchellh/zig-objc?style=social"/> : Objective-C runtime bindings for Zig (Zig calling ObjC).
 
+  - [ExpidusOS/zig-flutter](https://github.com/ExpidusOS/zig-flutter) <img src="https://img.shields.io/github/stars/ExpidusOS/zig-flutter?style=social"/> : Flutter w/ Zig.
 
 
 
@@ -360,6 +346,7 @@
 
   - [MahBestBro/regex](https://github.com/MahBestBro/regex) <img src="https://img.shields.io/github/stars/MahBestBro/regex?style=social"/> : A single file regex library written in and for Zig.
 
+  - [karlseguin/log.zig](https://github.com/karlseguin/log.zig) <img src="https://img.shields.io/github/stars/karlseguin/log.zig?style=social"/> : A structured logger for Zig.
 
 
 
@@ -431,6 +418,8 @@
 
 ## WebAssembly Runtime
 
+  - [zig-wasi](https://github.com/andrewrk/zig-wasi) <img src="https://img.shields.io/github/stars/andrewrk/zig-wasi?style=social"/> : Minimal WASI Interpreter.
+
   - [zware](https://github.com/malcolmstill/zware) <img src="https://img.shields.io/github/stars/malcolmstill/zware?style=social"/> : Zig WebAssembly Runtime Engine. zware is a library for executing WebAssembly embedded in [Zig](https://ziglang.org/) programs.
 
   - [wazm](https://github.com/fengb/wazm) <img src="https://img.shields.io/github/stars/fengb/wazm?style=social"/> : wazm — Web Assembly Zig Machine.
@@ -462,3 +451,22 @@
   - [batiati/IUPforZig](https://github.com/batiati/IUPforZig) <img src="https://img.shields.io/github/stars/batiati/IUPforZig?style=social"/> : [IUP (Portable User Interface Toolkit)](https://webserver2.tecgraf.puc-rio.br/iup/) bindings for the Zig language.
 
   - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) <img src="https://img.shields.io/github/stars/donpdonp/zootdeck?style=social"/> : Fediverse GTK Desktop Reader. [donpdonp.github.io/zootdeck/](https://donpdonp.github.io/zootdeck/)
+
+
+
+## Blogs
+
+  - [Zig 语言中文社区](https://zigcc.github.io/)
+    - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
+    - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)   
+    - [202209 | 锋芒毕露](https://zigcc.github.io/monthly/202209/)  
+    - [202210 | 0.10 蓄势待发](https://zigcc.github.io/monthly/202209/) 
+    - [202211 | 0.10 横空出世](https://zigcc.github.io/monthly/202211/)
+    - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
+    - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
+  - [CoRecursive](https://corecursive.com/)
+    - [Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
+  - [matklad](https://matklad.github.io/)
+    - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+  - 微信公众号「CSDN」
+    - [C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
