@@ -465,8 +465,8 @@
     - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
     - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
   - [CoRecursive](https://corecursive.com/)
-    - [Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
+    - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
   - [matklad](https://matklad.github.io/)
-    - [Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+    - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
   - 微信公众号「CSDN」
-    - [C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
+    - [2023-04-07，C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
