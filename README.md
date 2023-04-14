@@ -466,6 +466,7 @@
     - [202211 | 0.10 横空出世](https://zigcc.github.io/monthly/202211/)
     - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
     - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
+    - [202303 | 并发编译](https://zigcc.github.io/monthly/202303/)
   - [CoRecursive](https://corecursive.com/)
     - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
   - [matklad](https://matklad.github.io/)
