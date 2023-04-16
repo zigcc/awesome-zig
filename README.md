@@ -185,7 +185,7 @@
 
   - [jtgoen/zig-chip-8](https://github.com/jtgoen/zig-chip-8) <img src="https://img.shields.io/github/stars/jtgoen/zig-chip-8?style=social"/> : Zig Implementation of a Chip-8 Emulator.
 
-
+  - [kivikakk/daintree](https://github.com/kivikakk/daintree) <img src="https://img.shields.io/github/stars/kivikakk/daintree?style=social"/> : ARMv8-A/RISC-V kernel (with UEFI bootloader). An operating system plus a UEFI bootloader, all written in Zig.
 
 
 
@@ -209,6 +209,9 @@
   - [a1393323447/zcore-os](https://github.com/a1393323447/zcore-os) <img src="https://img.shields.io/github/stars/a1393323447/zcore-os?style=social"/> : A RISC-V OS written in Zig. rCore-OS translated in Zig language.
 
   - [b0bleet/zvisor](https://github.com/b0bleet/zvisor) <img src="https://img.shields.io/github/stars/b0bleet/zvisor?style=social"/> : Zvisor is an open-source hypervisor written in the Zig programming language, which provides a modern and efficient approach to systems programming.
+
+  - [suisuss/ZagOS](https://github.com/suisuss/ZagOS) <img src="https://img.shields.io/github/stars/suisuss/ZagOS?style=social"/> : Zig based OS with multiple firmware + bootloader options.
+
 
 
 
@@ -340,11 +343,15 @@
 
 ## Text Processing
 
+  - [getty-zig/getty](https://github.com/getty-zig/getty) <img src="https://img.shields.io/github/stars/getty-zig/getty?style=social"/> : Getty is a framework for building robust, optimal, and reusable (de)serializers in Zig. [getty.so](https://getty.so/)
+
   - [jecolon/ziglyph](https://github.com/jecolon/ziglyph) <img src="https://img.shields.io/github/stars/jecolon/ziglyph?style=social"/> : Unicode text processing for the Zig programming language.
 
   - [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) <img src="https://img.shields.io/github/stars/kubkon/zig-yaml?style=social"/> : YAML parser for Zig.
 
   - [nektro/zig-json](https://github.com/nektro/zig-json) <img src="https://img.shields.io/github/stars/nektro/zig-json?style=social"/> : A JSON library for inspecting arbitrary values.
+
+  - [getty-zig/json](https://github.com/getty-zig/json) <img src="https://img.shields.io/github/stars/getty-zig/json?style=social"/> : Getty JSON is a (de)serialization library for the JSON data format.
 
   - [MahBestBro/regex](https://github.com/MahBestBro/regex) <img src="https://img.shields.io/github/stars/MahBestBro/regex?style=social"/> : A single file regex library written in and for Zig.
 
@@ -401,7 +408,7 @@
 
     - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
 
-
+    - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
 
 ## Web Framework
@@ -412,7 +419,7 @@
 
   - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) <img src="https://img.shields.io/github/stars/karlseguin/websocket.zig?style=social"/> : A websocket implementation for zig.
 
-
+  - [nikneym/ws](https://github.com/nikneym/ws) <img src="https://img.shields.io/github/stars/nikneym/ws?style=social"/> : WebSocket library for Zig ⚡
 
 
 
