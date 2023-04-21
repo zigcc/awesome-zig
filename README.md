@@ -30,8 +30,10 @@
   - [Game Engine](#game-engine)
   - [Machine Learning](#machine-learning)
     - [ML Framework](#ml-framework)
+    - [Large Language Model](#large-language-model)
   - [Web Framework](#web-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
+  - [Performance Benchmark](#performance-benchmark)
   - [GUI](#gui)
   - [Blogs](#blogs)
 
@@ -43,7 +45,7 @@
 
     - [Zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://andrewkelley.me/)
 
-    - [Zig std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
+    - [std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
 
 
   - ### Awesome List
@@ -78,7 +80,6 @@
 
 
 
-
 ## Data Structure and Algorithm 
 
   - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
@@ -96,6 +97,7 @@
   - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) <img src="https://img.shields.io/github/stars/TheAlgorithms/Zig?style=social"/> : All Algorithms implemented in Zig.
 
   - [ok-ryoko/multiring.zig](https://github.com/ok-ryoko/multiring.zig) <img src="https://img.shields.io/github/stars/ok-ryoko/multiring.zig?style=social"/> : Singly linked, cyclic and hierarchical abstract data type in Zig.
+
 
 
 ## Memory Allocator
@@ -211,6 +213,8 @@
   - [b0bleet/zvisor](https://github.com/b0bleet/zvisor) <img src="https://img.shields.io/github/stars/b0bleet/zvisor?style=social"/> : Zvisor is an open-source hypervisor written in the Zig programming language, which provides a modern and efficient approach to systems programming.
 
   - [suisuss/ZagOS](https://github.com/suisuss/ZagOS) <img src="https://img.shields.io/github/stars/suisuss/ZagOS?style=social"/> : Zig based OS with multiple firmware + bootloader options.
+
+  - [orhun/linuxwave](https://github.com/orhun/linuxwave) <img src="https://img.shields.io/github/stars/orhun/linuxwave?style=social"/> : Generate music from the entropy of Linux 🐧🎵. [orhun.dev/linuxwave/](https://orhun.dev/linuxwave/)
 
 
 
@@ -408,7 +412,13 @@
 
     - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
 
+
+  - ### Large Language Model
+
     - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
+
+
+
 
 
 ## Web Framework
@@ -440,6 +450,15 @@
   - [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasm-zig?style=social"/> : Common Wasm runtime binding to C API.
 
   - [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasmtime-zig?style=social"/> : Zig embedding of Wasmtime.
+
+
+
+
+## Performance Benchmark
+
+  - [zackradisic/rust-vs-zig](https://github.com/zackradisic/rust-vs-zig) <img src="https://img.shields.io/github/stars/zackradisic/rust-vs-zig?style=social"/> : This is an experiment to evaluate Rust vs. Zig by writing a bytecode interpreter with GC in both languages and comparing them.
+
+  - [lucascompython/zigXrustXc](https://github.com/lucascompython/zigXrustXc) <img src="https://img.shields.io/github/stars/lucascompython/zigXrustXc?style=social"/> : Performance of Zig vs Rust vs C.
 
 
 
@@ -476,6 +495,8 @@
     - [202303 | 并发编译](https://zigcc.github.io/monthly/202303/)
   - [CoRecursive](https://corecursive.com/)
     - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
+  - [Jamie Brandon](https://www.scattered-thoughts.net/)
+    - [2020-10-19，Assorted thoughts on zig (and rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
   - [matklad](https://matklad.github.io/)
     - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
   - 微信公众号「CSDN」
