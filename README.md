@@ -25,6 +25,7 @@
     - [Linear Algebra](#linear-algebra)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Text Processing](#text-processing)
+  - [Audio Processing](#audio-processing)
   - [Image and Video Processing](#image-and-video-processing)
   - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
@@ -163,11 +164,13 @@
 
   - [Vexu/bog](https://github.com/Vexu/bog) <img src="https://img.shields.io/github/stars/Vexu/bog?style=social"/> : Small, strongly typed, embeddable language. 
 
-  - [MicroZig](https://github.com/ZigEmbeddedGroup/microzig) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/microzig?style=social"/> : Unified abstraction layer and HAL for several microcontrollers.
+  - [ZigEmbeddedGroup/microzig](https://github.com/ZigEmbeddedGroup/microzig) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/microzig?style=social"/> : Unified abstraction layer and HAL for several microcontrollers.
 
   - [ZigEmbeddedGroup/stmicro-stm32](https://github.com/ZigEmbeddedGroup/stmicro-stm32) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/stmicro-stm32?style=social"/> : HAL for stm32 (STMicro) devices.
 
   - [ZigEmbeddedGroup/raspberrypi-rp2040](https://github.com/ZigEmbeddedGroup/raspberrypi-rp2040) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/raspberrypi-rp2040?style=social"/> : MicroZig Hardware Support Package for Raspberry Pi RP2040.
+
+  - [ZigEmbeddedGroup/regz](https://github.com/ZigEmbeddedGroup/regz) <img src="https://img.shields.io/github/stars/ZigEmbeddedGroup/regz?style=social"/> : Generate zig code from ATDF or SVD files for microcontrollers. 
 
   - [nmeum/zig-riscv-embedded](https://github.com/nmeum/zig-riscv-embedded) <img src="https://img.shields.io/github/stars/nmeum/zig-riscv-embedded?style=social"/> : Experimental Zig-based CoAP node for the HiFive1 RISC-V board.
 
@@ -214,7 +217,10 @@
 
   - [suisuss/ZagOS](https://github.com/suisuss/ZagOS) <img src="https://img.shields.io/github/stars/suisuss/ZagOS?style=social"/> : Zig based OS with multiple firmware + bootloader options.
 
-  - [orhun/linuxwave](https://github.com/orhun/linuxwave) <img src="https://img.shields.io/github/stars/orhun/linuxwave?style=social"/> : Generate music from the entropy of Linux 🐧🎵. [orhun.dev/linuxwave/](https://orhun.dev/linuxwave/)
+  - [TalonFox/zorroO](https://github.com/TalonFox/zorroOS) <img src="https://img.shields.io/github/stars/TalonFox/zorroO?style=social"/> : Hobby operating system written in Zig. [talonfox.github.io/zorro-os](https://talonfox.github.io/zorro-os)
+
+
+
 
 
 
@@ -343,6 +349,9 @@
 
   - [MasterQ32/zig-serial](https://github.com/MasterQ32/zig-serial) <img src="https://img.shields.io/github/stars/MasterQ32/zig-serial?style=social"/> : Serial port configuration library for Zig.
 
+  - [tetsu-koba/v4l2capture](https://github.com/tetsu-koba/v4l2capture) <img src="https://img.shields.io/github/stars/tetsu-koba/v4l2capture?style=social"/> : v4l2 video capturer written in Zig.
+
+
 
 
 ## Text Processing
@@ -361,6 +370,16 @@
 
   - [karlseguin/log.zig](https://github.com/karlseguin/log.zig) <img src="https://img.shields.io/github/stars/karlseguin/log.zig?style=social"/> : A structured logger for Zig.
 
+  - [mattyhall/tomlz](https://github.com/mattyhall/tomlz) <img src="https://img.shields.io/github/stars/mattyhall/tomlz?style=social"/> : A well-tested TOML parsing library for Zig.
+
+  - [mitchellh/zig-libxml2](https://github.com/mitchellh/zig-libxml2) <img src="https://img.shields.io/github/stars/mitchellh/zig-libxml2?style=social"/> : libxml2 built using Zig build system.
+
+
+
+## Audio Processing
+
+  - [orhun/linuxwave](https://github.com/orhun/linuxwave) <img src="https://img.shields.io/github/stars/orhun/linuxwave?style=social"/> : Generate music from the entropy of Linux 🐧🎵. [orhun.dev/linuxwave/](https://orhun.dev/linuxwave/)
+
 
 
 
@@ -374,6 +393,9 @@
   - [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) <img src="https://img.shields.io/github/stars/kassane/libvlc-zig?style=social"/> : Zig bindings for libVLC media framework. 
 
   - [marler8997/image-viewer](https://github.com/marler8997/image-viewer) <img src="https://img.shields.io/github/stars/marler8997/image-viewer?style=social"/> : An image-viewer experiment written in Zig. 
+
+
+
 
 
 
@@ -402,6 +424,9 @@
   - [star-tek-mb/Paradise](https://github.com/star-tek-mb/Paradise) <img src="https://img.shields.io/github/stars/star-tek-mb/Paradise?style=social"/> : Paradise is a wasm first game engine written in zig.
 
   - [zkburke/quanta](https://github.com/zkburke/quanta) <img src="https://img.shields.io/github/stars/zkburke/quanta?style=social"/> : A game engine/framework written in and for zig.
+
+  - [DanB91/Zig-Playdate-Template](https://github.com/DanB91/Zig-Playdate-Template) <img src="https://img.shields.io/github/stars/DanB91/Zig-Playdate-Template?style=social"/> : Starter code for a Playdate program written in Zig.
+
 
 
 
