@@ -450,13 +450,14 @@
 
   - [oven-sh/bun](https://github.com/oven-sh/bun) <img src="https://img.shields.io/github/stars/oven-sh/bun?style=social"/> : Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
+  - [zigzap/zap](https://github.com/zigzap/zap) <img src="https://img.shields.io/github/stars/zigzap/zap?style=social"/> : ⚡zap⚡ - blazingly fast web backends in zig.
+  
   - [frmdstryr/zhp](https://github.com/frmdstryr/zhp) <img src="https://img.shields.io/github/stars/frmdstryr/zhp?style=social"/> : frmdstryr/zhp.
 
   - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) <img src="https://img.shields.io/github/stars/karlseguin/websocket.zig?style=social"/> : A websocket implementation for zig.
 
   - [nikneym/ws](https://github.com/nikneym/ws) <img src="https://img.shields.io/github/stars/nikneym/ws?style=social"/> : WebSocket library for Zig ⚡
 
-  - [zigzap/zap](https://github.com/zigzap/zap) <img src="https://img.shields.io/github/stars/zigzap/zap?style=social"/> : ⚡zap⚡ - blazingly fast backends in zig.
 
 
 
