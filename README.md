@@ -431,6 +431,7 @@
 
   - [nikneym/ws](https://github.com/nikneym/ws) <img src="https://img.shields.io/github/stars/nikneym/ws?style=social"/> : WebSocket library for Zig ⚡
 
+  - [zigzap/zap](https://github.com/zigzap/zap) <img src="https://img.shields.io/github/stars/zigzap/zap?style=social"/> : ⚡zap⚡ - blazingly fast backends in zig.
 
 
 
