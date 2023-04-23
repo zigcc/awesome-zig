@@ -351,6 +351,7 @@
 
   - [tetsu-koba/v4l2capture](https://github.com/tetsu-koba/v4l2capture) <img src="https://img.shields.io/github/stars/tetsu-koba/v4l2capture?style=social"/> : v4l2 video capturer written in Zig.
 
+  - [kdchambers/reel](https://github.com/kdchambers/reel) <img src="https://img.shields.io/github/stars/kdchambers/reel?style=social"/> : Screen capture software for Linux / Wayland.
 
 
 
