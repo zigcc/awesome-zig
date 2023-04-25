@@ -72,13 +72,15 @@
 
     - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
 
-    - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) <img src="https://img.shields.io/github/stars/Sobeston/ziglearn?style=social"/> : Repo for [https://ziglearn.org](https://ziglearn.org/) content. Get up to speed with Zig quickly.
+    - [Zig In-depth Overview](https://ziglang.org/learn/overview/) : Zig In-depth Overview.
 
-    - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
+    - [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) <img src="https://img.shields.io/github/stars/Sobeston/ziglearn?style=social"/> : Repo for [https://ziglearn.org](https://ziglearn.org/) content. Get up to speed with Zig quickly.
 
     - [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) : A half-hour to learn Zig.
 
+    - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
 
+    - [JacobCrabill/AdventOfCode-2022](https://github.com/JacobCrabill/AdventOfCode-2022) <img src="https://img.shields.io/github/stars/JacobCrabill/AdventOfCode-2022?style=social"/> : Advent Of Code - 2022 Solutions.
 
 
 ## Data Structure and Algorithm 
@@ -230,6 +232,8 @@
   - [micro-ROS for Arduino](https://github.com/micro-ROS/micro_ros_arduino) <img src="https://img.shields.io/github/stars/micro-ROS/micro_ros_arduino?style=social"/> : micro-ROS library for Arduino. 
 
   - [jacobperron/rclzig](https://github.com/jacobperron/rclzig) <img src="https://img.shields.io/github/stars/jacobperron/rclzig?style=social"/> : ROS 2 client library in Zig. 
+
+  - [JacobCrabill/btree.zig](https://github.com/JacobCrabill/btree.zig) <img src="https://img.shields.io/github/stars/JacobCrabill/btree.zig?style=social"/> : Behavior Tree library written in Zig.
 
   - [luickk/MinimalRoboticsPlatform](https://github.com/luickk/MinimalRoboticsPlatform) <img src="https://img.shields.io/github/stars/luickk/MinimalRoboticsPlatform?style=social"/> : MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development. 
 
