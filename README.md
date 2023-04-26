@@ -440,6 +440,8 @@
 
   - ### ML Framework
 
+    - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
+    
     - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
 
 
