@@ -445,7 +445,10 @@
     - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
 
 
+
   - ### Large Language Model
+
+    - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
 
     - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
@@ -500,7 +503,11 @@
 
 ## GUI
 
-  - [capy-ui/capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
+  - [LVGL](https://github.com/lvgl/lvgl) <img src="https://img.shields.io/github/stars/lvgl/lvgl?style=social"/> : Light and Versatile Graphics Library. Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio. [lvgl.io](https://lvgl.io/)
+
+  - [AWTK](https://github.com/zlgopen/awtk) <img src="https://img.shields.io/github/stars/zlgopen/awtk?style=social"/> : AWTK = Toolkit AnyWhere(a cross-platform embedded GUI). [AWTK](https://github.com/zlgopen/awtk/blob/master/README.md), the abbreviation of Toolkit AnyWhere, is an open source GUI engine developed by [ZLG](https://www.zlg.cn/).
+
+  - [Capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
 
   - [david-vanderson/gui](https://github.com/david-vanderson/gui) <img src="https://img.shields.io/github/stars/david-vanderson/gui?style=social"/> : Easy to Integrate Immediate Mode GUI for Zig.
 
