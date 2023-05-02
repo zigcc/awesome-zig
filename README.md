@@ -80,7 +80,11 @@
 
     - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
 
+    - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
+
     - [JacobCrabill/AdventOfCode-2022](https://github.com/JacobCrabill/AdventOfCode-2022) <img src="https://img.shields.io/github/stars/JacobCrabill/AdventOfCode-2022?style=social"/> : Advent Of Code - 2022 Solutions.
+
+
 
 
 ## Data Structure and Algorithm 
@@ -266,6 +270,13 @@
   - [mitchellh/zig-objc](https://github.com/mitchellh/zig-objc) <img src="https://img.shields.io/github/stars/mitchellh/zig-objc?style=social"/> : Objective-C runtime bindings for Zig (Zig calling ObjC).
 
   - [ExpidusOS/zig-flutter](https://github.com/ExpidusOS/zig-flutter) <img src="https://img.shields.io/github/stars/ExpidusOS/zig-flutter?style=social"/> : Flutter w/ Zig.
+
+  - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
+
+  - [C 语言调用 Zig](https://github.com/zigcc/forum/discussions/12) : C 语言调用 Zig (FFI 完整用例)。
+
+  - [Flutter/Dart + FFI + Zig](https://github.com/hhstore/blog/issues/384) : Flutter/Dart + FFI + Zig: call a Zig function from Dart using FFI.
+
 
 
 
