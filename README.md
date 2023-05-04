@@ -249,19 +249,25 @@
 
 ## FFI Bindings 
 
+  - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
+
+  - [C 语言调用 Zig](https://github.com/zigcc/forum/discussions/12) : C 语言调用 Zig (FFI 完整用例)。
+
   - [suirad/zig-header-gen](https://github.com/suirad/zig-header-gen) <img src="https://img.shields.io/github/stars/suirad/zig-header-gen?style=social"/> : Automatically generate headers/bindings for other languages from Zig code.
 
-  - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) <img src="https://img.shields.io/github/stars/natanalt/zig2rs?style=social"/> : use zig code in rust - a medium effort shitpost.
+  - [kassane/zFFI](https://github.com/kassane/zFFI) <img src="https://img.shields.io/github/stars/kassane/zFFI?style=social"/> : CBindgen FFI test.
 
   - [emilHof/zigc](https://github.com/emilHof/zigc) <img src="https://img.shields.io/github/stars/emilHof/zigc?style=social"/> : Zigc aims to provide the basic functionality for compiling and linking [Zig](https://ziglang.org/) libraries into your [Rust](https://www.rust-lang.org/) projects.
+
+  - [jeremyBanks/zig_with_cargo](https://github.com/jeremyBanks/zig_with_cargo) <img src="https://img.shields.io/github/stars/jeremyBanks/zig_with_cargo?style=social"/> : Building Zig libraries in a Rust Cargo package.
+
+  - [nekodjin/rusty-ziguanas](https://github.com/nekodjin/rusty-ziguanas) <img src="https://img.shields.io/github/stars/nekodjin/rusty-ziguanas?style=social"/> : Experiments in Zig-Rust and Rust-Zig FFI.
 
   - [DutchGhost/zigiffy](https://github.com/DutchGhost/zigiffy) <img src="https://img.shields.io/github/stars/DutchGhost/zigiffy?style=social"/> : Rust FFI with Zig.
 
   - [DutchGhost/rustiffy](https://github.com/DutchGhost/rustiffy) <img src="https://img.shields.io/github/stars/DutchGhost/rustiffy?style=social"/> : Zig FFI with Rust.
   
-  - [nekodjin/rusty-ziguanas](https://github.com/nekodjin/rusty-ziguanas) <img src="https://img.shields.io/github/stars/nekodjin/rusty-ziguanas?style=social"/> : Experiments in Zig-Rust and Rust-Zig FFI.
-
-  - [jeremyBanks/zig_with_cargo](https://github.com/jeremyBanks/zig_with_cargo) <img src="https://img.shields.io/github/stars/jeremyBanks/zig_with_cargo?style=social"/> : Building Zig libraries in a Rust Cargo package.
+  - [natanalt/zig2rs](https://github.com/natanalt/zig2rs) <img src="https://img.shields.io/github/stars/natanalt/zig2rs?style=social"/> : use zig code in rust - a medium effort shitpost.
 
   - [katafrakt/zig-ruby](https://github.com/katafrakt/zig-ruby) <img src="https://img.shields.io/github/stars/katafrakt/zig-ruby?style=social"/> : This repo contains an experiment of building a Ruby extension with Zig programming language. It implements a slightly altered version of 100 doors from Rosetta Code.
 
@@ -271,13 +277,7 @@
 
   - [ExpidusOS/zig-flutter](https://github.com/ExpidusOS/zig-flutter) <img src="https://img.shields.io/github/stars/ExpidusOS/zig-flutter?style=social"/> : Flutter w/ Zig.
 
-  - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
-
-  - [C 语言调用 Zig](https://github.com/zigcc/forum/discussions/12) : C 语言调用 Zig (FFI 完整用例)。
-
   - [Flutter/Dart + FFI + Zig](https://github.com/hhstore/blog/issues/384) : Flutter/Dart + FFI + Zig: call a Zig function from Dart using FFI.
-
-
 
 
 
@@ -553,7 +553,5 @@
     - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
   - [kassane](https://kassane.github.io/)
     - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
-
-
   - 微信公众号「CSDN」
     - [2023-04-07，C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
