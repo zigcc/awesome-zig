@@ -551,5 +551,9 @@
     - [2020-10-19，Assorted thoughts on zig (and rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
   - [matklad](https://matklad.github.io/)
     - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+  - [kassane](https://kassane.github.io/)
+    - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
+
+
   - 微信公众号「CSDN」
     - [2023-04-07，C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
