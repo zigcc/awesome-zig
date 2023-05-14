@@ -536,6 +536,14 @@
 
 ## Blogs
 
+  - [CoRecursive](https://corecursive.com/)
+    - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
+  - [Jamie Brandon](https://www.scattered-thoughts.net/)
+    - [2020-10-19，Assorted thoughts on zig (and rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
+  - [matklad](https://matklad.github.io/)
+    - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+  - [kassane](https://kassane.github.io/)
+    - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
   - [Zig 语言中文社区](https://zigcc.github.io/)
     - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
     - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)   
@@ -545,13 +553,8 @@
     - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
     - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
     - [202303 | 并发编译](https://zigcc.github.io/monthly/202303/)
-  - [CoRecursive](https://corecursive.com/)
-    - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
-  - [Jamie Brandon](https://www.scattered-thoughts.net/)
-    - [2020-10-19，Assorted thoughts on zig (and rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
-  - [matklad](https://matklad.github.io/)
-    - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
-  - [kassane](https://kassane.github.io/)
-    - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
+    - [202304 | 首次闯入 Tiobe 前 50](https://zigcc.github.io/monthly/202304/)
+  - 微信公众号「EmacsTalk」
+    - [2023-05-05，Zig 月报 202304](https://mp.weixin.qq.com/s/KpoCU1kYHnash4VhUiT-VQ)
   - 微信公众号「CSDN」
     - [2023-04-07，C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
