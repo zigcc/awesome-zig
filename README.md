@@ -21,6 +21,7 @@
   - [GPU Computation](#gpu-computation)
   - [Graphics Library](#graphics-library)
   - [Date and Time](#date-and-time)
+  - [Database](#database)
   - [Scientific Computation](#scientific-computation)
     - [Linear Algebra](#linear-algebra)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
@@ -82,7 +83,22 @@
 
     - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
 
+     - [zadockmaloba/100-Days-Of-Zig](https://github.com/zadockmaloba/100-Days-Of-Zig) <img src="https://img.shields.io/github/stars/zadockmaloba/100-Days-Of-Zig?style=social"/> : Personal zig learning sandbox.
+
     - [JacobCrabill/AdventOfCode-2022](https://github.com/JacobCrabill/AdventOfCode-2022) <img src="https://img.shields.io/github/stars/JacobCrabill/AdventOfCode-2022?style=social"/> : Advent Of Code - 2022 Solutions.
+
+    - [fjebaker/advent-of-code-2022](https://github.com/fjebaker/advent-of-code-2022) <img src="https://img.shields.io/github/stars/fjebaker/advent-of-code-2022?style=social"/> : Solutions to AoC 2022 in zig.
+
+    - [cdwfs/advent2022](https://github.com/cdwfs/advent2022) <img src="https://img.shields.io/github/stars/cdwfs/advent2022?style=social"/> : Advent of Code 2022 solutions, using Zig (again).
+
+    - [OAguinagalde/aoc2022](https://github.com/OAguinagalde/aoc2022) <img src="https://img.shields.io/github/stars/OAguinagalde/aoc2022?style=social"/> : Advent of Code 2022 in zig.
+
+    - [zanderxyz/advent-of-code](https://github.com/zanderxyz/advent-of-code) <img src="https://img.shields.io/github/stars/zanderxyz/advent-of-code?style=social"/> : My solutions to the annual Advent of Code problems. 2020 in Zig; 2021/22 in Rust. [www.adventofcode.com/](https://adventofcode.com/)
+
+    - [someone-stole-my-name/advent-of-zig-2022](https://github.com/someone-stole-my-name/advent-of-zig-2022) <img src="https://img.shields.io/github/stars/someone-stole-my-name/advent-of-zig-2022?style=social"/> : Advent of Code 2022 in Zig.
+
+
+
 
 
 
@@ -104,6 +120,11 @@
   - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) <img src="https://img.shields.io/github/stars/TheAlgorithms/Zig?style=social"/> : All Algorithms implemented in Zig.
 
   - [ok-ryoko/multiring.zig](https://github.com/ok-ryoko/multiring.zig) <img src="https://img.shields.io/github/stars/ok-ryoko/multiring.zig?style=social"/> : Singly linked, cyclic and hierarchical abstract data type in Zig.
+
+  - [jakubgiesler/VecZig](https://github.com/jakubgiesler/VecZig) <img src="https://img.shields.io/github/stars/jakubgiesler/VecZig?style=social"/> : Vector implementation in Zig.
+
+  - [JacobCrabill/btree.zig](https://github.com/JacobCrabill/btree.zig) <img src="https://img.shields.io/github/stars/JacobCrabill/btree.zig?style=social"/> : Behavior Tree library written in Zig.
+
 
 
 
@@ -237,8 +258,6 @@
 
   - [jacobperron/rclzig](https://github.com/jacobperron/rclzig) <img src="https://img.shields.io/github/stars/jacobperron/rclzig?style=social"/> : ROS 2 client library in Zig. 
 
-  - [JacobCrabill/btree.zig](https://github.com/JacobCrabill/btree.zig) <img src="https://img.shields.io/github/stars/JacobCrabill/btree.zig?style=social"/> : Behavior Tree library written in Zig.
-
   - [luickk/MinimalRoboticsPlatform](https://github.com/luickk/MinimalRoboticsPlatform) <img src="https://img.shields.io/github/stars/luickk/MinimalRoboticsPlatform?style=social"/> : MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development. 
 
 
@@ -321,14 +340,13 @@
 
    - [ashpil/moonshine](https://github.com/ashpil/moonshine) <img src="https://img.shields.io/github/stars/ashpil/moonshine?style=social"/> : Moonshine: A general purpose ray traced renderer built with Zig + Vulkan.
 
-   - [fabioarnold/nanovg-zig](https://github.com/fabioarnold/nanovg-zig) <img src="https://img.shields.io/github/stars/fabioarnold/nanovg-zig?style=social"/> : [NanoVG](https://github.com/memononen/nanovg) - Zig Version. A small anti-aliased hardware-accelerated vector graphics library.
+   - [fabioarnold/nanovg-zig](https://github.com/fabioarnold/nanovg-zig) <img src="https://img.shields.io/github/stars/fabioarnold/nanovg-zig?style=social"/> : [NanoVG](https://github.com/memononen/nanovg) - Zig Version. A small anti-aliased hardware-accelerated vector graphics library. [fabioarnold.github.io/nanovg-zig/](https://fabioarnold.github.io/nanovg-zig/)
 
    - [fubark/cosmic](https://github.com/fubark/cosmic) <img src="https://img.shields.io/github/stars/fubark/cosmic?style=social"/> : A platform for computing and creating applications. [cosmic.ooo](https://www.cosmic.ooo/)
 
    - [renerocksai/slides](https://github.com/renerocksai/slides) <img src="https://img.shields.io/github/stars/renerocksai/slides?style=social"/> : This project is both a case study and also marks my first steps in the programming language Zig, towards creating a simple but powerful [imgui](https://github.com/ocornut/imgui/wiki#about-the-imgui-paradigm) based, OpenGL-rendered slideshow app in Zig.
 
-
-
+   - [TinyVG/sdk](https://github.com/TinyVG/sdk) <img src="https://img.shields.io/github/stars/TinyVG/sdk?style=social"/> : TinyVG software development kit. [tinyvg.tech/](https://tinyvg.tech/)
 
 
 
@@ -337,6 +355,15 @@
   - [scento/zig-date](https://github.com/scento/zig-date) <img src="https://img.shields.io/github/stars/scento/zig-date?style=social"/> : 🕒 time and date for Zig. zig-date is a date and time library for the Zig, inspired by the popular Rust library [chrono](https://github.com/chronotope/chrono).
 
   - [frmdstryr/zig-datetime](https://github.com/frmdstryr/zig-datetime) <img src="https://img.shields.io/github/stars/frmdstryr/zig-datetime?style=social"/> : A datetime module for Zig with an api similar to python's Arrow.
+
+  - [nektro/zig-time](https://github.com/nektro/zig-time) <img src="https://img.shields.io/github/stars/nektro/zig-time?style=social"/> : A date and time parsing and formatting library for Zig. 
+
+
+
+## Database
+
+  - [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) <img src="https://img.shields.io/github/stars/vrischmann/zig-sqlite?style=social"/> : zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. 
+
 
 
 
@@ -390,13 +417,19 @@
 
   - [mitchellh/zig-libxml2](https://github.com/mitchellh/zig-libxml2) <img src="https://img.shields.io/github/stars/mitchellh/zig-libxml2?style=social"/> : libxml2 built using Zig build system.
 
+  - [travisstaloch/protobuf-zig](https://github.com/travisstaloch/protobuf-zig) <img src="https://img.shields.io/github/stars/travisstaloch/protobuf-zig?style=social"/> : A protocol buffers implementation in zig.
+
+  - [sam701/zig-toml](https://github.com/sam701/zig-toml) <img src="https://img.shields.io/github/stars/sam701/zig-toml?style=social"/> : Zig TOML (v1.0.0) parser.
+
+
+
 
 
 ## Audio Processing
 
   - [orhun/linuxwave](https://github.com/orhun/linuxwave) <img src="https://img.shields.io/github/stars/orhun/linuxwave?style=social"/> : Generate music from the entropy of Linux 🐧🎵. [orhun.dev/linuxwave/](https://orhun.dev/linuxwave/)
 
-
+  - [hexops/mach-sysaudio](https://github.com/hexops/mach-sysaudio) <img src="https://img.shields.io/github/stars/hexops/mach-sysaudio?style=social"/> : cross-platform low-level audio IO in Zig.
 
 
 
@@ -442,6 +475,9 @@
   - [zkburke/quanta](https://github.com/zkburke/quanta) <img src="https://img.shields.io/github/stars/zkburke/quanta?style=social"/> : A game engine/framework written in and for zig.
 
   - [DanB91/Zig-Playdate-Template](https://github.com/DanB91/Zig-Playdate-Template) <img src="https://img.shields.io/github/stars/DanB91/Zig-Playdate-Template?style=social"/> : Starter code for a Playdate program written in Zig.
+
+  - [foxnne/aftersun](https://github.com/foxnne/aftersun) <img src="https://img.shields.io/github/stars/foxnne/aftersun?style=social"/> : Top-down 2D RPG.
+
 
 
 
@@ -544,6 +580,8 @@
     - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
   - [kassane](https://kassane.github.io/)
     - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
+  - [Pocket Casts](https://pocketcasts.com/)
+    - [2023-05-14，Linking & Binary Hot Code Loading with Jakub Konka](https://pca.st/1vqm6obx)
   - [Zig 语言中文社区](https://zigcc.github.io/)
     - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
     - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)   
@@ -554,6 +592,8 @@
     - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
     - [202303 | 并发编译](https://zigcc.github.io/monthly/202303/)
     - [202304 | 首次闯入 Tiobe 前 50](https://zigcc.github.io/monthly/202304/)
+  - 微信公众号「Zig 语言」
+    - [2023-05-14，在已经存在 C++/的D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/FX7qiwQjLZLsazmii8QVPw)
   - 微信公众号「EmacsTalk」
     - [2023-05-05，Zig 月报 202304](https://mp.weixin.qq.com/s/KpoCU1kYHnash4VhUiT-VQ)
   - 微信公众号「CSDN」
