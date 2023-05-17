@@ -18,21 +18,21 @@
   - [Universal Operating System](#universal-operating-system)
   - [Robot Operating System](#robot-operating-system)
   - [FFI Bindings](#ffi-bindings)
-  - [GPU Computation](#gpu-computation)
+  - [GPU Computing](#gpu-computing)
+  - [Scientific Computation](#scientific-computation)
+    - [Linear Algebra](#linear-algebra)
+  - [Machine Learning](#machine-learning)
+    - [Machine Learning Framework](#machine-learning-framework)
+    - [Large Language Model](#large-language-model)
   - [Graphics Library](#graphics-library)
   - [Date and Time](#date-and-time)
   - [Database](#database)
-  - [Scientific Computation](#scientific-computation)
-    - [Linear Algebra](#linear-algebra)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
   - [Text Processing](#text-processing)
   - [Audio Processing](#audio-processing)
   - [Image and Video Processing](#image-and-video-processing)
   - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
-  - [Machine Learning](#machine-learning)
-    - [ML Framework](#ml-framework)
-    - [Large Language Model](#large-language-model)
   - [Web Framework](#web-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
   - [Performance Benchmark](#performance-benchmark)
@@ -300,7 +300,9 @@
 
 
 
-## GPU Computation 
+
+
+## GPU Computing 
 
   - [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) <img src="https://img.shields.io/github/stars/Snektron/vulkan-zig?style=social"/> : Vulkan binding generator for Zig.
 
@@ -313,6 +315,42 @@
   - [ckrowland/simulations](https://github.com/ckrowland/simulations) <img src="https://img.shields.io/github/stars/ckrowland/simulations?style=social"/> : GPU accelerated visual simulations.
 
   - [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) <img src="https://img.shields.io/github/stars/Avokadoen/zig_vulkan?style=social"/> : Toying with vulkan and zig.
+
+
+
+## Scientific Computation
+
+  - ### Linear Algebra
+
+    - [kooparse/zalgebra](https://github.com/kooparse/zalgebra) <img src="https://img.shields.io/github/stars/kooparse/zalgebra?style=social"/> : Linear algebra library for games and real-time graphics. 
+
+    - [ziglibs/zlm](https://github.com/ziglibs/zlm) <img src="https://img.shields.io/github/stars/ziglibs/zlm?style=social"/> : Zig linear mathemathics.
+
+    - [omaraaa/VecFns](https://github.com/omaraaa/VecFns) <img src="https://img.shields.io/github/stars/omaraaa/VecFns?style=social"/> : Automatic Vector Math Functions In Zig. 
+
+    - [Laremere/alg](https://github.com/Laremere/alg) <img src="https://img.shields.io/github/stars/Laremere/alg?style=social"/> : Algebra for Zig.
+
+    - [BanchouBoo/algae](https://github.com/BanchouBoo/algae) <img src="https://img.shields.io/github/stars/BanchouBoo/algae?style=social"/> : Zig math library focused on game development.
+
+    - [JungerBoyo/zmath](https://github.com/JungerBoyo/zmath) <img src="https://img.shields.io/github/stars/JungerBoyo/zmath?style=social"/> : simple linear algebra library written in zig.
+
+
+
+## Machine Learning
+
+  - ### Machine Learning Framework
+
+    - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
+    
+    - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
+
+
+  - ### Large Language Model
+
+    - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
+
+    - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
+
 
 
 
@@ -368,21 +406,6 @@
 
 
 
-## Scientific Computation
-
-  - ### Linear Algebra
-
-    - [kooparse/zalgebra](https://github.com/kooparse/zalgebra) <img src="https://img.shields.io/github/stars/kooparse/zalgebra?style=social"/> : Linear algebra library for games and real-time graphics. 
-
-    - [ziglibs/zlm](https://github.com/ziglibs/zlm) <img src="https://img.shields.io/github/stars/ziglibs/zlm?style=social"/> : Zig linear mathemathics.
-
-    - [omaraaa/VecFns](https://github.com/omaraaa/VecFns) <img src="https://img.shields.io/github/stars/omaraaa/VecFns?style=social"/> : Automatic Vector Math Functions In Zig. 
-
-    - [Laremere/alg](https://github.com/Laremere/alg) <img src="https://img.shields.io/github/stars/Laremere/alg?style=social"/> : Algebra for Zig.
-
-    - [BanchouBoo/algae](https://github.com/BanchouBoo/algae) <img src="https://img.shields.io/github/stars/BanchouBoo/algae?style=social"/> : Zig math library focused on game development.
-
-    - [JungerBoyo/zmath](https://github.com/JungerBoyo/zmath) <img src="https://img.shields.io/github/stars/JungerBoyo/zmath?style=social"/> : simple linear algebra library written in zig.
 
 
 ## Sensor and Communication Interface
@@ -421,7 +444,12 @@
 
   - [sam701/zig-toml](https://github.com/sam701/zig-toml) <img src="https://img.shields.io/github/stars/sam701/zig-toml?style=social"/> : Zig TOML (v1.0.0) parser.
 
+  - [ziglibs/tres](https://github.com/ziglibs/tres) <img src="https://img.shields.io/github/stars/ziglibs/tres?style=social"/> : ValueTree-based JSON parser.
 
+  - [ziglibs/s2s](https://github.com/ziglibs/s2s) <img src="https://img.shields.io/github/stars/ziglibs/s2s?style=social"/> : A zig binary serialization format. 
+
+
+  
 
 
 
@@ -450,7 +478,13 @@
 
 ## Finite State Machine
 
-  - [cryptocode/zigfsm](https://github.com/cryptocode/zigfsm) <img src="https://img.shields.io/github/stars/cryptocode/zigfsm?style=social"/> : A finite state machine library for Zig.
+  - [cryptocode/zigfsm](https://github.com/cryptocode/zigfsm) <img src="https://img.shields.io/github/stars/cryptocode/zigfsm?style=social"/> : zigfsm is a [finite state machine](https://en.wikipedia.org/wiki/Finite-state_machine) library for Zig.
+
+
+
+
+
+
 
 
 
@@ -481,23 +515,6 @@
 
 
 
-
-
-## Machine Learning
-
-  - ### ML Framework
-
-    - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
-    
-    - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
-
-
-
-  - ### Large Language Model
-
-    - [llama.cpp](https://github.com/ggerganov/llama.cpp) <img src="https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social"/> : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
-
-    - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
 
 
