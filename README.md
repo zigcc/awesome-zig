@@ -306,11 +306,11 @@
 
   - [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) <img src="https://img.shields.io/github/stars/Snektron/vulkan-zig?style=social"/> : Vulkan binding generator for Zig.
 
-  - [hexops/mach-gpu](https://github.com/hexops/mach-gpu) <img src="https://img.shields.io/github/stars/hexops/mach-gpu?style=social"/> : mach/gpu: truly cross-platform WebGPU graphics for Zig.
+  - [gwenzek/cudaz](https://github.com/gwenzek/cudaz) <img src="https://img.shields.io/github/stars/gwenzek/cudaz?style=social"/> : Toy Cuda wrapper for Zig.
+
+  - [hexops/mach-gpu](https://github.com/hexops/mach-gpu) <img src="https://img.shields.io/github/stars/hexops/mach-gpu?style=social"/> : mach/gpu provides a truly cross-platform graphics API for Zig (desktop, mobile, and web) with unified low-level graphics & compute backed by Vulkan, Metal, D3D12, and OpenGL (as a best-effort fallback.)
 
   - [hexops/mach-gpu-dawn](https://github.com/hexops/mach-gpu-dawn) <img src="https://img.shields.io/github/stars/hexops/mach-gpu-dawn?style=social"/> : Google's Dawn WebGPU implementation, cross-compiled with Zig into a single static library.
-
-  - [gwenzek/cudaz](https://github.com/gwenzek/cudaz) <img src="https://img.shields.io/github/stars/gwenzek/cudaz?style=social"/> : Toy Cuda wrapper for Zig.
 
   - [ckrowland/simulations](https://github.com/ckrowland/simulations) <img src="https://img.shields.io/github/stars/ckrowland/simulations?style=social"/> : GPU accelerated visual simulations.
 
