@@ -571,6 +571,8 @@
 
   - [AWTK](https://github.com/zlgopen/awtk) <img src="https://img.shields.io/github/stars/zlgopen/awtk?style=social"/> : AWTK = Toolkit AnyWhere(a cross-platform embedded GUI). [AWTK](https://github.com/zlgopen/awtk/blob/master/README.md), the abbreviation of Toolkit AnyWhere, is an open source GUI engine developed by [ZLG](https://www.zlg.cn/).
 
+  - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) <img src="https://img.shields.io/github/stars//Immediate-Mode-UI/Nuklear?style=social"/> : A single-header ANSI C immediate mode cross-platform GUI library. [immediate-mode-ui.github.io](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
+
   - [Capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
 
   - [david-vanderson/gui](https://github.com/david-vanderson/gui) <img src="https://img.shields.io/github/stars/david-vanderson/gui?style=social"/> : Easy to Integrate Immediate Mode GUI for Zig.
@@ -611,6 +613,8 @@
     - [202304 | 首次闯入 Tiobe 前 50](https://zigcc.github.io/monthly/202304/)
   - 微信公众号「Zig 语言」
     - [2023-05-14，在已经存在 C++/的D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/FX7qiwQjLZLsazmii8QVPw)
+  - 微信公众号「RustTalk」
+    - [2023-05-18，在已经存在 C++/D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/JLxdw5xkyq5bFjKQWe2CHQ)
   - 微信公众号「EmacsTalk」
     - [2023-05-05，Zig 月报 202304](https://mp.weixin.qq.com/s/KpoCU1kYHnash4VhUiT-VQ)
   - 微信公众号「CSDN」
