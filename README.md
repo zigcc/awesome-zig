@@ -105,6 +105,8 @@
 
 ## Data Structure and Algorithm 
 
+  - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) <img src="https://img.shields.io/github/stars/TheAlgorithms/Zig?style=social"/> : Collection of Algorithms implemented in Zig. 
+
   - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
 
   - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
@@ -116,8 +118,6 @@
   - [mitchellh/zig-graph](https://github.com/mitchellh/zig-graph) <img src="https://img.shields.io/github/stars/mitchellh/zig-graph?style=social"/> : Directed graph data structure for Zig. 
   
   - [alichraghi/zort](https://github.com/alichraghi/zort) <img src="https://img.shields.io/github/stars/alichraghi/zort?style=social"/> : Zort: Sorting algorithms in zig.
-
-  - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) <img src="https://img.shields.io/github/stars/TheAlgorithms/Zig?style=social"/> : All Algorithms implemented in Zig.
 
   - [ok-ryoko/multiring.zig](https://github.com/ok-ryoko/multiring.zig) <img src="https://img.shields.io/github/stars/ok-ryoko/multiring.zig?style=social"/> : Singly linked, cyclic and hierarchical abstract data type in Zig.
 
