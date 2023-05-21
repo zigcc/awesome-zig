@@ -344,6 +344,10 @@
     
     - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
 
+    - [Gonzih/onnx-worker.zig](https://github.com/Gonzih/onnx-worker.zig) <img src="https://img.shields.io/github/stars/Gonzih/onnx-worker.zig?style=social"/> : onnx-worker.zig
+
+
+
 
   - ### Large Language Model
 
