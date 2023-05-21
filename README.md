@@ -15,7 +15,7 @@
   - [Package Manager](#package-manager)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
-  - [Universal Operating System](#universal-operating-system)
+  - [General Operating System](#general-operating-system)
   - [Robot Operating System](#robot-operating-system)
   - [FFI Bindings](#ffi-bindings)
   - [GPU Computing](#gpu-computing)
@@ -222,7 +222,7 @@
 
 
 
-## Universal Operating System
+## General Operating System
 
   - [ZystemOS/Pluto](https://github.com/ZystemOS/pluto) <img src="https://img.shields.io/github/stars/ZystemOS/pluto?style=social"/> : An x86 kernel written in Zig.
 
@@ -246,7 +246,7 @@
 
   - [TalonFox/zorroO](https://github.com/TalonFox/zorroOS) <img src="https://img.shields.io/github/stars/TalonFox/zorroO?style=social"/> : Hobby operating system written in Zig. [talonfox.github.io/zorro-os](https://talonfox.github.io/zorro-os)
 
-
+  - [CircuitOperatingSystem/circuit](https://github.com/CircuitOperatingSystem/circuit) <img src="https://img.shields.io/github/stars/CircuitOperatingSystem/circuit?style=social"/> : General purpose operating system targeting standard desktops and laptops. 
 
 
 
@@ -561,7 +561,7 @@
 
   - [lucascompython/zigXrustXc](https://github.com/lucascompython/zigXrustXc) <img src="https://img.shields.io/github/stars/lucascompython/zigXrustXc?style=social"/> : Performance of Zig vs Rust vs C.
 
-
+  - [CoalNova/BasicCompare](https://github.com/CoalNova/BasicCompare) <img src="https://img.shields.io/github/stars/CoalNova/BasicCompare?style=social"/> : A basic comparitive analysis of C, C++, Rust, and Zig. 
 
 
 
@@ -571,7 +571,7 @@
 
   - [AWTK](https://github.com/zlgopen/awtk) <img src="https://img.shields.io/github/stars/zlgopen/awtk?style=social"/> : AWTK = Toolkit AnyWhere(a cross-platform embedded GUI). [AWTK](https://github.com/zlgopen/awtk/blob/master/README.md), the abbreviation of Toolkit AnyWhere, is an open source GUI engine developed by [ZLG](https://www.zlg.cn/).
 
-  - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) <img src="https://img.shields.io/github/stars//Immediate-Mode-UI/Nuklear?style=social"/> : A single-header ANSI C immediate mode cross-platform GUI library. [immediate-mode-ui.github.io](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
+  - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) <img src="https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=social"/> : A single-header ANSI C immediate mode cross-platform GUI library. [immediate-mode-ui.github.io](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
 
   - [Capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
 
