@@ -341,7 +341,9 @@
   - ### Machine Learning Framework
 
     - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
-    
+
+    - [candrewlee14/zgml](https://github.com/candrewlee14/zgml) <img src="https://img.shields.io/github/stars/candrewlee14/zgml?style=social"/> : Tensor library for machine learning, inspired by ggml.
+
     - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
 
     - [Gonzih/onnx-worker.zig](https://github.com/Gonzih/onnx-worker.zig) <img src="https://img.shields.io/github/stars/Gonzih/onnx-worker.zig?style=social"/> : onnx-worker.zig
