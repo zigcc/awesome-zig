@@ -45,9 +45,9 @@
 
   - ### Official Zig
 
-    - [Zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://andrewkelley.me/)
+    - [Zig](https://github.com/ziglang/zig) <img src="https://img.shields.io/github/stars/ziglang/zig?style=social"/> : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://github.com/andrewrk)
 
-    - [std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
+    - [Zig std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
 
 
   - ### Awesome List
@@ -158,6 +158,12 @@
 
 ## Package Manager
 
+  - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) <img src="https://img.shields.io/github/stars/mitchellh/zig-overlay?style=social"/> : Nix flake for the Zig compiler.
+
+  - [Cloudef/nix-zig-stdenv](https://github.com/Cloudef/nix-zig-stdenv) <img src="https://img.shields.io/github/stars/Cloudef/nix-zig-stdenv?style=social"/> : Zig based cross-compiling toolchain.
+
+  - [joachimschmidt557/zigpkgs](https://github.com/joachimschmidt557/zigpkgs) <img src="https://img.shields.io/github/stars/joachimschmidt557/zigpkgs?style=social"/> : A collection of zig packages built with Nix.
+
   - [nektro/zigmod](https://github.com/nektro/zigmod) <img src="https://img.shields.io/github/stars/nektro/zigmod?style=social"/> : 📦 A package manager for the Zig programming language.
 
   - [mattnite/gyro](https://github.com/mattnite/gyro) <img src="https://img.shields.io/github/stars/mattnite/gyro?style=social"/> : A Zig package manager with an index, build runner, and build dependencies.
@@ -171,6 +177,9 @@
   - [korandoru/setup-zig](https://github.com/korandoru/setup-zig) <img src="https://img.shields.io/github/stars/korandoru/setup-zig?style=social"/> : Set up your GitHub Actions workflow with a specific version of Zig.
 
   - [thejoshwolfe/zig-download](https://github.com/thejoshwolfe/zig-download) <img src="https://img.shields.io/github/stars/thejoshwolfe/zig-download?style=social"/> : Tool for downloading precompiled zig tarballs from [https://ziglang.org/download/](https://ziglang.org/download/). This is basically the same thing as [zigup](https://github.com/marler8997/zigup), but I wrote this one as an exercise.
+
+
+
 
 
 
@@ -201,11 +210,9 @@
 
   - [nmeum/zig-riscv-embedded](https://github.com/nmeum/zig-riscv-embedded) <img src="https://img.shields.io/github/stars/nmeum/zig-riscv-embedded?style=social"/> : Experimental Zig-based CoAP node for the HiFive1 RISC-V board.
 
-  - [lupyuen/pinephone-nuttx](https://github.com/lupyuen/pinephone-nuttx) <img src="https://img.shields.io/github/stars/lupyuen/pinephone-nuttx?style=social"/> : Apache NuttX RTOS for PinePhone. Apache NuttX is a lightweight Real-Time Operating System (RTOS) that runs on PINE64 PinePhone.
+  - [lupyuen/pinephone-nuttx](https://github.com/lupyuen/pinephone-nuttx) <img src="https://img.shields.io/github/stars/lupyuen/pinephone-nuttx?style=social"/> : Apache NuttX RTOS for PinePhone. Apache NuttX is a lightweight Real-Time Operating System (RTOS) that runs on PINE64 PinePhone. [lupyuen.github.io/articles/what](https://lupyuen.github.io/articles/what)
 
   - [lupyuen/zig-bl602-nuttx](https://github.com/lupyuen/zig-bl602-nuttx) <img src="https://img.shields.io/github/stars/lupyuen/zig-bl602-nuttx?style=social"/> : Zig on RISC-V BL602 with Apache NuttX RTOS and LoRaWAN.
-
-  - [lupyuen/zig-lvgl-nuttx](https://github.com/lupyuen/zig-lvgl-nuttx) <img src="https://img.shields.io/github/stars/lupyuen/zig-lvgl-nuttx?style=social"/> : Zig LVGL Touchscreen App on Apache NuttX RTOS.
 
   - [Ronsor/riscv-zig](https://github.com/Ronsor/riscv-zig) <img src="https://img.shields.io/github/stars/Ronsor/riscv-zig?style=social"/> : A RISC-V emulator written in Zig.
 
@@ -264,13 +271,13 @@
 
 
 
-
-
 ## FFI Bindings 
 
   - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
 
   - [C 语言调用 Zig](https://github.com/zigcc/forum/discussions/12) : C 语言调用 Zig (FFI 完整用例)。
+
+  - [wisonye/zig-build-cpp-with-libs](https://github.com/wisonye/zig-build-cpp-with-libs) <img src="https://img.shields.io/github/stars/wisonye/zig-build-cpp-with-libs?style=social"/> : This demo shows how to use build.zig to compile a C++ project and call C++ lib function in Zig. It includes everything you need to know about when dealing with a C++ project with Zig.
 
   - [suirad/zig-header-gen](https://github.com/suirad/zig-header-gen) <img src="https://img.shields.io/github/stars/suirad/zig-header-gen?style=social"/> : Automatically generate headers/bindings for other languages from Zig code.
 
@@ -297,6 +304,9 @@
   - [ExpidusOS/zig-flutter](https://github.com/ExpidusOS/zig-flutter) <img src="https://img.shields.io/github/stars/ExpidusOS/zig-flutter?style=social"/> : Flutter w/ Zig.
 
   - [Flutter/Dart + FFI + Zig](https://github.com/hhstore/blog/issues/384) : Flutter/Dart + FFI + Zig: call a Zig function from Dart using FFI.
+
+
+
 
 
 
@@ -340,11 +350,20 @@
 
   - ### Machine Learning Framework
 
+
     - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
+
+    - [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn) <img src="https://img.shields.io/github/stars/rockcarry/ffcnn?style=social"/> : ffcnn is a cnn neural network inference framework, written in 600 lines C language.
+
+    - [xboot/libonnx](https://github.com/xboot/libonnx) <img src="https://img.shields.io/github/stars/xboot/libonnx?style=social"/> : A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support. 
+
+    - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) <img src="https://img.shields.io/github/stars/kraiskil/onnx2c?style=social"/> : Open Neural Network Exchange to C compiler. Onnx2c is a [ONNX](https://onnx.ai/) to C compiler. It will read an ONNX file, and generate C code to be included in your project. Onnx2c's target is "Tiny ML", meaning running the inference on microcontrollers. 
 
     - [candrewlee14/zgml](https://github.com/candrewlee14/zgml) <img src="https://img.shields.io/github/stars/candrewlee14/zgml?style=social"/> : Tensor library for machine learning, inspired by ggml.
 
     - [maihd/zten](https://github.com/maihd/zten) <img src="https://img.shields.io/github/stars/maihd/zten?style=social"/> : Tensor library for Zig, based on ggml.
+
+    - [andrewCodeDev/ZEIN](https://github.com/andrewCodeDev/ZEIN) <img src="https://img.shields.io/github/stars/andrewCodeDev/ZEIN?style=social"/> : Zig-based implementation of tensors.
 
     - [Gonzih/onnx-worker.zig](https://github.com/Gonzih/onnx-worker.zig) <img src="https://img.shields.io/github/stars/Gonzih/onnx-worker.zig?style=social"/> : onnx-worker.zig
 
@@ -408,7 +427,7 @@
 
   - [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) <img src="https://img.shields.io/github/stars/vrischmann/zig-sqlite?style=social"/> : zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. 
 
-
+  - [karlseguin/zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) <img src="https://img.shields.io/github/stars/karlseguin/zuckdb.zig?style=social"/> : Zig driver for DuckDB.
 
 
 
@@ -569,6 +588,8 @@
 
   - [CoalNova/BasicCompare](https://github.com/CoalNova/BasicCompare) <img src="https://img.shields.io/github/stars/CoalNova/BasicCompare?style=social"/> : A basic comparitive analysis of C, C++, Rust, and Zig. 
 
+  - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) <img src="https://img.shields.io/github/stars/ziglang/gotta-go-fast?style=social"/> : Performance Tracking for Zig.
+
 
 
 ## GUI
@@ -580,6 +601,7 @@
   - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) <img src="https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=social"/> : A single-header ANSI C immediate mode cross-platform GUI library. [immediate-mode-ui.github.io](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
 
   - [Capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
+  
 
   - [david-vanderson/gui](https://github.com/david-vanderson/gui) <img src="https://img.shields.io/github/stars/david-vanderson/gui?style=social"/> : Easy to Integrate Immediate Mode GUI for Zig.
 
@@ -592,6 +614,10 @@
   - [batiati/IUPforZig](https://github.com/batiati/IUPforZig) <img src="https://img.shields.io/github/stars/batiati/IUPforZig?style=social"/> : [IUP (Portable User Interface Toolkit)](https://webserver2.tecgraf.puc-rio.br/iup/) bindings for the Zig language.
 
   - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) <img src="https://img.shields.io/github/stars/donpdonp/zootdeck?style=social"/> : Fediverse GTK Desktop Reader. [donpdonp.github.io/zootdeck/](https://donpdonp.github.io/zootdeck/)
+
+  - [lupyuen/zig-lvgl-nuttx](https://github.com/lupyuen/zig-lvgl-nuttx) <img src="https://img.shields.io/github/stars/lupyuen/zig-lvgl-nuttx?style=social"/> : Zig LVGL Touchscreen App on Apache NuttX RTOS.
+
+  - [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) <img src="https://img.shields.io/github/stars/lupyuen/pinephone-lvgl-zig?style=social"/> : LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS. [lupyuen.github.io/articles/lvgl2](https://lupyuen.github.io/articles/lvgl2)
 
 
 
