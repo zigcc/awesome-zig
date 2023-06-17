@@ -11,8 +11,8 @@
     - [Community](#community)
     - [Learning Resources](#learning-resources)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
-  - [Memory Allocator](#memory-allocator)
-  - [Package Manager](#package-manager)
+  - [Memory Allocator and Management](#memory-allocator-and-management)
+  - [Package and Version Manager](#package-and-version-manager)
   - [Asynchronous Runtime](#asynchronous-runtime)
   - [Embedded Development](#embedded-development)
   - [General Operating System](#general-operating-system)
@@ -34,6 +34,7 @@
   - [Finite State Machine](#finite-state-machine)
   - [Game Engine](#game-engine)
   - [Web Framework](#web-framework)
+  - [Web3 Framework](#web3-framework)
   - [WebAssembly Runtime](#webAssembly-runtime)
   - [Performance Benchmark](#performance-benchmark)
   - [GUI](#gui)
@@ -80,6 +81,8 @@
     - [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50) : A half-hour to learn Zig.
 
     - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
+
+    - [rust-lang/rust-by-example](https://github.com/zigbyexample/zigbyexample.github.io) <img src="https://img.shields.io/github/stars/zigbyexample/zigbyexample.github.io?style=social"/> : Learn How to use Zig's Standard Library, by simple and small examples. [zigbyexample.github.io](https://zigbyexample.github.io/)
 
     - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
 
@@ -128,7 +131,7 @@
 
 
 
-## Memory Allocator
+## Memory Allocator and Management 
 
   - [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) <img src="https://img.shields.io/github/stars/mdsteele/ziegfried?style=social"/> : A general-purpose memory allocator for Zig.
 
@@ -152,11 +155,11 @@
 
   - [rdunnington/zig-stable-array](https://github.com/rdunnington/zig-stable-array) <img src="https://img.shields.io/github/stars/rdunnington/zig-stable-array?style=social"/> : Address-stable array with a max size that allocates directly from virtual memory.
 
+  - [Aandreba/zigrc](https://github.com/Aandreba/zigrc) <img src="https://img.shields.io/github/stars/Aandreba/zigrc?style=social"/> : Zig reference-counted pointers inspired by Rust's Rc and Arc. [aandreba.github.io/zigrc/](https://aandreba.github.io/zigrc/)
 
 
 
-
-## Package Manager
+## Package and Version Manager
 
   - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) <img src="https://img.shields.io/github/stars/mitchellh/zig-overlay?style=social"/> : Nix flake for the Zig compiler.
 
@@ -178,16 +181,15 @@
 
   - [thejoshwolfe/zig-download](https://github.com/thejoshwolfe/zig-download) <img src="https://img.shields.io/github/stars/thejoshwolfe/zig-download?style=social"/> : Tool for downloading precompiled zig tarballs from [https://ziglang.org/download/](https://ziglang.org/download/). This is basically the same thing as [zigup](https://github.com/marler8997/zigup), but I wrote this one as an exercise.
 
+  - [jsomedon/night.zig](https://github.com/jsomedon/night.zig) <img src="https://img.shields.io/github/stars/jsomedon/night.zig?style=social"/> : Simple tool that just install & update zig nightly. 
 
-
-
+  - [matklad/hello-getzig](https://github.com/matklad/hello-getzig) <img src="https://img.shields.io/github/stars/matklad/hello-getzig?style=social"/> : getzig is an idea for a zig version manager along the lines of gradle wrapper.
 
 
 
 ## Asynchronous Runtime
 
   - [mitchellh/libxev](https://github.com/mitchellh/libxev) <img src="https://img.shields.io/github/stars/mitchellh/libxev?style=social"/> : libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
-
 
   - [kprotty/zap](https://github.com/kprotty/zap) <img src="https://img.shields.io/github/stars/kprotty/zap?style=social"/> : An asynchronous runtime with a focus on performance and resource efficiency.
 
@@ -305,7 +307,7 @@
 
   - [Flutter/Dart + FFI + Zig](https://github.com/hhstore/blog/issues/384) : Flutter/Dart + FFI + Zig: call a Zig function from Dart using FFI.
 
-
+  - [lassade/c2z](https://github.com/lassade/c2z) <img src="https://img.shields.io/github/stars/lassade/c2z?style=social"/> : C++ to Zig bindings and transpiler.
 
 
 
@@ -376,7 +378,7 @@
 
     - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
-
+    - [EugenHotaj/zig_inference](https://github.com/EugenHotaj/zig_inference) <img src="https://img.shields.io/github/stars/EugenHotaj/zig_inference?style=social"/> : Neural Network Inference Engine in Zig.
 
 
 
@@ -473,7 +475,7 @@
 
   - [ziglibs/s2s](https://github.com/ziglibs/s2s) <img src="https://img.shields.io/github/stars/ziglibs/s2s?style=social"/> : A zig binary serialization format. 
 
-
+  - [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) <img src="https://img.shields.io/github/stars/Arwalk/zig-protobuf?style=social"/> : a protobuf 3 implementation for zig. 
   
 
 
@@ -510,9 +512,6 @@
 
 
 
-
-
-
 ## Game Engine
 
   - [Mach](https://github.com/hexops/mach) <img src="https://img.shields.io/github/stars/hexops/mach?style=social"/> : Mach is a game engine & graphics toolkit for the future. machengine.org. 
@@ -537,9 +536,7 @@
 
   - [foxnne/aftersun](https://github.com/foxnne/aftersun) <img src="https://img.shields.io/github/stars/foxnne/aftersun?style=social"/> : Top-down 2D RPG.
 
-
-
-
+  - [4imothy/termy48](https://github.com/4imothy/termy48) <img src="https://img.shields.io/github/stars/4imothy/termy48?style=social"/> : A 2048 game to run in terminal.
 
 
 
@@ -557,6 +554,19 @@
 
   - [nikneym/ws](https://github.com/nikneym/ws) <img src="https://img.shields.io/github/stars/nikneym/ws?style=social"/> : WebSocket library for Zig ⚡
 
+  - [bnl1/zig-html-examples](https://github.com/bnl1/zig-html-examples) <img src="https://img.shields.io/github/stars/bnl1/zig-html-examples?style=social"/> : string building using comptime in zig.
+
+
+
+
+
+## Web3 Framework
+
+  - [lithdew/rheia](https://github.com/lithdew/rheia) <img src="https://img.shields.io/github/stars/lithdew/rheia?style=social"/> : A blockchain written in Zig. 
+
+  - [jsign/zig-verkle-crypto](https://github.com/jsign/zig-verkle-crypto) <img src="https://img.shields.io/github/stars/jsign/zig-verkle-crypto?style=social"/> : Cryptography for Ethereum Verkle Trees. 
+
+  - [Ultra-Code/recblock](https://github.com/Ultra-Code/recblock) <img src="https://img.shields.io/github/stars/Ultra-Code/recblock?style=social"/> : Blockchain for a record management and money transfer system.
 
 
 
@@ -576,6 +586,9 @@
   - [zigwasm/wasm-zig](https://github.com/zigwasm/wasm-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasm-zig?style=social"/> : Common Wasm runtime binding to C API.
 
   - [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) <img src="https://img.shields.io/github/stars/zigwasm/wasmtime-zig?style=social"/> : Zig embedding of Wasmtime.
+
+  - [sleibrock/zigtoys](https://github.com/sleibrock/zigtoys) <img src="https://img.shields.io/github/stars/sleibrock/zigtoys?style=social"/> : All about Zig + WASM and seeing what we can do. [sleibrock.github.io/zigtoys/](https://sleibrock.github.io/zigtoys/)
+
 
 
 
@@ -601,7 +614,6 @@
   - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) <img src="https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=social"/> : A single-header ANSI C immediate mode cross-platform GUI library. [immediate-mode-ui.github.io](https://immediate-mode-ui.github.io/Nuklear/doc/index.html)
 
   - [Capy](https://github.com/capy-ui/capy) <img src="https://img.shields.io/github/stars/capy-ui/capy?style=social"/> : 💻Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/)
-  
 
   - [david-vanderson/gui](https://github.com/david-vanderson/gui) <img src="https://img.shields.io/github/stars/david-vanderson/gui?style=social"/> : Easy to Integrate Immediate Mode GUI for Zig.
 
@@ -619,6 +631,10 @@
 
   - [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) <img src="https://img.shields.io/github/stars/lupyuen/pinephone-lvgl-zig?style=social"/> : LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS. [lupyuen.github.io/articles/lvgl2](https://lupyuen.github.io/articles/lvgl2)
 
+  - [ziglibs/positron](https://github.com/ziglibs/positron) <img src="https://img.shields.io/github/stars/ziglibs/positron?style=social"/> : A web renderer frontend for zig applications.
+
+
+
 
 
 ## Blogs
@@ -627,12 +643,30 @@
     - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
   - [Jamie Brandon](https://www.scattered-thoughts.net/)
     - [2020-10-19，Assorted thoughts on zig (and rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
-  - [matklad](https://matklad.github.io/)
-    - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
-  - [kassane](https://kassane.github.io/)
-    - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
   - [Pocket Casts](https://pocketcasts.com/)
     - [2023-05-14，Linking & Binary Hot Code Loading with Jakub Konka](https://pca.st/1vqm6obx)
+  - [Emil Privér](https://www.priver.dev/)
+    - [2023-05-05，Initial Commit: Zig](https://www.priver.dev/blog/zig/initial-commit/)
+    - [2023-05-15，Initial Commit: Zig Build System](https://www.priver.dev/blog/zig/initial-commit-build-system/)
+  - [LEE Lup Yuen](https://lupyuen.codeberg.page/)
+    - [2023-05-31，(Possibly) LVGL in WebAssembly with Zig Compiler](https://lupyuen.codeberg.page/articles/lvgl3.html)
+  - [Juliette](https://juliette.page/)
+    - [2023-06-01，Writing an init system in a language I don't know](https://juliette.page/blog/init.html)
+  - [Uber Blog](https://www.uber.com/en-IT/blog/)
+    - [2023-05-03，Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-IT/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
+  - [Mitchell Hashimoto](https://mitchellh.com/)
+    - [2023-05-27，Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
+  - [matklad](https://matklad.github.io/)
+    - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+    - [2023-05-06，Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
+    - [2023-06-02，The Worst Zig Version Manager](https://matklad.github.io/2023/06/02/the-worst-zig-version-manager.html)
+  - [kassane](https://kassane.github.io/)
+    - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
+  - [E Aakash](https://e-aakash.github.io/)
+    - [2023-06-04，resolv - Writing DNS resolver in Zig](https://e-aakash.github.io/update/2023/06/04/resolv-dns-resolver-in-zig.html)
+   - [Zig NEWS](https://zig.news/)
+    - [2023-05-03，Anytype Antics](https://zig.news/perky/anytype-antics-2398)
+    - [2023-06-11，Coming Soon to a Zig Near You: HTTP Client](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
   - [Zig 语言中文社区](https://zigcc.github.io/)
     - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
     - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)   
@@ -645,9 +679,11 @@
     - [202304 | 首次闯入 Tiobe 前 50](https://zigcc.github.io/monthly/202304/)
   - 微信公众号「Zig 语言」
     - [2023-05-14，在已经存在 C++/的D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/FX7qiwQjLZLsazmii8QVPw)
+    - [2023-06-17，Zig 月报 202305 | HTTP is built-in](https://mp.weixin.qq.com/s/kssoBGDM8ioq7ImSK627MA)
   - 微信公众号「RustTalk」
     - [2023-05-18，在已经存在 C++/D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/JLxdw5xkyq5bFjKQWe2CHQ)
   - 微信公众号「EmacsTalk」
     - [2023-05-05，Zig 月报 202304](https://mp.weixin.qq.com/s/KpoCU1kYHnash4VhUiT-VQ)
   - 微信公众号「CSDN」
     - [2023-04-07，C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
+    - [2023-06-14，我认为 Zig 非常难，但值得一试](https://mp.weixin.qq.com/s/xN5EWkzPI-SgTK3FTh--Dg)
