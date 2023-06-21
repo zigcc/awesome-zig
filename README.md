@@ -82,7 +82,7 @@
 
     - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
 
-    - [rust-lang/rust-by-example](https://github.com/zigbyexample/zigbyexample.github.io) <img src="https://img.shields.io/github/stars/zigbyexample/zigbyexample.github.io?style=social"/> : Learn How to use Zig's Standard Library, by simple and small examples. [zigbyexample.github.io](https://zigbyexample.github.io/)
+    - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) <img src="https://img.shields.io/github/stars/zigbyexample/zigbyexample.github.io?style=social"/> : Learn How to use Zig's Standard Library, by simple and small examples. [zigbyexample.github.io](https://zigbyexample.github.io/)
 
     - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
 
