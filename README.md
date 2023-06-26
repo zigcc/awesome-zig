@@ -11,6 +11,8 @@
     - [Community](#community)
     - [Learning Resources](#learning-resources)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
+  - [String Processing](#string-processing)
+  - [Command Line and Argument Parser](#command-line-and-argument-parser)
   - [Memory Allocator and Management](#memory-allocator-and-management)
   - [Package and Version Manager](#package-and-version-manager)
   - [Asynchronous Runtime](#asynchronous-runtime)
@@ -82,6 +84,8 @@
 
     - [ratfactor/ziglings](https://github.com/ratfactor/ziglings) <img src="https://img.shields.io/github/stars/ratfactor/ziglings?style=social"/> : Learn the Zig programming language by fixing tiny broken programs.
 
+    - [ibokuri/zig-by-example](https://github.com/ibokuri/zig-by-example) <img src="https://img.shields.io/github/stars/ibokuri/zig-by-example?style=social"/> : Zig by Example. [ zig-by-example.com](https://zig-by-example.com/)
+
     - [zigbyexample/zigbyexample.github.io](https://github.com/zigbyexample/zigbyexample.github.io) <img src="https://img.shields.io/github/stars/zigbyexample/zigbyexample.github.io?style=social"/> : Learn How to use Zig's Standard Library, by simple and small examples. [zigbyexample.github.io](https://zigbyexample.github.io/)
 
     - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) <img src="https://img.shields.io/github/stars/better-zig/learn-zig?style=social"/> : zig quick learn.
@@ -102,21 +106,13 @@
 
 
 
-
-
-
-
 ## Data Structure and Algorithm 
 
+  - [hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
+
+  - [hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
+
   - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) <img src="https://img.shields.io/github/stars/TheAlgorithms/Zig?style=social"/> : Collection of Algorithms implemented in Zig. 
-
-  - [krahets/hello-algo](https://github.com/krahets/hello-algo) <img src="https://img.shields.io/github/stars/krahets/hello-algo?style=social"/> : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
-
-  - [sjinzh/hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) <img src="https://img.shields.io/github/stars/sjinzh/hello-algo-rust-zig?style=social"/> : Rust and Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
-
-  - [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) <img src="https://img.shields.io/github/stars/JakubSzark/zig-string?style=social"/> : Zig String (A UTF-8 String Library). This library is a UTF-8 compatible string library for the Zig programming language. 
-
-  - [jecolon/zigstr](https://github.com/jecolon/zigstr) <img src="https://img.shields.io/github/stars/jecolon/zigstr?style=social"/> : Zigstr is a UTF-8 string type for Zig programs. 
 
   - [mitchellh/zig-graph](https://github.com/mitchellh/zig-graph) <img src="https://img.shields.io/github/stars/mitchellh/zig-graph?style=social"/> : Directed graph data structure for Zig. 
   
@@ -128,6 +124,33 @@
 
   - [JacobCrabill/btree.zig](https://github.com/JacobCrabill/btree.zig) <img src="https://img.shields.io/github/stars/JacobCrabill/btree.zig?style=social"/> : Behavior Tree library written in Zig.
 
+
+
+## String Processing
+
+  - [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) <img src="https://img.shields.io/github/stars/JakubSzark/zig-string?style=social"/> : Zig String (A UTF-8 String Library). This library is a UTF-8 compatible string library for the Zig programming language. 
+
+  - [jecolon/zigstr](https://github.com/jecolon/zigstr) <img src="https://img.shields.io/github/stars/jecolon/zigstr?style=social"/> : Zigstr is a UTF-8 string type for Zig programs. 
+
+
+
+## Command Line and Argument Parser 
+
+  - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) <img src="https://img.shields.io/github/stars/Hejsil/zig-clap?style=social"/> : A simple and easy to use command line argument parser library for Zig.
+
+  - [MasterQ32/zig-args](https://github.com/MasterQ32/zig-args) <img src="https://img.shields.io/github/stars/MasterQ32/zig-args?style=social"/> : Simple-to-use argument parser with struct-based config.
+
+  - [PrajwalCH/yazap](https://github.com/PrajwalCH/yazap) <img src="https://img.shields.io/github/stars/PrajwalCH/yazap?style=social"/> : 🔧 The ultimate Zig library for seamless command line parsing. Effortlessly handles options, subcommands, and custom arguments with ease. [prajwalch.github.io/yazap](https://prajwalch.github.io/yazap)
+
+  - [jiacai2050/simargs](https://github.com/jiacai2050/simargs) <img src="https://img.shields.io/github/stars/jiacai2050/simargs?style=social"/> : A simple, opinionated, struct-based argument parser in Zig, taking full advantage of [comptime](https://kristoff.it/blog/what-is-zig-comptime/).
+
+  - [BanchouBoo/accord](https://github.com/BanchouBoo/accord) <img src="https://img.shields.io/github/stars/BanchouBoo/accord?style=social"/> : A simple argument parser for Zig. 
+
+  - [judofyr/parg](https://github.com/judofyr/parg) <img src="https://img.shields.io/github/stars/judofyr/parg?style=social"/> : Lightweight argument parser for Zig.
+
+  - [jiacai2050/zigcli](https://github.com/jiacai2050/zigcli) <img src="https://img.shields.io/github/stars/jiacai2050/zigcli?style=social"/> : Command line programs written in Zig. 
+
+  - [sam701/zig-cli](https://github.com/sam701/zig-cli) <img src="https://img.shields.io/github/stars/sam701/zig-cli?style=social"/> : A simple package for building command line apps in Zig.
 
 
 
@@ -354,6 +377,8 @@
 
 
     - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
+
+    - [ggml-zig](https://github.com/sjinzh/ggml-zig) <img src="https://img.shields.io/github/stars/sjinzh/ggml-zig?style=social"/> : Zig bindings for [ggml](https://github.com/ggerganov/ggml): Tensor library for machine learning. 
 
     - [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn) <img src="https://img.shields.io/github/stars/rockcarry/ffcnn?style=social"/> : ffcnn is a cnn neural network inference framework, written in 600 lines C language.
 
@@ -639,8 +664,23 @@
 
 ## Blogs
 
+   - [Zig NEWS](https://zig.news/)
+    - [2023-05-03，Anytype Antics](https://zig.news/perky/anytype-antics-2398)
+    - [2023-06-11，Coming Soon to a Zig Near You: HTTP Client](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
+  - [matklad](https://matklad.github.io/)
+    - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+    - [2023-05-06，Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
+    - [2023-06-02，The Worst Zig Version Manager](https://matklad.github.io/2023/06/02/the-worst-zig-version-manager.html)
+  - [kassane](https://kassane.github.io/)
+    - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
+  - [E Aakash](https://e-aakash.github.io/)
+    - [2023-06-04，resolv - Writing DNS resolver in Zig](https://e-aakash.github.io/update/2023/06/04/resolv-dns-resolver-in-zig.html)
   - [CoRecursive](https://corecursive.com/)
-    - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/)      
+    - [2021-08-02，Full-Time Open Source With Andrew Kelley](https://corecursive.com/067-zig-with-andrew-kelley/) 
+  - [Loris Cro](https://kristoff.it/)
+    - [2019-08-05，What is Zig's Comptime?](https://kristoff.it/blog/what-is-zig-comptime/)   
+    - [2023-02-27，Zig's Curious Multi-Sequence For Loops](https://kristoff.it/blog/zig-multi-sequence-for-loops/)    
+    - [2023-06-16，A Note About Zig Books for the Zig Community](https://kristoff.it/blog/note-about-zig-books/)    
   - [Jamie Brandon](https://www.scattered-thoughts.net/)
     - [2020-10-19，Assorted thoughts on zig (and rust)](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
   - [Pocket Casts](https://pocketcasts.com/)
@@ -656,17 +696,9 @@
     - [2023-05-03，Bootstrapping Uber’s Infrastructure on arm64 with Zig](https://www.uber.com/en-IT/blog/bootstrapping-ubers-infrastructure-on-arm64-with-zig/)
   - [Mitchell Hashimoto](https://mitchellh.com/)
     - [2023-05-27，Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
-  - [matklad](https://matklad.github.io/)
-    - [2023-03-26，Zig And Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
-    - [2023-05-06，Zig Language Server And Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
-    - [2023-06-02，The Worst Zig Version Manager](https://matklad.github.io/2023/06/02/the-worst-zig-version-manager.html)
-  - [kassane](https://kassane.github.io/)
-    - [2023-05-03，Next Zig version 🦎 - 0.11.x with Package Manager](https://kassane.github.io/2023/05/03/zig-pkg/)
-  - [E Aakash](https://e-aakash.github.io/)
-    - [2023-06-04，resolv - Writing DNS resolver in Zig](https://e-aakash.github.io/update/2023/06/04/resolv-dns-resolver-in-zig.html)
-   - [Zig NEWS](https://zig.news/)
-    - [2023-05-03，Anytype Antics](https://zig.news/perky/anytype-antics-2398)
-    - [2023-06-11，Coming Soon to a Zig Near You: HTTP Client](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
+  - [Jiacai Liu](https://en.liujiacai.net/)
+    - [2022-12-14，What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
+    - [2023-04-13，Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
   - [Zig 语言中文社区](https://zigcc.github.io/)
     - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
     - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)   
