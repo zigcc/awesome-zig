@@ -132,6 +132,8 @@
 
   - [jecolon/zigstr](https://github.com/jecolon/zigstr) <img src="https://img.shields.io/github/stars/jecolon/zigstr?style=social"/> : Zigstr is a UTF-8 string type for Zig programs. 
 
+  - [ziglibs/string-searching](https://github.com/ziglibs/string-searching) <img src="https://img.shields.io/github/stars/ziglibs/string-searching?style=social"/> : String(not limited to []const u8)-searching algorithms in zig.
+
 
 
 ## Command Line and Argument Parser 
@@ -179,6 +181,8 @@
   - [rdunnington/zig-stable-array](https://github.com/rdunnington/zig-stable-array) <img src="https://img.shields.io/github/stars/rdunnington/zig-stable-array?style=social"/> : Address-stable array with a max size that allocates directly from virtual memory.
 
   - [Aandreba/zigrc](https://github.com/Aandreba/zigrc) <img src="https://img.shields.io/github/stars/Aandreba/zigrc?style=social"/> : Zig reference-counted pointers inspired by Rust's Rc and Arc. [aandreba.github.io/zigrc/](https://aandreba.github.io/zigrc/)
+
+  - [dweiller/zimalloc](https://github.com/dweiller/zimalloc) <img src="https://img.shields.io/github/stars/dweiller/zimalloc?style=social"/> : zimalloc is general purpose allocator for Zig, inspired by [mimalloc](https://github.com/microsoft/mimalloc).
 
 
 
@@ -339,9 +343,11 @@
 
 ## GPU Computing 
 
-  - [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) <img src="https://img.shields.io/github/stars/Snektron/vulkan-zig?style=social"/> : Vulkan binding generator for Zig.
-
   - [gwenzek/cudaz](https://github.com/gwenzek/cudaz) <img src="https://img.shields.io/github/stars/gwenzek/cudaz?style=social"/> : Toy Cuda wrapper for Zig.
+
+  - [lennyerik/cutransform](https://github.com/lennyerik/cutransform) <img src="https://img.shields.io/github/stars/lennyerik/cutransform?style=social"/> : CUDA kernels in any language supported by LLVM.
+
+  - [Snektron/vulkan-zig](https://github.com/Snektron/vulkan-zig) <img src="https://img.shields.io/github/stars/Snektron/vulkan-zig?style=social"/> : Vulkan binding generator for Zig.
 
   - [hexops/mach-gpu](https://github.com/hexops/mach-gpu) <img src="https://img.shields.io/github/stars/hexops/mach-gpu?style=social"/> : mach/gpu provides a truly cross-platform graphics API for Zig (desktop, mobile, and web) with unified low-level graphics & compute backed by Vulkan, Metal, D3D12, and OpenGL (as a best-effort fallback.)
 
@@ -350,6 +356,9 @@
   - [ckrowland/simulations](https://github.com/ckrowland/simulations) <img src="https://img.shields.io/github/stars/ckrowland/simulations?style=social"/> : GPU accelerated visual simulations.
 
   - [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) <img src="https://img.shields.io/github/stars/Avokadoen/zig_vulkan?style=social"/> : Toying with vulkan and zig.
+
+
+
 
 
 
@@ -368,6 +377,10 @@
     - [BanchouBoo/algae](https://github.com/BanchouBoo/algae) <img src="https://img.shields.io/github/stars/BanchouBoo/algae?style=social"/> : Zig math library focused on game development.
 
     - [JungerBoyo/zmath](https://github.com/JungerBoyo/zmath) <img src="https://img.shields.io/github/stars/JungerBoyo/zmath?style=social"/> : simple linear algebra library written in zig.
+
+    - [pblischak/zprob](https://github.com/pblischak/zprob) <img src="https://img.shields.io/github/stars/pblischak/zprob?style=social"/> : A Zig Library for Probability Distributions.
+
+
 
 
 
@@ -392,7 +405,11 @@
 
     - [andrewCodeDev/ZEIN](https://github.com/andrewCodeDev/ZEIN) <img src="https://img.shields.io/github/stars/andrewCodeDev/ZEIN?style=social"/> : Zig-based implementation of tensors.
 
+    - [recursiveGecko/onnxruntime.zig](https://github.com/recursiveGecko/onnxruntime.zig) <img src="https://img.shields.io/github/stars/recursiveGecko/onnxruntime.zig?style=social"/> : Experimental Zig wrapper for ONNX Runtime with examples (Silero VAD, NSNet2).
+
     - [Gonzih/onnx-worker.zig](https://github.com/Gonzih/onnx-worker.zig) <img src="https://img.shields.io/github/stars/Gonzih/onnx-worker.zig?style=social"/> : onnx-worker.zig
+
+
 
 
 
@@ -403,7 +420,9 @@
 
     - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) <img src="https://img.shields.io/github/stars/renerocksai/gpt4all.zig?style=social"/> : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
-    - [EugenHotaj/zig_inference](https://github.com/EugenHotaj/zig_inference) <img src="https://img.shields.io/github/stars/EugenHotaj/zig_inference?style=social"/> : Neural Network Inference Engine in Zig.
+    - [EugenHotaj/zig_gpt2](https://github.com/EugenHotaj/zig_gpt2) <img src="https://img.shields.io/github/stars/EugenHotaj/zig_gpt2?style=social"/> : Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT](https://github.com/karpathy/nanoGPT).
+
+
 
 
 
@@ -456,7 +475,7 @@
 
   - [karlseguin/zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) <img src="https://img.shields.io/github/stars/karlseguin/zuckdb.zig?style=social"/> : Zig driver for DuckDB.
 
-
+  - [mjoerussell/zdb](https://github.com/mjoerussell/zdb) <img src="https://img.shields.io/github/starsmjoerussell/zdb?style=social"/> : A library for interacting with databases in Zig.
 
 
 
@@ -581,11 +600,13 @@
 
   - [bnl1/zig-html-examples](https://github.com/bnl1/zig-html-examples) <img src="https://img.shields.io/github/stars/bnl1/zig-html-examples?style=social"/> : string building using comptime in zig.
 
-
+  - [karlseguin/http.zig](https://github.com/karlseguin/http.zig) <img src="https://img.shields.io/github/stars/karlseguin/http.zig?style=social"/> : An HTTP/1.1 server for zig.
 
 
 
 ## Web3 Framework
+
+  - [Syndica/sig](https://github.com/Syndica/sig) <img src="https://img.shields.io/github/stars/Syndica/sig?style=social"/> : a Solana Zig RPC Client implementation.
 
   - [lithdew/rheia](https://github.com/lithdew/rheia) <img src="https://img.shields.io/github/stars/lithdew/rheia?style=social"/> : A blockchain written in Zig. 
 
