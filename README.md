@@ -57,6 +57,8 @@
 
     - [Zig](https://github.com/ziglang/zig) : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://github.com/andrewrk)
 
+    - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
+    
     - [Zig std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
 
 
@@ -76,6 +78,7 @@
   - ### Community
 
     - [Zig NEWS](https://zig.news/) : Zig NEWS is a community of amazing programmers.
+
     - [Zig 语言中文社区](https://zigcc.github.io/) : Zig 语言中文社区，致力于分享、传播 Zig 语言在中文用户内的使用。
 
 
