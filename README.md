@@ -62,13 +62,13 @@
 
   - ### Awesome List
 
+    - [zigcc/awesome-zig-list](https://github.com/zigcc/awesome-zig-list) : 🔥🔥🔥 This repository lists some awesome public Zig programming language projects.
+
     - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) : 📜Zig Learning & Usage Guide. 
 
     - [catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) : A list of awesome projects related to Zig.
 
     - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) : Awesome Zig. 
-
-    - [sjinzh/awesome-zig-list](https://github.com/sjinzh/awesome-zig-list) : 🔥🔥🔥This repository lists some awesome public Zig programming language projects. 
 
     - [rofrol/awesome-zig](https://github.com/rofrol/awesome-zig) : Everything I find about zig.
 
