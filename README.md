@@ -111,7 +111,7 @@
 
     - [someone-stole-my-name/advent-of-zig-2022](https://github.com/someone-stole-my-name/advent-of-zig-2022) : Advent of Code 2022 in Zig.
 
-  - [belse-de/zig-tut](https://github.com/belse-de/zig-tut) : A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
+    - [belse-de/zig-tut](https://github.com/belse-de/zig-tut) : A collection of small projects and tutorials to learn ZIG; may it be inspiration for others as well.
 
 
 
