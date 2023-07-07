@@ -952,7 +952,7 @@
 
 ## Blogs
 
-   - [Zig NEWS](https://zig.news/)
+  - [Zig NEWS](https://zig.news/)
     - [2023-02-19，Multi-Object For Loops + Struct-Of-Arrays](https://zig.news/andrewrk/multi-object-for-loops-data-oriented-design-41ob)
     - [2023-04-19，Coming Soon to a Zig Near You: HTTP Client](https://zig.news/nameless/coming-soon-to-a-zig-near-you-http-client-5b81)
     - [2023-05-03，Anytype Antics](https://zig.news/perky/anytype-antics-2398)
