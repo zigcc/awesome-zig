@@ -122,7 +122,7 @@
 
   - [hello-algo](https://github.com/krahets/hello-algo) : 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。 前往阅读 > [hello-algo.com](https://www.hello-algo.com/). 
 
-  - [hello-algo-rust-zig](https://github.com/sjinzh/hello-algo-rust-zig) : Rust and Zig programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
+  - [hello-algo-zig](https://github.com/sjinzh/hello-algo-zig) : **Zig** programming language codes for the famous public project [《Hello, Algorithm》|《 Hello，算法 》](https://github.com/krahets/hello-algo) about data structures and algorithms.
 
   - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) : Collection of Algorithms implemented in Zig. 
 
@@ -150,7 +150,7 @@
 
   - [Sahnvour/zig-containers](https://github.com/Sahnvour/zig-containers) : A set of containers for Zig.
 
-
+  - [booniepepper/zig-data-structures](https://github.com/booniepepper/zig-data-structures) : Home to some experiments in Zig data structures.
 
 
 ## String Processing
@@ -461,23 +461,23 @@
 
 
     - [ggml](https://github.com/ggerganov/ggml) : Tensor library for machine learning. Written in C.
-
+    
     - [ggml-zig](https://github.com/sjinzh/ggml-zig) : [ggml: Tensor library for machine learning](https://github.com/ggerganov/ggml) written in zig. 
-
+    
     - [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn) : ffcnn is a cnn neural network inference framework, written in 600 lines C language.
-
+    
     - [xboot/libonnx](https://github.com/xboot/libonnx) : A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support. 
-
+    
     - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) : Open Neural Network Exchange to C compiler. Onnx2c is a [ONNX](https://onnx.ai/) to C compiler. It will read an ONNX file, and generate C code to be included in your project. Onnx2c's target is "Tiny ML", meaning running the inference on microcontrollers. 
-
+    
     - [candrewlee14/zgml](https://github.com/candrewlee14/zgml) : Tensor library for machine learning, inspired by ggml.
-
+    
     - [maihd/zten](https://github.com/maihd/zten) : Tensor library for Zig, based on ggml.
-
+    
     - [andrewCodeDev/ZEIN](https://github.com/andrewCodeDev/ZEIN) : Zig-based implementation of tensors.
-
+    
     - [recursiveGecko/onnxruntime.zig](https://github.com/recursiveGecko/onnxruntime.zig) : Experimental Zig wrapper for ONNX Runtime with examples (Silero VAD, NSNet2).
-
+    
     - [Gonzih/onnx-worker.zig](https://github.com/Gonzih/onnx-worker.zig) : onnx-worker.zig
 
 
