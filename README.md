@@ -598,6 +598,8 @@
 
 
 
+
+
 ## Logging Processing
 
   - [emekoi/log.zig](https://github.com/emekoi/log.zig) : a thread-safe logging library for zig.
@@ -777,7 +779,7 @@
 
   - [shritesh/zigfmt-web](https://github.com/shritesh/zigfmt-web) : zig fmt on the web.
 
-
+  - [leroycep/zig-jwt](https://github.com/leroycep/zig-jwt) : JSON Web Tokens for Zig.
 
 
 
