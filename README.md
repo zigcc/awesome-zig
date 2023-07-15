@@ -1009,6 +1009,7 @@
   - 微信公众号「Zig 语言」
     - [2023-05-14，在已经存在 C++/的D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/FX7qiwQjLZLsazmii8QVPw)
     - [2023-06-17，Zig 月报 202305 | HTTP is built-in](https://mp.weixin.qq.com/s/kssoBGDM8ioq7ImSK627MA)
+    - [2023-06-24，A Note About Zig Books for the Zig Community](https://mp.weixin.qq.com/s/hKJOPIdqyQgVJ3Nnns5dzg)
     - [2023-07-01，Zig 月报 202306 | Zig 要分叉了？](https://mp.weixin.qq.com/s/7H9iDDIrGJd-0teWR56q3Q)
   - 微信公众号「RustTalk」
     - [2023-05-18，在已经存在 C++/D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/JLxdw5xkyq5bFjKQWe2CHQ)
