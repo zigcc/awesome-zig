@@ -489,6 +489,8 @@
 
     - [llama.cpp](https://github.com/ggerganov/llama.cpp) : Inference of [LLaMA](https://github.com/facebookresearch/llama) model in pure C/C++.
 
+    - [llama2.zig](https://github.com/cgbur/llama2.zig) <img src="https://img.shields.io/github/stars/cgbur/llama2.zig?style=social"/> : Inference Llama 2 in one file of pure Zig. 
+
     - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
     - [EugenHotaj/zig_gpt2](https://github.com/EugenHotaj/zig_gpt2) : Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT](https://github.com/karpathy/nanoGPT).
