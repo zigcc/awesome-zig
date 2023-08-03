@@ -511,6 +511,8 @@
 
 ## Database
 
+  - [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) : The distributed financial accounting database designed for mission critical safety and performance. [tigerbeetle.com](https://tigerbeetle.com/)
+
   - [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) : zig-sqlite is a small wrapper around sqlite's C API, making it easier to use with Zig. 
 
   - [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) : This repository has zig bindings for sqlite. It trys to make the sqlite c API more ziggish.
