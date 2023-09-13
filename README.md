@@ -100,7 +100,7 @@
 
     - [better-zig/learn-zig](https://github.com/better-zig/learn-zig) : zig quick learn.
 
-     - [zadockmaloba/100-Days-Of-Zig](https://github.com/zadockmaloba/100-Days-Of-Zig) : Personal zig learning sandbox.
+    - [zadockmaloba/100-Days-Of-Zig](https://github.com/zadockmaloba/100-Days-Of-Zig) : Personal zig learning sandbox.
 
     - [JacobCrabill/AdventOfCode-2022](https://github.com/JacobCrabill/AdventOfCode-2022) : Advent Of Code - 2022 Solutions.
 
@@ -379,6 +379,8 @@
 
   - [wisonye/zig-build-cpp-with-libs](https://github.com/wisonye/zig-build-cpp-with-libs) : This demo shows how to use build.zig to compile a C++ project and call C++ lib function in Zig. It includes everything you need to know about when dealing with a C++ project with Zig.
 
+  - [fulcrum-so/ziggy-pydust](https://github.com/fulcrum-so/ziggy-pydust) : A toolkit for building Python extensions in Zig. [pydust.fulcrum.so/](https://pydust.fulcrum.so/)
+
   - [suirad/zig-header-gen](https://github.com/suirad/zig-header-gen) : Automatically generate headers/bindings for other languages from Zig code.
 
   - [kassane/zFFI](https://github.com/kassane/zFFI) : CBindgen FFI test.
@@ -491,7 +493,7 @@
 
     - [cgbur/llama2.zig](https://github.com/cgbur/llama2.zig) : Inference Llama 2 in one file of pure Zig.
 
-    - [clebert/llama2.zig](https://github.com/clebert/llama2.zig) : nference Llama 2 in pure Zig.
+    - [clebert/llama2.zig](https://github.com/clebert/llama2.zig) : Inference Llama 2 in pure Zig.
 
     - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) : ZIG build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMa.
 
