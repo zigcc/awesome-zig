@@ -1,13 +1,11 @@
-# Awesome-Zig-List
+# Awesome Zig
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 This repository lists some awesome public Zig programming language projects.
+This repository lists some awesome projects written in Zig, maintained by [ZigCC community](https://zigcc.github.io/).
 
 ## Contents
 - [Awesome-Zig-List](#awesome-zig-list)
   - [Summary](#summary)
-    - [Official Zig](#official-zig)
-    - [Awesome List](#awesome-list)
     - [Community](#community)
     - [Learning Resources](#learning-resources)
   - [Data Structure and Algorithm](#data-structure-and-algorithm)
@@ -52,29 +50,6 @@
 
 
 ## Summary
-
-  - ### Official Zig
-
-    - [Zig](https://github.com/ziglang/zig) : General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. [ziglang.org](https://ziglang.org/). [Andrew Kelley](https://github.com/andrewrk)
-
-    - [Zig Language Reference](https://ziglang.org/documentation/master/) : Zig Language Reference.
-
-    - [Zig std](https://ziglang.org/documentation/master/std/#root) : The Zig Standard Library.
-
-
-  - ### Awesome List
-
-    - [zigcc/awesome-zig-list](https://github.com/zigcc/awesome-zig-list) : 🔥🔥🔥 This repository lists some awesome public Zig programming language projects.
-
-    - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) : 📜Zig Learning & Usage Guide.
-
-    - [catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) : A list of awesome projects related to Zig.
-
-    - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) : Awesome Zig.
-
-    - [rofrol/awesome-zig](https://github.com/rofrol/awesome-zig) : Everything I find about zig.
-
-
   - ### Community
 
     - [Zig NEWS](https://zig.news/) : Zig NEWS is a community of amazing programmers.
@@ -955,11 +930,6 @@
 
   - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) : iLO license key library.
 
-
-
-
-
-
 ## Blogs
 
   - [Zig NEWS](https://zig.news/)
@@ -1028,3 +998,15 @@
     - [2023-06-14，我认为 Zig 非常难，但值得一试](https://mp.weixin.qq.com/s/xN5EWkzPI-SgTK3FTh--Dg)
   - 微信公众号「51CTO技术栈」
     - [2023-07-04，C的老毛病？用Zig解决](https://mp.weixin.qq.com/s/z8cL_kFe9E8X1wqLgHpbDA)
+
+
+## Other Zig Awesome List
+    - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig) : 📜Zig Learning & Usage Guide.
+
+    - [catdevnull/awesome-zig](https://github.com/catdevnull/awesome-zig) : A list of awesome projects related to Zig.
+
+    - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig) : Awesome Zig.
+
+    - [rofrol/awesome-zig](https://github.com/rofrol/awesome-zig) : Everything I find about zig.
+
+    
