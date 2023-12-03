@@ -414,6 +414,8 @@ First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-b
 
 - [Avokadoen/zig_vulkan](https://github.com/Avokadoen/zig_vulkan) : Toying with vulkan and zig.
 
+- [akhildevelops/cudaz](https://github.com/akhildevelops/cudaz) : Cuda wrapper for interacting with GPUs in zig.
+
 ## Scientific Computation
 
 - ### Linear Algebra
