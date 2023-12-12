@@ -300,7 +300,7 @@ First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-b
 
 - [mqttiotstuff/iotmonitor](https://github.com/mqttiotstuff/iotmonitor) : PainLess, Monitor and State server for iot mqtt devices, and software agents. This daemon permit to maintain the execution of constellations of mqtt devices and associated agents.
 
-- [Elara6331/zig-gpio](https://github.com/Elara6331/zig-gpio):  A Zig library for controlling GPIO lines on Linux systems.
+- [Elara6331/zig-gpio](https://github.com/Elara6331/zig-gpio): A Zig library for controlling GPIO lines on Linux systems.
 
 ## General Operating System
 
