@@ -903,30 +903,6 @@ First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-b
 - [Jiacai Liu](https://en.liujiacai.net/)
   - [2022-12-14，What I learn by implementing argparser in Zig](https://en.liujiacai.net/2022/12/14/argparser-in-zig/)
   - [2023-04-13，Zig Build System](https://en.liujiacai.net/2023/04/13/zig-build-system/)
-- [Zig 语言中文社区](https://zigcc.github.io/)
-  - [202207 | 开刊 HelloWorld](https://zigcc.github.io/monthly/202207/)
-  - [202208 | stage2 默认开启](https://zigcc.github.io/monthly/202208/)
-  - [202209 | 锋芒毕露](https://zigcc.github.io/monthly/202209/)
-  - [202210 | 0.10 蓄势待发](https://zigcc.github.io/monthly/202209/)
-  - [202211 | 0.10 横空出世](https://zigcc.github.io/monthly/202211/)
-  - [202301 | 包管理来了](https://zigcc.github.io/monthly/202301/)
-  - [202302 | 精益求精的包管理](https://zigcc.github.io/monthly/202302/)
-  - [202303 | 并发编译](https://zigcc.github.io/monthly/202303/)
-  - [202304 | 首次闯入 Tiobe 前 50](https://zigcc.github.io/monthly/202304/)
-- 微信公众号「Zig 语言」
-  - [2023-05-14，在已经存在 C++/的 D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/FX7qiwQjLZLsazmii8QVPw)
-  - [2023-06-17，Zig 月报 202305 | HTTP is built-in](https://mp.weixin.qq.com/s/kssoBGDM8ioq7ImSK627MA)
-  - [2023-06-24，A Note About Zig Books for the Zig Community](https://mp.weixin.qq.com/s/hKJOPIdqyQgVJ3Nnns5dzg)
-  - [2023-07-01，Zig 月报 202306 | Zig 要分叉了？](https://mp.weixin.qq.com/s/7H9iDDIrGJd-0teWR56q3Q)
-- 微信公众号「RustTalk」
-  - [2023-05-18，在已经存在 C++/D/Rust 的情况下，为什么还要 Zig](https://mp.weixin.qq.com/s/JLxdw5xkyq5bFjKQWe2CHQ)
-- 微信公众号「EmacsTalk」
-  - [2023-05-05，Zig 月报 202304](https://mp.weixin.qq.com/s/KpoCU1kYHnash4VhUiT-VQ)
-- 微信公众号「CSDN」
-  - [2023-04-07，C++ 增幅一骑绝尘，“黑马” Zig 闯入前 50 名！TIOBE 4 月榜单发布](https://mp.weixin.qq.com/s/ZMGpaAO_KvLElFwtz2E8Kg)
-  - [2023-06-14，我认为 Zig 非常难，但值得一试](https://mp.weixin.qq.com/s/xN5EWkzPI-SgTK3FTh--Dg)
-- 微信公众号「51CTO 技术栈」
-  - [2023-07-04，C 的老毛病？用 Zig 解决](https://mp.weixin.qq.com/s/z8cL_kFe9E8X1wqLgHpbDA)
 
 ## Other Zig Awesome List
 
