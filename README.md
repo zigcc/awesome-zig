@@ -725,7 +725,7 @@ First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-b
 
 - [Ultra-Code/recblock](https://github.com/Ultra-Code/recblock) : Blockchain for a record management and money transfer system.
 
-- [keep-starknet-strange/ziggy-starkdust](starkdust) : A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
+- [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) : A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
 
 ## WebAssembly
 
