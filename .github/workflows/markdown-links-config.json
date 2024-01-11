@@ -1,0 +1,5 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^https://www.uber.com/en-IT/blog/" }
+  ]
+}
