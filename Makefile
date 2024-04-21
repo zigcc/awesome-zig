@@ -1,4 +1,6 @@
 
+all: toc lint
+
 toc:
 	npx markdown-toc --bullets "-" -i README.md
 
