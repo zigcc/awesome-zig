@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    types: [assigned, opened, synchronize, reopened]
+  schedule:
+    - cron: '10 20 * * *'
 
 jobs:
   markdown-link-check:
