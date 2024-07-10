@@ -1,6 +1,9 @@
 # Awesome Zig
 
-This repository lists some awesome projects written in Zig, maintained by [ZigCC community](https://ziglang.cc).
+This repository lists "awesome" projects written in Zig, maintained by [ZigCC community](https://ziglang.cc).
+
+> [!IMPORTANT]
+> The word "awesome" does not signify stability; instead, it might suggest something is somewhat old-fashioned or lacking novelty. Hence, exercise caution.
 
 ## Contributing
 
