@@ -1,4 +1,4 @@
-gg# Awesome Zig
+# Awesome Zig
 
 This repository lists "awesome" projects written in Zig, maintained by [ZigCC community](https://ziglang.cc).
 
