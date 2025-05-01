@@ -7,7 +7,7 @@ This repository lists "awesome" projects written in Zig, maintained by [ZigCC co
 
 ## Contributing
 
-If you find a well-maintained library that is not yet included here, welcome to submit it via a pull request. Just be sure to execute `make all` before open PR.
+If you find a well-maintained library that is not yet included here, welcome to submit it via a pull request. Just be sure to execute `make all` before you open a PR.
 
 ## Contents
 
