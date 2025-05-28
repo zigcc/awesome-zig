@@ -16,7 +16,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Learning Resources](#learning-resources)
 - [Tools](#tools)
   - [Text Editors](#text-editors)
-  - [Linter](#linter)
+  - [Linters](#linters)
   - [Documentation and Testing](#documentation-and-testing)
   - [Package and Version Manager](#package-and-version-manager)
   - [Utility](#utility)
