@@ -2,7 +2,7 @@
 
 [<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
 
-[Zig](https://ziglang.org/) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+[Zig](https://en.wikipedia.org/wiki/Zig_(programming_language)) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
 
 
 > [!IMPORTANT]
@@ -10,7 +10,7 @@
 
 Contributing:
 
-This repository lists "awesome" projects written in Zig, maintained by [ZigCC community](https://ziglang.cc).
+This repository lists "awesome" projects written in Zig, maintained by the [ZigCC community](https://ziglang.cc).
 If you find a well-maintained library that is not yet included here, welcome to submit it via a pull request. Just be sure to execute `make all` before you open a PR.
 
 ## Contents
