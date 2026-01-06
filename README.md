@@ -1,12 +1,16 @@
 # Awesome Zig [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository lists "awesome" projects written in Zig, maintained by [ZigCC community](https://ziglang.cc).
+[<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
+
+[Zig](https://ziglang.org/) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+
 
 > [!IMPORTANT]
 > The word "awesome" does not signify stability; instead, it might suggest something is somewhat old-fashioned or lacking novelty. Hence, exercise caution.
 
 Contributing:
 
+This repository lists "awesome" projects written in Zig, maintained by [ZigCC community](https://ziglang.cc).
 If you find a well-maintained library that is not yet included here, welcome to submit it via a pull request. Just be sure to execute `make all` before you open a PR.
 
 ## Contents
