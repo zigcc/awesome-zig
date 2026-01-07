@@ -2,8 +2,7 @@
 
 [<img src="https://ziglang.org/zig-logo-light.svg" align="right" width="100">](https://ziglang.org)
 
-[Zig](https://en.wikipedia.org/wiki/Zig_(programming_language)) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
-
+[Zig](<https://en.wikipedia.org/wiki/Zig_(programming_language)>) is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
 
 > [!IMPORTANT]
 > The word "awesome" does not signify stability; instead, it might suggest something is somewhat old-fashioned or lacking novelty. Hence, exercise caution.
