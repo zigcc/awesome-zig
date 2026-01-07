@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-> TL;DR: Entry has to be actively maintained and awesome. Follow the existing style.
+> TL;DR: Entry has to be actively maintained and awesome. Follow the existing style. Run `make all` before you open a PR.
 
 Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
