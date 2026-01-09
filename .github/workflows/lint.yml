@@ -25,6 +25,5 @@ jobs:
       - name: Prettier check
         run: |
           # if you encounter error, rerun the command below and commit the changes
-          make toc
-          make lint
+          make all
           git diff --exit-code
