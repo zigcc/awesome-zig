@@ -1,18 +1,23 @@
-name: Check spelling errors
+name: Check typos
+
 on:
   push:
     branches:
       - main
+    paths:
+      - "**.md"
+      - ".github/workflows/**"
   pull_request:
     types: [assigned, opened, synchronize, reopened]
+    paths:
+      - "**.md"
+      - ".github/workflows/**"
+
 jobs:
-  misspell:
-    name: runner / misspell
+  typos:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code.
         uses: actions/checkout@v4
-      - name: misspell
-        uses: reviewdog/action-misspell@v1
-        with:
-          locale: "US"
+      - name: typos
+        uses: crate-ci/typos@v1
