@@ -2,10 +2,10 @@
 all: toc lint awesome-lint
 
 toc:
-	npx markdown-toc --bullets "-" -i README.md
+	npx --yes markdown-toc --bullets "-" -i README.md
 
 lint:
-	npx prettier --write *.md
+	npx --yes prettier --write *.md
 
 awesome-lint:
-	npx awesome-lint README.md
+	npx --yes awesome-lint README.md

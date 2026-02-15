@@ -1,0 +1,15 @@
+{
+  "name": "awesome-zig",
+  "private": true,
+  "devDependencies": {
+    "awesome-lint": "^2.2.3",
+    "markdown-toc": "^1.2.0",
+    "prettier": "^3.8.1"
+  },
+  "scripts": {
+    "toc": "markdown-toc --bullets '-' -i README.md",
+    "lint": "prettier --write *.md",
+    "awesome-lint": "awesome-lint README.md",
+    "all": "npm run toc && npm run lint && npm run awesome-lint"
+  }
+}
