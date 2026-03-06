@@ -1,0 +1,18 @@
+name: Mirror
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  atomgit:
+    if: github.repository_owner == 'zigcc'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url: https://jiacai2050:${{ secrets.ATOMGIT_TOKEN }}@atomgit.com/${{ github.repository }}.git
