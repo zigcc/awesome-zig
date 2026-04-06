@@ -12,6 +12,7 @@ Contributing:
 This repository lists "awesome" Zig projects and ecosystem tools, maintained by the ZigCC community.
 If you find a well-maintained library that is not yet included here, welcome to submit it via a pull request. Just be sure to execute `make all` before you open a PR.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Zig development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 <!-- toc -->
