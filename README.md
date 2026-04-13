@@ -122,6 +122,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### Documentation and Testing
 
 - [kristoff-it/zig-doctest](https://github.com/kristoff-it/zig-doctest) - A tool for testing snippets of code, useful for websites and books that talk about Zig.
+- [ryo-zen/zig-docs-mcp](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig language docs, stdlib references, and working code examples.
 
 ### Package and Version Manager
 
@@ -487,6 +488,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Ultra-Code/recblock](https://github.com/Ultra-Code/recblock) - Blockchain for a record management and money transfer system.
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
 - [iskyd/walle](https://github.com/iskyd/walle) - A Bitcoin Wallet written in Zig.
+- [ryo-zen/zeicoin](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.
 
 ### WebAssembly
 
