@@ -122,7 +122,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### Documentation and Testing
 
 - [kristoff-it/zig-doctest](https://github.com/kristoff-it/zig-doctest) - A tool for testing snippets of code, useful for websites and books that talk about Zig.
-- [ryo-zen/zig-docs-mcp](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig 0.16 language docs, stdlib references, and working code examples.
+- [ryo-zen/zig-docs-mcp](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig language docs, stdlib references, and working code examples.
 
 ### Package and Version Manager
 
