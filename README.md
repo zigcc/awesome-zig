@@ -137,6 +137,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [nix-community/zon2nix](https://github.com/nix-community/zon2nix) - Convert dependencies in build.zig.zon files to Nix expressions.
 - [Cloudef/nix-zig-stdenv](https://github.com/Cloudef/nix-zig-stdenv) - Zig based cross-compiling toolchain.
 - [joachimschmidt557/zigpkgs](https://github.com/joachimschmidt557/zigpkgs) - A collection of Zig packages built with Nix.
+- [lispking/zvm](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - A package manager for the Zig programming language.
 - [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 - [tristanisham/zvm](https://github.com/tristanisham/zvm) - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
