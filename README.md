@@ -527,6 +527,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [mailmug/zentropy](https://github.com/mailmug/zentropy) - High-performance, lightweight key-value store (Redis alternative).
 - [seqor/seqor](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 - [zeno-core/zeno](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
+- [lispking/kvdb](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 
 ### Linear Algebra
 
