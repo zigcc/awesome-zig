@@ -311,6 +311,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [kioz-wang/zargs](https://github.com/kioz-wang/zargs) - Another Comptime-argparse for Zig.
 - [xcaeser/zli](https://github.com/xcaeser/zli) - Zig command-line interfaces made easy. A blazing fast CLI framework. Build ergonomic, high-performance command-line tools with Zig.
 - [CogitatorTech/chilli](https://github.com/CogitatorTech/chilli) - Chilli 🌶️ is a minimalistic CLI framework for Zig.
+- [plutowang/zlap](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
 
 ### Finite State Machine
 
