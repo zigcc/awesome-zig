@@ -636,6 +636,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [MoAlyousef/zfltk](https://github.com/MoAlyousef/zfltk) - Zig bindings for the FLTK gui library.
 - [Aransentin/ZWL](https://github.com/Aransentin/ZWL) - A Zig Windowing Library.
 - [batiati/IUPforZig](https://github.com/batiati/IUPforZig) - IUP (Portable User Interface Toolkit) bindings for the Zig language.
+- [DictatorFlow](https://dictatorflow.com) - Voice dictation and voice-command editing desktop app built with Zig, raylib GUI, and ONNX Runtime for local inference. [dictatorflow.com](https://dictatorflow.com)
 - [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader. [donpdonp.github.io/zootdeck/](https://donpdonp.github.io/zootdeck/)
 - [lupyuen/zig-lvgl-nuttx](https://github.com/lupyuen/zig-lvgl-nuttx) - Zig LVGL Touchscreen App on Apache NuttX RTOS.
 - [lupyuen/pinephone-lvgl-zig](https://github.com/lupyuen/pinephone-lvgl-zig) - LVGL for PinePhone (and WebAssembly) with Zig and Apache NuttX RTOS. [lupyuen.github.io/articles/lvgl2](https://lupyuen.github.io/articles/lvgl2)
