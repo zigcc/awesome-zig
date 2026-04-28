@@ -688,6 +688,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [darltrash/zcutenet](https://codeberg.org/darltrash/zcutenet) - A cute_net.h binding and wrapper for Zig, for realtime networking.
 - [Avokadoen/ecez_vulkan](https://github.com/Avokadoen/ecez_vulkan) - A scene editor built on [ecez](https://github.com/Avokadoen/ecez) and Vulkan.
 - [GasInfinity/zitrus](https://codeberg.org/GasInfinity/zitrus) - A 3DS SDK with all the bells and whistles in pure Zig.
+- [deckarep/CosmicInvaders](https://github.com/deckarep/CosmicInvaders) - A pixel-art Space Invaders + Tower Defense game written in Zig with raylib.
 
 ### Audio Processing
 
