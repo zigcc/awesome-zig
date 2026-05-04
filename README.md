@@ -728,6 +728,7 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 - [jiacai2050/zig-jemalloc](https://github.com/jiacai2050/zig-jemalloc) - Zig allocator baked by jemalloc.
 - [arshidkv12/zig-php](https://github.com/arshidkv12/zig-php) - Write PHP extension in Zig.
 - [OnlyF0uR/pqc-zig](https://github.com/OnlyF0uR/pqc-zig) - Zig bindings and abstractions for [PQClean](https://github.com/PQClean/PQClean/), post-quantum cryptography.
+- [happystraw/phpz](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
 
 ### Build with Zig
 
