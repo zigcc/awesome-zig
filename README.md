@@ -765,3 +765,4 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 - [benchmark](https://github.com/kassane/benchmark) - A microbenchmark support library.
   First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-been-zigged/1785).
 - [boring_tls](https://github.com/Thomvanoorschot/boring_tls) - Google's BoringTLS client and server. Adds TLS to any (including non standard library) TCP/HTTP traffic.
+- [libui-ng](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
