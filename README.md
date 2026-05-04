@@ -139,6 +139,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [joachimschmidt557/zigpkgs](https://github.com/joachimschmidt557/zigpkgs) - A collection of Zig packages built with Nix.
 - [lispking/zvm](https://github.com/lispking/zvm) - A fast, dependency-free version manager for Zig written in Zig.
 - [nektro/zigmod](https://github.com/nektro/zigmod) - A package manager for the Zig programming language.
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 - [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) - An MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 - [tristanisham/zvm](https://github.com/tristanisham/zvm) - Lets you easily install/upgrade between different versions of Zig. ZLS install can be included. (written in Go).
 - [rosarp/nu-zigup](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
