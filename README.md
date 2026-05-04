@@ -158,6 +158,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [deatil/zig-dotenv](https://github.com/deatil/zig-dotenv) - A parse and set env library for Zig.
 - [ktarasov/zigrep](https://github.com/ktarasov/zigrep) - A training project on the implementation of the similarity of the grep utility in Linux in the Zig language.
 - [hspak/geteltorito-zig](https://github.com/hspak/geteltorito-zig) - Re-write of geteltorito in Zig.
+- [justrach/nanobrew](https://github.com/justrach/nanobrew) - A fast macOS package manager written in Zig.
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - Container image to single executable compiler.
 - [shepherdjerred/macos-cross-compiler](https://github.com/shepherdjerred/macos-cross-compiler) - Cross-compilation toolchain for Zig users to compile binaries for macOS on Linux.
 - [rockorager/zzdoc](https://github.com/rockorager/zzdoc) - A scdoc-compatible manpage compiler for use in build.zig.
