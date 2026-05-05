@@ -646,6 +646,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [star-tek-mb/zig-tray](https://github.com/star-tek-mb/zig-tray) - Create tray applications with Zig.
 - [kotsutsumi/zylix](https://github.com/kotsutsumi/zylix) - Zig powered cross-platform UI framework with Virtual DOM.
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
+- [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 
 ### Game Development
 
@@ -728,6 +729,7 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 - [jiacai2050/zig-jemalloc](https://github.com/jiacai2050/zig-jemalloc) - Zig allocator baked by jemalloc.
 - [arshidkv12/zig-php](https://github.com/arshidkv12/zig-php) - Write PHP extension in Zig.
 - [OnlyF0uR/pqc-zig](https://github.com/OnlyF0uR/pqc-zig) - Zig bindings and abstractions for [PQClean](https://github.com/PQClean/PQClean/), post-quantum cryptography.
+- [happystraw/phpz](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
 
 ### Build with Zig
 
@@ -764,3 +766,4 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 - [benchmark](https://github.com/kassane/benchmark) - A microbenchmark support library.
   First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-been-zigged/1785).
 - [boring_tls](https://github.com/Thomvanoorschot/boring_tls) - Google's BoringTLS client and server. Adds TLS to any (including non standard library) TCP/HTTP traffic.
+- [libui-ng](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
