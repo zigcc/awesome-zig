@@ -165,6 +165,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [ghostty](https://github.com/ghostty-org/ghostty) - Modern terminal emulator written in Zig.
 - [midasdf/zt](https://github.com/midasdf/zt) - Ultra-fast, minimal terminal emulator written in Zig with fbdev, X11, Wayland, and macOS backends.
 - [zlist](https://github.com/here-Leslie-Lau/zlist) - A simple, colorful alternative to ls built with Zig.
+- [zdu](https://github.com/mjgil-zig/zdu) - A fast, low-memory TUI disk usage analyzer written in Zig.
 - [zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes.
 - [ghext](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
