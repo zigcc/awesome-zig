@@ -170,6 +170,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [ghext](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
 - [Decryptu/zigdex](https://github.com/Decryptu/zigdex) - Display Pokémon sprites in your terminal. A Zig rewrite of pokeget.
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
 
 ### Linker
 
