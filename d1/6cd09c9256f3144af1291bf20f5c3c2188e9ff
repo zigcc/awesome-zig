@@ -1,0 +1,19 @@
+README.md
+  s_038357d140f997::t_72226285dbfeec 767
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "d16cd09c9256f3144af1291bf20f5c3c2188e9ff",
+  "prompts": {},
+  "sessions": {
+    "s_038357d140f997": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60b3ca54-dcc3-45c6-971a-f4922a475164",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
