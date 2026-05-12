@@ -1,0 +1,29 @@
+.github/workflows/mirror.yml
+  s_038357d140f997::t_3bd57bcc4ff019 16
+  s_038357d140f997::t_b7c21652a8f123 13
+.github/workflows/links.yml
+  s_038357d140f997::t_1a632c6304cdfc 12
+  s_038357d140f997::t_098f21450c970a 11
+.github/workflows/lint.yml
+  s_038357d140f997::t_9e335ef034c528 20
+  s_038357d140f997::t_b0ab9b9a303416 21
+.github/workflows/typos.yml
+  s_038357d140f997::t_b09517152512c8 21
+  s_038357d140f997::t_a534f884a664aa 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "9936f810a946537e1f7e11115c1ec28a9d7ab871",
+  "prompts": {},
+  "sessions": {
+    "s_038357d140f997": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60b3ca54-dcc3-45c6-971a-f4922a475164",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
