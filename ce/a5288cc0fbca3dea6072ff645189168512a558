@@ -1,0 +1,47 @@
+README.md
+  s_038357d140f997::t_dadaa165b214bd 91
+  s_038357d140f997::t_e74ae8fc5a5f55 663
+  s_038357d140f997::t_9d6a655bcb2902 615
+  s_038357d140f997::t_b9d210bba52bd9 616
+  s_038357d140f997::t_ab2aed8263f7f5 191
+  s_038357d140f997::t_ad93faef141fff 635
+  s_038357d140f997::t_80da8a4957496e 671
+  s_038357d140f997::t_0c75c350efb708 518
+  s_038357d140f997::t_4e99d6f24f15f8 725
+  s_038357d140f997::t_1487b604b81e04 609
+  s_038357d140f997::t_e4dbccf4da9a07 642
+  s_038357d140f997::t_932bbb0e19445b 767
+  s_038357d140f997::t_e1094872de20ad 307
+  s_038357d140f997::t_b5ef8c5b7b095e 763
+  s_038357d140f997::t_4ac9c5e05a643a 673
+  s_038357d140f997::t_46c80ddc693710 618
+  s_038357d140f997::t_4bbd714601ad67 757
+  s_038357d140f997::t_25cc2438efb920 344
+  s_038357d140f997::t_8d4f2a6e26bb1a 723
+  s_038357d140f997::t_7982c4743185cf 111
+  s_038357d140f997::t_5484524ee668df 507
+  s_038357d140f997::t_089c5afac2fa92 644
+  s_038357d140f997::t_eb9c8eb8452b7f 655
+  s_038357d140f997::t_6caa463e7348bf 698
+  s_038357d140f997::t_895d329a2ac24c 658
+.github/workflows/links.yml
+  s_038357d140f997::t_e3e42377fd35bc 11
+.github/workflows/mirror.yml
+  s_038357d140f997::t_95997bc42a3f7b 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "cea5288cc0fbca3dea6072ff645189168512a558",
+  "prompts": {},
+  "sessions": {
+    "s_038357d140f997": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "60b3ca54-dcc3-45c6-971a-f4922a475164",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
