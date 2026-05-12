@@ -764,6 +764,6 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 - [hana](https://github.com/kassane/hana) - Your standard library for metaprogramming.
 - [intrusive](https://github.com/kassane/intrusive) - Boost.org intrusive module.
 - [range](https://github.com/kassane/range-v3) - The Range library for C++14/17/20, basis for C++20's std::ranges.
-- [benchmark](https://github.com/kassane/benchmark) - A microbenchmark support library. First post at [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-been-zigged/1785).
+- [benchmark](https://github.com/kassane/benchmark) - A microbenchmark support library. First posted [here](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-been-zigged/1785).
 - [boring_tls](https://github.com/Thomvanoorschot/boring_tls) - Google's BoringTLS client and server. Adds TLS to any (including non standard library) TCP/HTTP traffic.
 - [libui-ng](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
