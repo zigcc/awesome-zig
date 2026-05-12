@@ -10,9 +10,9 @@ jobs:
     if: github.repository_owner == 'zigcc'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           fetch-depth: 0
-      - uses: pixta-dev/repository-mirroring-action@v1
+      - uses: pixta-dev/repository-mirroring-action@674e65a7d483ca28dafaacba0d07351bdcc8bd75 # v1.1.1
         with:
           target_repo_url: https://jiacai2050:${{ secrets.ATOMGIT_TOKEN }}@atomgit.com/${{ github.repository }}.git
