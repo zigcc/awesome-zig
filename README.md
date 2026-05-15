@@ -630,6 +630,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [zig-plotille](https://github.com/tammoippen/zig-plotille) - Terminal plotting library using Unicode braille characters.
 - [xtxf](https://github.com/charlesrocket/xtxf) - The Matrix screensaver in Zig.
 - [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
 
 ### GUI
 
