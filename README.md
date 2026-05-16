@@ -418,6 +418,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### Network
 
 - [Nyarum/zigtgshka](https://github.com/Nyarum/zigtgshka) - Memory-safe, high-performance Telegram Bot API library for Zig with zero-cost abstractions and comprehensive examples.
+- [sleep3r/mtproto.zig](https://github.com/sleep3r/mtproto.zig) - High-performance Telegram MTProto proxy written in Zig.
 - [Vexu/routez](https://github.com/Vexu/routez) - HTTP server for Zig.
 - [Vexu/zuri](https://github.com/Vexu/zuri) - URI parser for Zig.
 - [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for Zig.
