@@ -652,6 +652,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [kotsutsumi/zylix](https://github.com/kotsutsumi/zylix) - Zig powered cross-platform UI framework with Virtual DOM.
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 - [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
+- [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
 
 ### Game Development
 
