@@ -477,6 +477,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [im-ng/zero](https://github.com/im-ng/zero) - Simple and opinionated web framework written in Zig and aims to make microservices development in Zig easier.
 - [GuneshRaj/zigar](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 - [llllOllOOll/spider](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
+- [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
 
 ### Web3 Framework
 
