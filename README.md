@@ -123,6 +123,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 - [kristoff-it/zig-doctest](https://github.com/kristoff-it/zig-doctest) - A tool for testing snippets of code, useful for websites and books that talk about Zig.
 - [ryo-zen/zig-docs-mcp](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig language docs, stdlib references, and working code examples.
+- [sb2bg/marionette](https://github.com/sb2bg/marionette) - Deterministic simulation testing for Zig with a `std.Io` implementation, letting you inject faults and replay failures from seeds.
 
 ### Package and Version Manager
 
