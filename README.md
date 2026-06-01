@@ -573,8 +573,8 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [ollama-zig](https://github.com/dravenk/ollama-zig) - Ollama Zig library.
 - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) - Zig build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMA.
 - [SMC17/faiss-zig](https://github.com/SMC17/faiss-zig) - Pure-Zig vector similarity search; Flat + HNSW + IVFFlat + IVFPQ. AGPL-3.0.
-- [SMC17/safetensors-zig](https://github.com/SMC17/safetensors-zig) - Pure-Zig HuggingFace safetensors reader; ~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
-- [SMC17/tokenizers-zig](https://github.com/SMC17/tokenizers-zig) - Pure-Zig HuggingFace tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
+- [SMC17/safetensors-zig](https://github.com/SMC17/safetensors-zig) - Pure-Zig Hugging Face safetensors reader; ~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
+- [SMC17/tokenizers-zig](https://github.com/SMC17/tokenizers-zig) - Pure-Zig Hugging Face tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
 - [SMC17/vllm-zig](https://github.com/SMC17/vllm-zig) - LLM serving substrate. Real TinyLlama forward pass through Zig kernels: RoPE + GQA + KV cache + multi-thread SIMD matmul + streaming. AGPL-3.0.
 
 ### Machine Learning
