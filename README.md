@@ -492,6 +492,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [StrobeLabs/eth.zig](https://github.com/StrobeLabs/eth.zig) - Pure Zig Ethereum client library. Zero dependencies, comptime-first.
 - [ch4r10t33r/zigeth](https://github.com/ch4r10t33r/zigeth) - Zig package to interact with Ethereum (inspired from alloy-rs).
 - [gballet/zevem](https://github.com/gballet/zevem/) - Ethereum Virtual Machine written in Zig.
+- [cryptuon/zig-evm](https://github.com/cryptuon/zig-evm) - A high-performance, embeddable EVM with wave-based parallel transaction execution, work-stealing thread pool, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). Targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.
 - [blockblaz/ssz.zig](https://github.com/blockblaz/ssz.zig) - A Zig implementation of the [SSZ serialization protocol](https://github.com/ethereum/eth2.0-specs/blob/dev/ssz/simple-serialize.md).
 - [blockblaz/zeam](https://github.com/blockblaz/zeam) - A [Beam Chain](https://github.com/blockblaz/zeam/blob/main/resources/beam.md) written in Zig.
 - [blockblaz/hash-zig](https://github.com/blockblaz/hash-zig) - A pure Zig implementation of hash based signatures inspired from the rust implementation.
