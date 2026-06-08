@@ -259,7 +259,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - A regex implementation for the Zig programming language.
-- [shaik-abdul-thouhid/ezi-gex](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends(engines).
+- [shaik-abdul-thouhid/ezi-gex](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
 - [xcaeser/glob.zig](https://github.com/xcaeser/glob.zig) - Fast and reliable glob pattern matching in pure Zig.
 - [jecolon/ziglyph](https://github.com/jecolon/ziglyph) - Unicode text processing for the Zig programming language.
 - [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser for Zig.
