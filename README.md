@@ -235,6 +235,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### String Processing
 
 - [atman/zg](https://codeberg.org/atman/zg) - Provides Unicode text processing for Zig projects. It works correctly with the Russian language and other languages.
+- [shaik-abdul-thouhid/ezi-code](https://github.com/shaik-abdul-thouhid/ezi-code) - A comprehensive Unicode library for Zig covering UTF-8/16/32 encoding, normalization (NFC/NFD/NFKC/NFKD), segmentation (grapheme/word/sentence/line), casing, BiDi, collation (UCA/DUCET), and character properties. No dependencies.
 - [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - Zig String (A UTF-8 String Library). This library is a UTF-8 compatible string library for the Zig programming language.
 - [jecolon/zigstr](https://github.com/jecolon/zigstr) - Zigstr is a UTF-8 string type for Zig programs.
 - [ziglibs/string-searching](https://github.com/ziglibs/string-searching) - String(not limited to []const u8)-searching algorithms in Zig.
@@ -258,6 +259,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - A regex implementation for the Zig programming language.
+- [shaik-abdul-thouhid/ezi-gex](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends(engines).
 - [xcaeser/glob.zig](https://github.com/xcaeser/glob.zig) - Fast and reliable glob pattern matching in pure Zig.
 - [jecolon/ziglyph](https://github.com/jecolon/ziglyph) - Unicode text processing for the Zig programming language.
 - [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser for Zig.
