@@ -153,6 +153,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [fearedbliss/Honeydew](https://codeberg.org/fearedbliss/Honeydew) - A simple snapshot cleaner for OpenZFS written in Zig.
 - [fearedbliss/Cantaloupe](https://codeberg.org/fearedbliss/Cantaloupe) - A simple backup replication tool for OpenZFS written in Zig.
 - [forketyfork/architect](https://github.com/forketyfork/architect) - A flexible terminal grid for multi-agent AI workflows.
+- [javimosch/supercli](https://github.com/javimosch/supercli) - Universal CLI router with 7,000+ plugins. The `sc-zig` binary wraps CLI tools with one command pattern and JSON output. ~250KB static binary.
 - [Arnau478/hevi](https://github.com/Arnau478/hevi) - A minimalistic and modernized hex viewer, written in Zig.
 - [gaskam/workspace](https://github.com/gaskam/workspace) - A powerful Zig-based tool to manage all your GitHub repositories with ease.
 - [rockorager.dev/lsr](https://tangled.sh/@rockorager.dev/lsr) - Efficient and fast `ls` alternative, written in Zig.
