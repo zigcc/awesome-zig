@@ -172,6 +172,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [ghext](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
 - [Decryptu/zigdex](https://github.com/Decryptu/zigdex) - Display Pokémon sprites in your terminal. A Zig rewrite of pokeget.
+- [mtxr/claude-switch](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
 
 ### Linker
 
