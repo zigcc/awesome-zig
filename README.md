@@ -573,9 +573,9 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [clebert/LLaMa2.zig](https://github.com/clebert/llama2.zig) - Inference LLaMA 2 in pure Zig.
 - [CogitatorTech/zigformer](https://github.com/CogitatorTech/zigformer) - ZigFormer is a transformer-based LLM implemented in pure Zig.
 - [cognisoc/zigllm](https://github.com/cognisoc/zigllm) - Educational: build an LLM in Zig from scratch — tensors to text generation.
+- [cztomsik/clown-code](https://codeberg.org/cztomsik/clown-code) - AI Coding assistant.
 - [EugenHotaj/zig_gpt2](https://github.com/EugenHotaj/zig_gpt2) - Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT](https://github.com/karpathy/nanoGPT).
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
-- [cztomsik/clown-code](https://codeberg.org/cztomsik/clown-code) - AI Coding assistant.
 - [ollama-zig](https://github.com/dravenk/ollama-zig) - Ollama Zig library.
 - [renerocksai/gpt4all.zig](https://github.com/renerocksai/gpt4all.zig) - Zig build for a terminal-based chat client for an assistant-style large language model with ~800k GPT-3.5-Turbo Generations based on LLaMA.
 - [SMC17/faiss-zig](https://github.com/SMC17/faiss-zig) - Pure-Zig vector similarity search; Flat + HNSW + IVFFlat + IVFPQ. AGPL-3.0.
