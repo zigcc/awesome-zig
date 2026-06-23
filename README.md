@@ -146,7 +146,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [rosarp/nu-zigup](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
 - [weezy20/zv](https://github.com/weezy20/zv) - Fast Zig/ZLS version manager + project starter kit written in Rust. Binaries available for macOS/Windows/Linux.
 - [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - A fast and simple Zig version manager written in Zig.
-- [indaco/malt](https://github.com/indaco/malt) - Homebrew's whole ecosystem, none of its weight - a single Zig binary with native post_install and a themeable TUI & CLI.
+- [indaco/malt](https://github.com/indaco/malt) - Homebrew's whole ecosystem, none of its weight: a single Zig binary with native post_install and a themeable TUI and CLI.
 
 ### Utility
 
