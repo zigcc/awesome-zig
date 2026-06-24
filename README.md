@@ -574,6 +574,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [clebert/LLaMa2.zig](https://github.com/clebert/llama2.zig) - Inference LLaMA 2 in pure Zig.
 - [CogitatorTech/zigformer](https://github.com/CogitatorTech/zigformer) - ZigFormer is a transformer-based LLM implemented in pure Zig.
 - [cognisoc/zigllm](https://github.com/cognisoc/zigllm) - Educational: build an LLM in Zig from scratch — tensors to text generation.
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon (MLX + GGUF) with OpenAI- and Anthropic-compatible APIs; ships MLX Core, a macOS menu-bar app. MIT.
 - [EugenHotaj/zig_gpt2](https://github.com/EugenHotaj/zig_gpt2) - Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT](https://github.com/karpathy/nanoGPT).
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
 - [ollama-zig](https://github.com/dravenk/ollama-zig) - Ollama Zig library.
