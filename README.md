@@ -146,6 +146,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [rosarp/nu-zigup](https://github.com/rosarp/nu-zigup) - Download & manage Zig compilers & zls binaries. Script is written in nushell.
 - [weezy20/zv](https://github.com/weezy20/zv) - Fast Zig/ZLS version manager + project starter kit written in Rust. Binaries available for macOS/Windows/Linux.
 - [hendriknielaender/zvm](https://github.com/hendriknielaender/zvm) - A fast and simple Zig version manager written in Zig.
+- [indaco/malt](https://github.com/indaco/malt) - Homebrew's whole ecosystem, none of its weight: a single Zig binary with native post_install and a themeable TUI and CLI.
 
 ### Utility
 
@@ -574,6 +575,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [CogitatorTech/zigformer](https://github.com/CogitatorTech/zigformer) - ZigFormer is a transformer-based LLM implemented in pure Zig.
 - [cognisoc/zigllm](https://github.com/cognisoc/zigllm) - Educational: build an LLM in Zig from scratch — tensors to text generation.
 - [cztomsik/clown-code](https://codeberg.org/cztomsik/clown-code) - AI Coding assistant.
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon (MLX + GGUF) with OpenAI- and Anthropic-compatible APIs; ships MLX Core, a macOS menu-bar app. MIT.
 - [EugenHotaj/zig_gpt2](https://github.com/EugenHotaj/zig_gpt2) - Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT](https://github.com/karpathy/nanoGPT).
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig.
 - [ollama-zig](https://github.com/dravenk/ollama-zig) - Ollama Zig library.
