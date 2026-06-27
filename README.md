@@ -424,6 +424,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Network
 
+- [user529/zora](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 - [Nyarum/zigtgshka](https://github.com/Nyarum/zigtgshka) - Memory-safe, high-performance Telegram Bot API library for Zig with zero-cost abstractions and comprehensive examples.
 - [sleep3r/mtproto.zig](https://github.com/sleep3r/mtproto.zig) - High-performance Telegram MTProto proxy written in Zig.
 - [Vexu/routez](https://github.com/Vexu/routez) - HTTP server for Zig.
