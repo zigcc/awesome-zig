@@ -454,7 +454,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [zigtls](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 - [zora](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 
-
 ### Browser
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Headless browser designed for AI and automation.
