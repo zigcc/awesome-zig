@@ -247,6 +247,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 - [OrlovEvgeny/zigquery](https://github.com/OrlovEvgeny/zigquery) - Zig HTML parser and CSS selector engine for DOM querying and manipulation.
 - [tree-sitter/zig-tree-sitter](https://github.com/tree-sitter/zig-tree-sitter) - Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
+- [xberg-io/tree-sitter-language-pack](https://github.com/xberg-io/tree-sitter-language-pack) - Pre-built tree-sitter grammars for 300+ languages with a unified parser API (Zig binding over a Rust core).
 
 ### Logging Processing
 
@@ -432,6 +433,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
 - [lun-4/zigdig](https://github.com/lun-4/zigdig) - Naive dns client library in Zig.
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) - Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard.
+- [xberg-io/crawlberg](https://github.com/xberg-io/crawlberg) - High-performance web crawling and scraping engine (Zig binding over a Rust core) with HTML-to-Markdown conversion and a headless-Chrome fallback.
 - [YUX/floo](https://github.com/YUX/floo) - High-throughput, token-authenticated tunneling built in Zig. Multiplexes TCP and UDP services through a Noise-protected transport with 29+ Gbit/s encrypted throughput.
 - [euantorano/ip.zig](https://github.com/euantorano/ip.zig) - A Zig library for working with IP Addresses.
 - [lun-4/ziget](https://github.com/lun-4/ziget) - Simple wget in Zig without libc.
