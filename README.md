@@ -464,6 +464,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Web Framework
 
+- [Goldziher/spikard](https://github.com/Goldziher/spikard) - Rust-powered polyglot HTTP framework with type-safe routing, tower middleware, and OpenAPI/GraphQL/JSON-RPC codegen (Zig binding over a Rust core).
 - [zigzap/zap](https://github.com/zigzap/zap) - Blazingly fast web backends in Zig.
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation for Zig.
 - [nikneym/ws](https://github.com/nikneym/ws) - WebSocket library for Zig ⚡.
