@@ -311,7 +311,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Command Line and Argument Parser
 
-- [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Command-Line Argument Parsing for Zig. Fast, powerful, and developer-friendly CLI argument parsing.
+- [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - A simple and easy to use command line argument parser library for Zig.
 - [MasterQ32/zig-args](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config.
 - [jiacai2050/zigcli](https://github.com/jiacai2050/zigcli) - A toolkit for building command lines programs in Zig.
