@@ -311,7 +311,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Command Line and Argument Parser
 
-- [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - A simple and easy to use command line argument parser library for Zig.
 - [MasterQ32/zig-args](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config.
 - [jiacai2050/zigcli](https://github.com/jiacai2050/zigcli) - A toolkit for building command lines programs in Zig.
@@ -325,6 +324,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [xcaeser/zli](https://github.com/xcaeser/zli) - Zig command-line interfaces made easy. A blazing fast CLI framework. Build ergonomic, high-performance command-line tools with Zig.
 - [CogitatorTech/chilli](https://github.com/CogitatorTech/chilli) - Chilli 🌶️ is a minimalistic CLI framework for Zig.
 - [plutowang/zlap](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
+- [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
 
 ### Finite State Machine
 
