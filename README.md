@@ -311,6 +311,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Command Line and Argument Parser
 
+- [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Command-Line Argument Parsing for Zig. Fast, powerful, and developer-friendly CLI argument parsing.
 - [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - A simple and easy to use command line argument parser library for Zig.
 - [MasterQ32/zig-args](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config.
 - [jiacai2050/zigcli](https://github.com/jiacai2050/zigcli) - A toolkit for building command lines programs in Zig.
@@ -431,6 +432,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Vexu/routez](https://github.com/Vexu/routez) - HTTP server for Zig.
 - [Vexu/zuri](https://github.com/Vexu/zuri) - URI parser for Zig.
 - [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - An HTTP/1.1 server for Zig.
+- [muhammad-fiaz/httpx.zig](https://github.com/muhammad-fiaz/httpx.zig) - HTTP client and server library for Zig. Production-ready HTTP/1.x/2/3 client and server runtime with proxy support, concurrency, and protocol primitives.
 - [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11.
 - [lun-4/zigdig](https://github.com/lun-4/zigdig) - Naive dns client library in Zig.
 - [connectFree/ZigZag](https://github.com/connectFree/ZigZag) - Noise Framework implementation in Zig Language for use in EVER/IP and WireGuard.
