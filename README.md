@@ -616,6 +616,10 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland.
 - [ringtailsoftware/commy](https://github.com/ringtailsoftware/commy) - Serial terminal monitor for Linux, Mac and Windows.
 
+### Search
+
+- [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
+
 ## Multimedia & Graphics
 
 ### GPU Computing
