@@ -458,6 +458,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [zquic](https://github.com/ch4r10t33r/zquic) - QUIC transport protocol (RFC 9000/9001/9002) with HTTP/3 and QPACK support, written in pure Zig with zero C dependencies.
 - [zigtls](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 - [zora](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
+- [zig-nostr/nostr](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
 
 ### Browser
 
