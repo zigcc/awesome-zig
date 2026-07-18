@@ -244,6 +244,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [jecolon/zigstr](https://github.com/jecolon/zigstr) - Zigstr is a UTF-8 string type for Zig programs.
 - [ziglibs/string-searching](https://github.com/ziglibs/string-searching) - String(not limited to []const u8)-searching algorithms in Zig.
 - [hwu1001/zig-string](https://github.com/hwu1001/zig-string) - A String struct made for Zig.
+- [eoan-ermine/zig-strparse](https://github.com/eoan-ermine/zig-strparse) - Generic string parsing library for Zig.
 
 ### Parser Library
 
