@@ -177,6 +177,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [mtxr/claude-switch](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
 - [copyleftdev/whatthediff](https://github.com/copyleftdev/whatthediff) - Deterministic semantic diff across many files at once — finds consensus, drift, and outliers with inspectable evidence, from configs and JSON/YAML/XML/PDF to executables (SSDeep-style fuzzy analysis). Zero dependencies.
 - [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/zig).
+- [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 
 ### Linker
 
@@ -616,10 +617,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [tetsu-koba/v4l2capture](https://github.com/tetsu-koba/v4l2capture) - v4l2 video capturer written in Zig.
 - [kdchambers/reel](https://github.com/kdchambers/reel) - Screen capture software for Linux / Wayland.
 - [ringtailsoftware/commy](https://github.com/ringtailsoftware/commy) - Serial terminal monitor for Linux, Mac and Windows.
-
-### Search
-
-- [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 
 ## Multimedia & Graphics
 
