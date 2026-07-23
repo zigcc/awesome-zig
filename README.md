@@ -60,7 +60,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
   - [Machine Learning](#machine-learning)
   - [Encryption](#encryption)
   - [Sensor and Communication Interface](#sensor-and-communication-interface)
-  - [Search](#search)
 - [Multimedia & Graphics](#multimedia--graphics)
   - [GPU Computing](#gpu-computing)
   - [Graphics Library](#graphics-library)
