@@ -47,7 +47,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [Network & Web](#network--web)
   - [Network](#network)
   - [Browser](#browser)
-  - [Runtime](#runtime)
   - [Web Framework](#web-framework)
   - [Web3 Framework](#web3-framework)
   - [WebAssembly](#webassembly)
@@ -465,10 +464,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 ### Browser
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Headless browser designed for AI and automation.
-
-### Runtime
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 ### Web Framework
 
