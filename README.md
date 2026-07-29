@@ -150,6 +150,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Utility
 
+- [Zig Local Transfer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
 - [BrookJeynes/jido](https://github.com/BrookJeynes/jido) - Jido (formerly known as zte) is a small terminal file explorer, written in Zig.
 - [fearedbliss/Honeydew](https://codeberg.org/fearedbliss/Honeydew) - A simple snapshot cleaner for OpenZFS written in Zig.
 - [fearedbliss/Cantaloupe](https://codeberg.org/fearedbliss/Cantaloupe) - A simple backup replication tool for OpenZFS written in Zig.
