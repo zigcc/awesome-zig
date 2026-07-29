@@ -150,7 +150,6 @@ If you find a well-maintained library that is not yet included here, welcome to 
 
 ### Utility
 
-- [Zig Local Transfer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
 - [BrookJeynes/jido](https://github.com/BrookJeynes/jido) - Jido (formerly known as zte) is a small terminal file explorer, written in Zig.
 - [fearedbliss/Honeydew](https://codeberg.org/fearedbliss/Honeydew) - A simple snapshot cleaner for OpenZFS written in Zig.
 - [fearedbliss/Cantaloupe](https://codeberg.org/fearedbliss/Cantaloupe) - A simple backup replication tool for OpenZFS written in Zig.
@@ -178,6 +177,7 @@ If you find a well-maintained library that is not yet included here, welcome to 
 - [copyleftdev/whatthediff](https://github.com/copyleftdev/whatthediff) - Deterministic semantic diff across many files at once — finds consensus, drift, and outliers with inspectable evidence, from configs and JSON/YAML/XML/PDF to executables (SSDeep-style fuzzy analysis). Zero dependencies.
 - [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/zig).
 - [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
+- [Zig Local Transfer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
 
 ### Linker
 
