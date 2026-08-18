@@ -405,6 +405,7 @@
 - [squeek502/zua](https://github.com/squeek502/zua) - An implementation of Lua 5.1 in Zig, for learning purposes.
 - [Vexu/bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language.
 - [zish](https://github.com/rotkonetworks/zish) - An opinionated shell written in Zig.
+- [aneryu/zjs](https://github.com/aneryu/zjs) - An embeddable JavaScript engine written in Zig and aligned with Bellard QuickJS.
 
 ### Emulators
 
