@@ -28,7 +28,7 @@ If an entry's AI authorship materially helps readers understand the project's pr
 - Prefer describing the project's purpose first, then append the AI attribution if needed
 - Do not use unverified or inconsistent labels such as `AI-made`, `vibe-coded`, or `LLM-written`
 
-Examples:
+### Examples
 
 - `- [foo/bar](https://github.com/foo/bar) - Static site generator written in Zig. AI-generated.`
 - `- [foo/bar](https://github.com/foo/bar) - HTTP toolkit for Zig, maintained by humans. AI-assisted.`
