@@ -263,6 +263,7 @@
 
 - [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 - [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - A regex implementation for the Zig programming language.
+- [quangdn42/regex.zig](https://github.com/quangdn42/regex.zig) - A redesign of RE2's linear-time algorithm for Zig. Built around Zig's idioms and explicitness. Supports UTF-8. Small, easy-to-read implementation.
 - [shaik-abdul-thouhid/ezi-gex](https://github.com/shaik-abdul-thouhid/ezi-gex) - Unicode-aware regex engine for Zig with runtime and comptime compilation, full \p{} Unicode property support, named captures, and custom pluggable backends (engines).
 - [zoptia/zoptia0regex](https://github.com/zoptia/zoptia0regex) - A regular-expression (regex) library — a faithful, linear-time port of Go's regexp (RE2), proven byte-for-byte identical to Go via ~30k differential tests.
 - [xcaeser/glob.zig](https://github.com/xcaeser/glob.zig) - Fast and reliable glob pattern matching in pure Zig.
