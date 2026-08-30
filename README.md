@@ -460,6 +460,7 @@
 - [zigtls](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 - [zora](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 - [zig-nostr/nostr](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
+- [prothegee/zix](https://github.com/prothegee/zix) - A high-performance network backend library & http engine written in Zig. Zero dependency. Built for REST APIs, WebSocket, SSE, and gRPC on microservices/modular-microservices.
 
 ### Browser
 
