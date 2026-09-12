@@ -576,6 +576,7 @@
 - [zml](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 - [Zigrad](https://github.com/Marco-Christiani/zigrad) - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
 - [SilasMarvin/dnns-from-scratch-in-zig](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
+- [myzonerocks/gosslens](https://github.com/myzonerocks/gosslens) - Real-time visual plumbing for agents: one core behind a frozen C ABI, with its own from-scratch ONNX inference engine (quantization, control flow, allocation-free inference) running published models on device.
 
 ### Large Language Model
 
