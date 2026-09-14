@@ -176,7 +176,7 @@
 - [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 - [Illusionna/LocalTransfer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
 - [deatil/zig-rsa](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
-- [CheckLinks](https://github.com/ktarasov/check_links) - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
+- [ktarasov/check_links](https://github.com/ktarasov/check_links) - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
 - [lkraider/keywise](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 
 ### Linker
