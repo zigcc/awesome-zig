@@ -300,6 +300,7 @@
 - [MASS4/MEGA4/KTX2](https://gitlab.com/mass4org/mega4/ktx2) - Engine-independent KTX2 texture reader for Zig, decoding compressed and Basis Universal textures to GPU-ready images.
 - [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
 - [npmonster/yayl](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
+- [pedronaugusto/strand](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
 
 ### Date, Time and Timezones
 
@@ -396,6 +397,8 @@
 - [javiorfo/zig-syslinfo](https://github.com/javiorfo/zig-syslinfo) - Linux sysinfo Zig library.
 - [jacobperron/rclzig](https://github.com/jacobperron/rclzig) - ROS 2 client library in Zig.
 - [coderonion/MinimalRoboticsPlatform](https://github.com/coderonion/MinimalRoboticsPlatform) - MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development.
+- [pedronaugusto/conduit](https://github.com/pedronaugusto/conduit) - Starts child processes and gives them pseudo-terminals, on a pty in their own session with a window size, or on pipes killed and reaped with a deadline. AI-assisted.
+- [pedronaugusto/lookout](https://github.com/pedronaugusto/lookout) - A file-system watcher for Zig: one Watcher type over each platform's own notification interface, and a polling backend that needs nothing from the kernel. AI-assisted.
 
 ### Compilers and Interpreters
 
@@ -552,6 +555,7 @@
 - [seqor/seqor](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 - [zeno-core/zeno](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 - [lispking/kvdb](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
+- [pedronaugusto/chronicle](https://github.com/pedronaugusto/chronicle) - An append-only event log for Zig, where a journal is a directory of segment files holding one JSON object per line. AI-assisted.
 
 ### Linear Algebra
 
@@ -662,6 +666,7 @@
 - [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
 - [vancluever/z2d](https://github.com/vancluever/z2d) - A pure Zig 2D graphics library.
+- [pedronaugusto/morse](https://github.com/pedronaugusto/morse) - Writes terminal control sequences and parses the bytes a terminal sends back: keys, mouse reports, and the replies to questions a program asks. AI-assisted.
 
 ### GUI
 
