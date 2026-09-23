@@ -175,6 +175,9 @@
 - [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/zig).
 - [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
 - [Illusionna/LocalTransfer](https://github.com/Illusionna/LocalTransfer) - A fast cross-platform HTTP file server.
+- [deatil/zig-rsa](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
+- [ktarasov/check_links](https://github.com/ktarasov/check_links) - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
+- [lkraider/keywise](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 
 ### Linker
 
@@ -296,6 +299,8 @@
 - [nDimensional/zig-flatbuffers](https://github.com/nDimensional/zig-flatbuffers) - FlatBuffers codegen for Zig, in Zig.
 - [MASS4/MEGA4/KTX2](https://gitlab.com/mass4org/mega4/ktx2) - Engine-independent KTX2 texture reader for Zig, decoding compressed and Basis Universal textures to GPU-ready images.
 - [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
+- [npmonster/yayl](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
+- [pedronaugusto/strand](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
 
 ### Date, Time and Timezones
 
@@ -392,6 +397,8 @@
 - [javiorfo/zig-syslinfo](https://github.com/javiorfo/zig-syslinfo) - Linux sysinfo Zig library.
 - [jacobperron/rclzig](https://github.com/jacobperron/rclzig) - ROS 2 client library in Zig.
 - [coderonion/MinimalRoboticsPlatform](https://github.com/coderonion/MinimalRoboticsPlatform) - MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development.
+- [pedronaugusto/conduit](https://github.com/pedronaugusto/conduit) - Starts child processes and gives them pseudo-terminals, on a pty in their own session with a window size, or on pipes killed and reaped with a deadline. AI-assisted.
+- [pedronaugusto/lookout](https://github.com/pedronaugusto/lookout) - A file-system watcher for Zig: one Watcher type over each platform's own notification interface, and a polling backend that needs nothing from the kernel. AI-assisted.
 
 ### Compilers and Interpreters
 
@@ -549,6 +556,7 @@
 - [seqor/seqor](https://github.com/seqor/seqor) - Seqor is a cost-effective, Loki compatible database for logs.
 - [zeno-core/zeno](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 - [lispking/kvdb](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
+- [pedronaugusto/chronicle](https://github.com/pedronaugusto/chronicle) - An append-only event log for Zig, where a journal is a directory of segment files holding one JSON object per line. AI-assisted.
 
 ### Linear Algebra
 
@@ -575,6 +583,7 @@
 - [zml](https://github.com/zml/zml) - A high performance machine learning stack for Zig.
 - [Zigrad](https://github.com/Marco-Christiani/zigrad) - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
 - [SilasMarvin/dnns-from-scratch-in-zig](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
+- [myzonerocks/gosslens](https://github.com/myzonerocks/gosslens) - Real-time visual plumbing for agents, with a from-scratch ONNX engine that runs published models on device. AI-assisted.
 
 ### Large Language Model
 
@@ -658,6 +667,7 @@
 - [zsdl3](https://github.com/felixuxx/zsdl3) - SDL3 bindings for Zig.
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - A library for building terminal user interfaces.
 - [vancluever/z2d](https://github.com/vancluever/z2d) - A pure Zig 2D graphics library.
+- [pedronaugusto/morse](https://github.com/pedronaugusto/morse) - Writes terminal control sequences and parses the bytes a terminal sends back: keys, mouse reports, and the replies to questions a program asks. AI-assisted.
 
 ### GUI
 
@@ -762,6 +772,13 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 - [arshidkv12/zig-php](https://github.com/arshidkv12/zig-php) - Write PHP extension in Zig.
 - [OnlyF0uR/pqc-zig](https://github.com/OnlyF0uR/pqc-zig) - Zig bindings and abstractions for [PQClean](https://github.com/PQClean/PQClean/), post-quantum cryptography.
 - [happystraw/phpz](https://github.com/happystraw/phpz) - Build PHP extensions with Zig.
+- [pedronaugusto/zjolt](https://github.com/pedronaugusto/zjolt) - Zig bindings for Jolt Physics — the whole runtime, from shapes and the step to constraints, characters, vehicles, ragdolls, soft bodies and hair. AI-assisted.
+- [pedronaugusto/zecs](https://github.com/pedronaugusto/zecs) - Zig bindings for flecs, Sander Mertens's entity component system — vendored byte for byte. AI-assisted.
+- [pedronaugusto/ztypeset](https://github.com/pedronaugusto/ztypeset) - Text shaping and glyph rasterisation for Zig: vendored FreeType, HarfBuzz, SheenBidi and libunibreak behind one package. AI-assisted.
+- [pedronaugusto/zozz](https://github.com/pedronaugusto/zozz) - Zig bindings for the ozz-animation runtime — skeletal animation sampling. AI-assisted.
+- [pedronaugusto/zmeshopt](https://github.com/pedronaugusto/zmeshopt) - Zig bindings for meshoptimizer — mesh indexing, optimization, simplification, compression and meshlet building. AI-assisted.
+- [pedronaugusto/zcgltf](https://github.com/pedronaugusto/zcgltf) - Zig bindings for cgltf — glTF 2.0 parsing, validation, accessor reading and writing. AI-assisted.
+- [pedronaugusto/zrecast](https://github.com/pedronaugusto/zrecast) - Zig bindings for recastnavigation — navmesh baking, path queries, off-mesh links, dynamic obstacles through a tile cache and crowd steering. AI-assisted.
 
 ### Build with Zig
 
