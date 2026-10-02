@@ -613,6 +613,7 @@
 - [deatil/zig-md2](https://github.com/deatil/zig-md2) - A MD2 hash function library for Zig.
 - [deatil/zig-md4](https://github.com/deatil/zig-md4) - A MD4 hash function library for Zig.
 - [deatil/zig-sm3](https://github.com/deatil/zig-sm3) - A SM3 hash function library for Zig.
+- [myzonerocks/gossveil](https://github.com/myzonerocks/gossveil) - End-to-end encryption library for messaging applications, written in Zig.
 
 ### Sensor and Communication Interface
 
