@@ -609,6 +609,7 @@
 ### Encryption
 
 - [gernest/base32](https://github.com/gernest/base32) - Base32 encoding/decoding for Ziglang.
+- [myzonerocks/gossveil](https://github.com/myzonerocks/gossveil) - End-to-end encryption library for messaging applications, written in Zig.
 - [deatil/zpem](https://github.com/deatil/zpem) - A pem parse and encode library for Zig.
 - [deatil/zig-md2](https://github.com/deatil/zig-md2) - A MD2 hash function library for Zig.
 - [deatil/zig-md4](https://github.com/deatil/zig-md4) - A MD4 hash function library for Zig.
