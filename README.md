@@ -780,6 +780,7 @@ Zig wrappers and bindings for existing C/C++ libraries, providing idiomatic Zig 
 - [pedronaugusto/zmeshopt](https://github.com/pedronaugusto/zmeshopt) - Zig bindings for meshoptimizer — mesh indexing, optimization, simplification, compression and meshlet building. AI-assisted.
 - [pedronaugusto/zcgltf](https://github.com/pedronaugusto/zcgltf) - Zig bindings for cgltf — glTF 2.0 parsing, validation, accessor reading and writing. AI-assisted.
 - [pedronaugusto/zrecast](https://github.com/pedronaugusto/zrecast) - Zig bindings for recastnavigation — navmesh baking, path queries, off-mesh links, dynamic obstacles through a tile cache and crowd steering. AI-assisted.
+- [raylib-zig/raylib-zig](https://github.com/raylib-zig/raylib-zig) - Manually tweaked, auto-generated Zig bindings for raylib, tested on raylib 6.0 and Zig 0.16.0.
 
 ### Build with Zig
 
