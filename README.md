@@ -519,6 +519,7 @@
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
 - [iskyd/walle](https://github.com/iskyd/walle) - A Bitcoin Wallet written in Zig.
 - [ryo-zen/zeicoin](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.
+- [omerfirmak/zevm](https://github.com/omerfirmak/zevm) - An alpha Ethereum Virtual Machine in Zig that dispatches opcodes with threaded code, usable as a library with a pluggable state backend.
 
 ### WebAssembly
 
