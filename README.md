@@ -428,6 +428,7 @@
 - [emekoi/c8](https://github.com/emekoi/c8) - Chip 8 emulator in Zig.
 - [ringtailsoftware/zig-minirv32](https://github.com/ringtailsoftware/zig-minirv32) - Zig RISC-V emulator with Linux and baremetal examples.
 - [omdxp/chip8](https://github.com/omdxp/chip8) - Chip8 Emulator in Zig.
+- [maxpoletaev/nupsx](https://github.com/maxpoletaev/nupsx) - An experimental PlayStation 1 emulator and debugger that boots and plays many commercial games, built as a learning exercise. [maxpoletaev.github.io/nupsx](https://maxpoletaev.github.io/nupsx/).
 
 ### Kernel and Containers
 
