@@ -302,6 +302,7 @@
 - [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
 - [npmonster/yayl](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
 - [pedronaugusto/strand](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
+- [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - A Markdown toolset, not CommonMark-compliant by design, that renders to the terminal, HTML and Neovim, formats files and runs in-terminal slide shows. AI-assisted.
 
 ### Date, Time and Timezones
 
