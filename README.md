@@ -469,6 +469,7 @@
 - [zigtls](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 - [zora](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 - [zig-nostr/nostr](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
+- [zig-nostr/deed](https://github.com/zig-nostr/deed) - A Nostr command line: keys, signing and verifying, NIP-19, NIP-44, relay queries and publishing, with a local LMDB event store. One binary for macOS and Linux.
 
 ### Browser
 
@@ -689,6 +690,7 @@
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 - [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 - [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
+- [zig-nostr/plaza](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store.
 
 ### Game Development
 
