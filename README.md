@@ -558,6 +558,7 @@
 - [zeno-core/zeno](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 - [lispking/kvdb](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 - [pedronaugusto/chronicle](https://github.com/pedronaugusto/chronicle) - An append-only event log for Zig, where a journal is a directory of segment files holding one JSON object per line. AI-assisted.
+- [antflydb/antfly](https://github.com/antflydb/antfly) - A search-and-inference database written in Zig with zero dependencies, with full-text, vector and graph indexes over the same table. [antfly.io](https://antfly.io). Elastic License 2.0. AI-assisted.
 
 ### Linear Algebra
 
