@@ -689,6 +689,7 @@
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 - [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 - [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
+- [marler8997/zigx](https://github.com/marler8997/zigx) - An X11 client library for Zig that speaks the X protocol directly instead of wrapping libX11 or XCB, with windowing, drawing, input and font examples.
 
 ### Game Development
 
