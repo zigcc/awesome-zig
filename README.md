@@ -493,7 +493,7 @@
 - [uzyn/passcay](https://github.com/uzyn/passcay) - Secure Passkey authentication (WebAuthn) library for Zig.
 - [floscodes/zerve](https://github.com/floscodes/zerve) - A simple framework for writing web services in Zig.
 - [deatil/zig-paseto](https://github.com/deatil/zig-paseto) - A PASETO (Platform-Agnostic SEcurity TOkens) library for Zig.
-- [nurulhudaapon/zx](https://github.com/nurulhudaapon/zx) - A full-stack web framework for Zig.
+- [ziex-dev/ziex](https://github.com/ziex-dev/ziex) - A full-stack web framework for Zig. [ziex.dev](https://ziex.dev).
 - [im-ng/zero](https://github.com/im-ng/zero) - Simple and opinionated web framework written in Zig and aims to make microservices development in Zig easier.
 - [GuneshRaj/zigar](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 - [llllOllOOll/spider](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
