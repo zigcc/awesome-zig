@@ -585,7 +585,7 @@
 - [Zigrad](https://github.com/Marco-Christiani/zigrad) - A deep learning framework built on an autograd engine with high level abstractions and low level control. Trains neural networks 2.5x faster than PyTorch on Apple Silicon and 1.5x faster on CPU.
 - [SilasMarvin/dnns-from-scratch-in-zig](https://github.com/SilasMarvin/dnns-from-scratch-in-zig) - A very simple implementation of deep neural networks written in the Zig programming language.
 - [myzonerocks/gosslens](https://github.com/myzonerocks/gosslens) - Real-time visual plumbing for agents, with a from-scratch ONNX engine that runs published models on device. AI-assisted.
-- [krypticlogan/zig-graph-compiler](https://github.com/krypticlogan/zig-graph-compiler) - Allocation-free ahead-of-time tensor computation graph compiler: a model defined at compile time becomes a specialized Zig type with a fixed memory plan.
+- [krypticlogan/zig-graph-compiler](https://github.com/krypticlogan/zig-graph-compiler) - Ahead-of-time tensor computation graph compiler: a model defined at compile time becomes a specialized Zig type with a fixed memory plan and no heap allocation while it runs.
 
 ### Large Language Model
 
