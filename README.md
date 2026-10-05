@@ -734,6 +734,7 @@
 - [GasInfinity/zitrus](https://codeberg.org/GasInfinity/zitrus) - A 3DS SDK with all the bells and whistles in pure Zig.
 - [deckarep/CosmicInvaders](https://github.com/deckarep/CosmicInvaders) - A pixel-art Space Invaders + Tower Defense game written in Zig with raylib.
 - [MASS4/MEGA4/Turian](https://gitlab.com/mass4org/mega4/turian) - A component-based 3D game engine + editor built entirely in Zig with a Unity-style workflow.
+- [Youssef-Afella/Z-ConsoleSnake](https://github.com/Youssef-Afella/Z-ConsoleSnake) - Snake game for the text terminal, written as a small example of Zig comptime metaprogramming.
 
 ### Audio Processing
 
