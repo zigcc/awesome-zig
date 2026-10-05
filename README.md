@@ -615,6 +615,7 @@
 - [deatil/zig-md2](https://github.com/deatil/zig-md2) - A MD2 hash function library for Zig.
 - [deatil/zig-md4](https://github.com/deatil/zig-md4) - A MD4 hash function library for Zig.
 - [deatil/zig-sm3](https://github.com/deatil/zig-sm3) - A SM3 hash function library for Zig.
+- [nurfianqodar/flox](https://codeberg.org/nurfianqodar/flox) - A lightweight password-based file encryption tool with Argon2 key derivation and AES-256-GCM that streams files of any size in chunks.
 
 ### Sensor and Communication Interface
 
