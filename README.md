@@ -740,6 +740,7 @@
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵. [orhun.dev/linuxwave/](https://orhun.dev/linuxwave/).
 - [hexops/mach-sysaudio](https://github.com/hexops/mach-sysaudio) - Cross-platform low-level audio IO in Zig.
 - [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi) - Zig-midi.
+- [andrewrk/daw](https://codeberg.org/andrewrk/daw) - An experimental digital audio workstation with Vulkan rendering, no C++ dependencies and no third-party plugin support, at an early stage.
 
 ### Image and Video Processing
 
