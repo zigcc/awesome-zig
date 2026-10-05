@@ -262,6 +262,7 @@
 - [sam701/slog](https://github.com/sam701/slog) - A configurable, structured logging package for Zig with support for hierarchical loggers.
 - [ross-weir/logex](https://github.com/ross-weir/logex) - A library that enriches `std.log` logging with additional functionality and features.
 - [muhammad-fiaz/logly.zig](https://github.com/muhammad-fiaz/logly.zig) - A modern, production-grade, high-performance structured logging library for Zig, built for speed and scalability.
+- [adia-dev/chroma-logger-zig](https://github.com/adia-dev/chroma-logger-zig) - A configurable comptime-first ANSI logger that plugs into `std.log`, with typed themes, timestamps and scopes, built on chroma-zig.
 
 ### File Format Processing
 
