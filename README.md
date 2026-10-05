@@ -498,6 +498,7 @@
 - [GuneshRaj/zigar](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 - [llllOllOOll/spider](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 - [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
+- [zigster64/zts](https://github.com/zigster64/zts) - Zig Templates made Simple: a template library that splits an input file into named sections at comptime, with no template DSL.
 
 ### Web3 Framework
 
