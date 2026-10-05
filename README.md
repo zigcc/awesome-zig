@@ -179,6 +179,7 @@
 - [ktarasov/check_links](https://github.com/ktarasov/check_links) - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
 - [lkraider/keywise](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
 - [hgrsd/duplik](https://codeberg.org/hgrsd/duplik) - Zig-based CLI to detect duplicate files. No-AI.
+- [tigerlang/huntclaw](https://github.com/tigerlang/huntclaw) - A fast literal find-and-replace utility, a dependency-free binary of about 260 KB that uses SIMD prefiltering and parallel directory walks.
 
 ### Linker
 
