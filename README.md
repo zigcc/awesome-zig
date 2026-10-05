@@ -689,7 +689,7 @@
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 - [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 - [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
-- [knots-ui/knots](https://github.com/knots-ui/knots) - Cross-platform immediate-mode GUI library for Zig that runs on macOS, Windows, Linux (Wayland) and in the browser with Vulkan or WebGPU rendering. [knotsui.com](https://knotsui.com).
+- [knots-ui/knots](https://github.com/knots-ui/knots) - Cross-platform immediate-mode GUI library for Zig for macOS, Windows and Linux (Wayland) with Vulkan or WebGPU rendering, and for the browser with WebGPU. [knotsui.com](https://knotsui.com).
 
 ### Game Development
 
