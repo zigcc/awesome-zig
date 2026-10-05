@@ -334,6 +334,7 @@
 - [plutowang/zlap](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
 - [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
 - [hgrsd/zopt](https://codeberg.org/hgrsd/zopt) - Low-ceremony schemaless command line argument parser for the Zig ecosystem. No-AI.
+- [adia-dev/chroma-zig](https://github.com/adia-dev/chroma-zig) - Comptime-first ANSI colors and terminal text styling: directives such as `{#bold,red}` become constant escape sequences at compile time, with typed ZON themes.
 
 ### Finite State Machine
 
