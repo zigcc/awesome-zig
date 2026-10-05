@@ -558,6 +558,7 @@
 - [zeno-core/zeno](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 - [lispking/kvdb](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 - [pedronaugusto/chronicle](https://github.com/pedronaugusto/chronicle) - An append-only event log for Zig, where a journal is a directory of segment files holding one JSON object per line. AI-assisted.
+- [wildfield/sqey](https://github.com/wildfield/sqey) - A simple command-line tool for key-value storage in an SQLite database, with batch get and set, compare-and-swap and null-delimited or binary output.
 
 ### Linear Algebra
 
