@@ -415,6 +415,7 @@
 - [squeek502/zua](https://github.com/squeek502/zua) - An implementation of Lua 5.1 in Zig, for learning purposes.
 - [Vexu/bog](https://github.com/Vexu/bog) - Small, strongly typed, embeddable language.
 - [zish](https://github.com/rotkonetworks/zish) - An opinionated shell written in Zig.
+- [NoTimeDev/Zasm](https://github.com/NoTimeDev/Zasm) - An x86_64 machine code generator library: describe instructions in Zig, then load the bytes into executable memory and call them like a normal function.
 
 ### Emulators
 
