@@ -402,6 +402,7 @@
 - [coderonion/MinimalRoboticsPlatform](https://github.com/coderonion/MinimalRoboticsPlatform) - MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development.
 - [pedronaugusto/conduit](https://github.com/pedronaugusto/conduit) - Starts child processes and gives them pseudo-terminals, on a pty in their own session with a window size, or on pipes killed and reaped with a deadline. AI-assisted.
 - [pedronaugusto/lookout](https://github.com/pedronaugusto/lookout) - A file-system watcher for Zig: one Watcher type over each platform's own notification interface, and a polling backend that needs nothing from the kernel. AI-assisted.
+- [NoamRothschild/hypervisor](https://github.com/NoamRothschild/hypervisor) - A type 1 hypervisor for Intel VT-x, written from scratch in Zig, that boots an unmodified Linux kernel to a userspace shell. AI-assisted.
 
 ### Compilers and Interpreters
 
