@@ -263,6 +263,7 @@
 - [sam701/slog](https://github.com/sam701/slog) - A configurable, structured logging package for Zig with support for hierarchical loggers.
 - [ross-weir/logex](https://github.com/ross-weir/logex) - A library that enriches `std.log` logging with additional functionality and features.
 - [muhammad-fiaz/logly.zig](https://github.com/muhammad-fiaz/logly.zig) - A modern, production-grade, high-performance structured logging library for Zig, built for speed and scalability.
+- [wyzdwdz/nanozlog](https://github.com/wyzdwdz/nanozlog) - A lock-free asynchronous logging library for Zig, inspired by C++ FmtLog, built for low-latency hot paths with interval and one-time logging and a queue-full callback.
 
 ### File Format Processing
 
