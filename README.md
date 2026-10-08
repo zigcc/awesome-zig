@@ -239,6 +239,7 @@
 - [CogitatorTech/ordered](https://github.com/CogitatorTech/ordered) - A sorted collection library (sorted sets and sorted maps) for Zig.
 - [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
 - [guanchzhou/zig-hilbert](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
+- [guanchzhou/zig-planar](https://github.com/guanchzhou/zig-planar) - Planarity testing with embeddings, Kuratowski certificates, and 4- and 5-coloring of planar graphs. AI-assisted.
 
 ### String Processing
 
@@ -604,6 +605,11 @@
 - [SMC17/safetensors-zig](https://github.com/SMC17/safetensors-zig) - Pure-Zig Hugging Face safetensors reader; ~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
 - [SMC17/tokenizers-zig](https://github.com/SMC17/tokenizers-zig) - Pure-Zig Hugging Face tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
 - [SMC17/vllm-zig](https://github.com/SMC17/vllm-zig) - LLM serving substrate. Real TinyLlama forward pass through Zig kernels: RoPE + GQA + KV cache + multi-thread SIMD matmul + streaming. AGPL-3.0.
+- [guanchzhou/zig-select](https://github.com/guanchzhou/zig-select) - Budgeted selection of retrieved chunks for LLM context: knapsack packing, score calibration, and diversity. AI-assisted.
+- [guanchzhou/zig-diffuse](https://github.com/guanchzhou/zig-diffuse) - Re-ranking of retrieval scores by diffusion on link and nearest-neighbor graphs. AI-assisted.
+- [guanchzhou/zig-lsh](https://github.com/guanchzhou/zig-lsh) - Cross-polytope and hyperplane LSH with multi-probe for approximate nearest-neighbor search. AI-assisted.
+- [guanchzhou/zig-rabitq](https://github.com/guanchzhou/zig-rabitq) - RaBitQ one- to eight-bit vector codes with error bounds for approximate nearest-neighbor search. AI-assisted.
+- [guanchzhou/zig-pq](https://github.com/guanchzhou/zig-pq) - Product quantization, k-means, and IVF-PQ for approximate nearest-neighbor search. AI-assisted.
 
 ### Machine Learning
 
