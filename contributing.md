@@ -19,6 +19,7 @@ Ensure a pull request adheres to the following guidelines:
 - Follow the style guide of awesome lists to keep things organized
 - Add new entries to the end of the existing list
 - Sort entries into the archive (awesome-but-inactive.md), when needed
+- Complete every required checkbox in the pull request template and select exactly one AI Attribution option.
 
 ### AI Attribution
 

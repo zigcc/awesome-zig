@@ -178,6 +178,7 @@
 - [deatil/zig-rsa](https://github.com/deatil/zig-rsa) - An RSA library for Zig. No-AI.
 - [ktarasov/check_links](https://github.com/ktarasov/check_links) - A command-line utility (CLI) written in Zig for checking links on a web page. AI-assisted.
 - [lkraider/keywise](https://github.com/lkraider/keywise) - View saved logins from a local Firefox profile. Single binary, TUI and native GUI on macOS and Windows, five OS/arch targets. AI-assisted.
+- [hgrsd/duplik](https://codeberg.org/hgrsd/duplik) - Zig-based CLI to detect duplicate files. No-AI.
 
 ### Linker
 
@@ -237,6 +238,8 @@
 - [OrlovEvgeny/lo.zig](https://github.com/OrlovEvgeny/lo.zig) - A Lodash-style utility library for Zig with zero hidden allocations and lazy iterator-first design.
 - [CogitatorTech/ordered](https://github.com/CogitatorTech/ordered) - A sorted collection library (sorted sets and sorted maps) for Zig.
 - [kobolds-io/stdx](https://gitlab.com/kobolds-io/stdx) - Helpful extensions to the Zig standard library.
+- [guanchzhou/zig-hilbert](https://github.com/guanchzhou/zig-hilbert) - Fast Hilbert curves, sortable marker keys, and S2 cell ids for Zig 0.17. AI-assisted.
+- [guanchzhou/zig-planar](https://github.com/guanchzhou/zig-planar) - Planarity testing with embeddings, Kuratowski certificates, and 4- and 5-coloring of planar graphs. AI-assisted.
 
 ### String Processing
 
@@ -332,6 +335,7 @@
 - [CogitatorTech/chilli](https://github.com/CogitatorTech/chilli) - Chilli 🌶️ is a minimalistic CLI framework for Zig.
 - [plutowang/zlap](https://github.com/plutowang/zlap) - A declarative, fluent, and type-safe command-line argument parser for Zig with subcommand support, inspired by Rust's clap.
 - [muhammad-fiaz/args.zig](https://github.com/muhammad-fiaz/args.zig) - Fast, powerful, and developer-friendly CLI argument parsing library for Zig.
+- [hgrsd/zopt](https://codeberg.org/hgrsd/zopt) - Low-ceremony schemaless command line argument parser for the Zig ecosystem. No-AI.
 
 ### Finite State Machine
 
@@ -467,6 +471,7 @@
 - [zigtls](https://github.com/Geun-Oh/zigtls) - Zig-native TLS Implementation library for edge/load-balancer event loops, with BoGo strict, interop, and reliability gates.
 - [zora](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 - [zig-nostr/nostr](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
+- [guanchzhou/zig-klient](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
 - [zig-nostr/deed](https://github.com/zig-nostr/deed) - Fastest and smallest nostr command line, built for AI agents and humans. AI-assisted.
 
 ### Browser
@@ -601,6 +606,11 @@
 - [SMC17/safetensors-zig](https://github.com/SMC17/safetensors-zig) - Pure-Zig Hugging Face safetensors reader; ~5x faster than the Rust upstream on Llama-shape parse fixtures. AGPL-3.0.
 - [SMC17/tokenizers-zig](https://github.com/SMC17/tokenizers-zig) - Pure-Zig Hugging Face tokenizers covering BPE / WordPiece / Unigram with full HF Encoding parity, sub-token offsets, and a 600-iter property fuzz. AGPL-3.0.
 - [SMC17/vllm-zig](https://github.com/SMC17/vllm-zig) - LLM serving substrate. Real TinyLlama forward pass through Zig kernels: RoPE + GQA + KV cache + multi-thread SIMD matmul + streaming. AGPL-3.0.
+- [guanchzhou/zig-select](https://github.com/guanchzhou/zig-select) - Budgeted selection of retrieved chunks for LLM context: knapsack packing, score calibration, and diversity. AI-assisted.
+- [guanchzhou/zig-diffuse](https://github.com/guanchzhou/zig-diffuse) - Re-ranking of retrieval scores by diffusion on link and nearest-neighbor graphs. AI-assisted.
+- [guanchzhou/zig-lsh](https://github.com/guanchzhou/zig-lsh) - Cross-polytope and hyperplane LSH with multi-probe for approximate nearest-neighbor search. AI-assisted.
+- [guanchzhou/zig-rabitq](https://github.com/guanchzhou/zig-rabitq) - RaBitQ one- to eight-bit vector codes with error bounds for approximate nearest-neighbor search. AI-assisted.
+- [guanchzhou/zig-pq](https://github.com/guanchzhou/zig-pq) - Product quantization, k-means, and IVF-PQ for approximate nearest-neighbor search. AI-assisted.
 
 ### Machine Learning
 
@@ -688,6 +698,7 @@
 - [meszmate/zigzag](https://github.com/meszmate/zigzag) - The TUI Framework for Zig.
 - [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 - [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
+- [guanchzhou/c3s](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
 - [zig-nostr/plaza](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
 
 ### Game Development
