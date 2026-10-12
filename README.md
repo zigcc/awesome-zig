@@ -472,6 +472,7 @@
 - [zora](https://github.com/user529/zora) - Telegram bot server that runs hot-reloadable Lua 5.4 rules, with coroutine-based async I/O, SQLite-backed state, and a durable scheduler. Targets Linux and FreeBSD.
 - [zig-nostr/nostr](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
 - [guanchzhou/zig-klient](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
+- [zig-nostr/deed](https://github.com/zig-nostr/deed) - Fastest and smallest nostr command line, built for AI agents and humans. AI-assisted.
 
 ### Browser
 
@@ -698,6 +699,7 @@
 - [happystraw/zig-webview](https://github.com/happystraw/zig-webview) - Zig bindings for webview/webview, a tiny cross-platform library for building desktop applications with web technologies using a native browser widget.
 - [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
 - [guanchzhou/c3s](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
+- [zig-nostr/plaza](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
 
 ### Game Development
 
