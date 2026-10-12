@@ -192,6 +192,7 @@
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) - Performance Tracking for Zig.
 - [hendriknielaender/zBench](https://github.com/hendriknielaender/zBench) - Simple benchmarking library.
 - [andrewrk/poop](https://github.com/andrewrk/poop) - CLI Performance Observer written in Zig.
+- [jnordwick/zmida](https://github.com/jnordwick/zmida) - Benchmarking harness for CPU-bound code with adaptive trials, TSC timing, perf counters and text, CSV or gnuplot output.
 
 ## Language Essentials
 
