@@ -305,6 +305,7 @@
 - [MASS4/MEGA4/GUID](https://gitlab.com/mass4org/mega4/guid) - Standalone GUID/UUID library supporting `RFC 4122` v4 and `RFC 9562` v6 (time-ordered) with optional `serde` integration.
 - [npmonster/yayl](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
 - [pedronaugusto/strand](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
+- [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - A Markdown toolset, not CommonMark-compliant by design, that renders to the terminal, HTML and Neovim, formats files and runs in-terminal slide shows. AI-assisted.
 
 ### Date, Time and Timezones
 
@@ -404,6 +405,7 @@
 - [coderonion/MinimalRoboticsPlatform](https://github.com/coderonion/MinimalRoboticsPlatform) - MRP is a minimal microkernel that supports the most fundamental robotic domains. It's thought for highly integrated robotics development.
 - [pedronaugusto/conduit](https://github.com/pedronaugusto/conduit) - Starts child processes and gives them pseudo-terminals, on a pty in their own session with a window size, or on pipes killed and reaped with a deadline. AI-assisted.
 - [pedronaugusto/lookout](https://github.com/pedronaugusto/lookout) - A file-system watcher for Zig: one Watcher type over each platform's own notification interface, and a polling backend that needs nothing from the kernel. AI-assisted.
+- [NoamRothschild/hypervisor](https://github.com/NoamRothschild/hypervisor) - A type 1 hypervisor for Intel VT-x, written from scratch in Zig, that boots an unmodified Linux kernel to a userspace shell. AI-assisted.
 
 ### Compilers and Interpreters
 
@@ -525,6 +527,7 @@
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
 - [iskyd/walle](https://github.com/iskyd/walle) - A Bitcoin Wallet written in Zig.
 - [ryo-zen/zeicoin](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.
+- [okcontract/oksolc](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that aims for byte-compatible output with solc 0.8.36 on its supported path, optimized via-IR compilation through Standard JSON, intended for development rather than production deployment. AI-assisted.
 
 ### WebAssembly
 
@@ -564,6 +567,7 @@
 - [zeno-core/zeno](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 - [lispking/kvdb](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 - [pedronaugusto/chronicle](https://github.com/pedronaugusto/chronicle) - An append-only event log for Zig, where a journal is a directory of segment files holding one JSON object per line. AI-assisted.
+- [antflydb/antfly](https://github.com/antflydb/antfly) - A search-and-inference database written in Zig with zero dependencies, with full-text, vector and graph indexes over the same table. [antfly.io](https://antfly.io). Elastic License 2.0. AI-assisted.
 
 ### Linear Algebra
 
