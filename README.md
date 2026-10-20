@@ -474,6 +474,7 @@
 - [zig-nostr/nostr](https://github.com/zig-nostr/nostr) - The Nostr protocol natively in Zig: secp256k1/Schnorr keys, events, relay transport with the outbox model, a local-first LMDB event store, NIP-46 remote signing, and more.
 - [guanchzhou/zig-klient](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
 - [zig-nostr/deed](https://github.com/zig-nostr/deed) - Fastest and smallest nostr command line, built for AI agents and humans. AI-assisted.
+- [guanchzhou/zig-telegram](https://github.com/guanchzhou/zig-telegram) - Telegram Bot API 10.3 client, pure-Zig MTProto 2.0 core, and TDLib bridge for Zig 0.17. AI-assisted.
 
 ### Browser
 
