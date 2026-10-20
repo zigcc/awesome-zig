@@ -193,6 +193,7 @@
 - [ziglang/gotta-go-fast](https://github.com/ziglang/gotta-go-fast) - Performance Tracking for Zig.
 - [hendriknielaender/zBench](https://github.com/hendriknielaender/zBench) - Simple benchmarking library.
 - [andrewrk/poop](https://github.com/andrewrk/poop) - CLI Performance Observer written in Zig.
+- [jnordwick/zmida](https://github.com/jnordwick/zmida) - Benchmarking harness for CPU-bound code with adaptive trials, TSC timing, perf counters and text, CSV or gnuplot output. AI-assisted.
 
 ## Language Essentials
 
@@ -528,6 +529,7 @@
 - [iskyd/walle](https://github.com/iskyd/walle) - A Bitcoin Wallet written in Zig.
 - [ryo-zen/zeicoin](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.
 - [okcontract/oksolc](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that aims for byte-compatible output with solc 0.8.36 on its supported path, optimized via-IR compilation through Standard JSON, intended for development rather than production deployment. AI-assisted.
+- [omerfirmak/zevm](https://github.com/omerfirmak/zevm) - An alpha Ethereum Virtual Machine in Zig that dispatches opcodes with threaded code, usable as a library with a pluggable state backend. AI-assisted.
 
 ### WebAssembly
 
@@ -567,7 +569,7 @@
 - [zeno-core/zeno](https://github.com/zeno-core/zeno) - High-performance embedded key-value storage engine with ART index, WAL, and sharded concurrency.
 - [lispking/kvdb](https://github.com/lispking/kvdb) - A lightweight, high-performance embedded key-value database written in Zig.
 - [pedronaugusto/chronicle](https://github.com/pedronaugusto/chronicle) - An append-only event log for Zig, where a journal is a directory of segment files holding one JSON object per line. AI-assisted.
-- [antflydb/antfly](https://github.com/antflydb/antfly) - A search-and-inference database written in Zig with zero dependencies, with full-text, vector and graph indexes over the same table. [antfly.io](https://antfly.io). Elastic License 2.0. AI-assisted.
+- [antflydb/antfly](https://github.com/antflydb/antfly) - A search-and-inference database written in Zig, with full-text, vector and graph indexes over the same table. [antfly.io](https://antfly.io). The database server is under Elastic License 2.0, Antfly Lite and Antfly inference under Apache 2.0. AI-assisted.
 
 ### Linear Algebra
 
