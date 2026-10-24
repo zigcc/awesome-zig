@@ -307,6 +307,7 @@
 - [npmonster/yayl](https://github.com/npmonster/yayl) - YAML 1.2 parser, editor and emitter for Zig. Byte-faithful round trips keep untouched bytes, comments and layout intact. AI-assisted.
 - [pedronaugusto/strand](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - A Markdown toolset, not CommonMark-compliant by design, that renders to the terminal, HTML and Neovim, formats files and runs in-terminal slide shows. AI-assisted.
+- [guanchzhou/zig-pkl](https://github.com/guanchzhou/zig-pkl) - Bindings for Apple Pkl over the Message Passing API, with typed evaluation, custom and external readers, and a Pkl-to-Zig code generator. AI-assisted.
 
 ### Date, Time and Timezones
 
