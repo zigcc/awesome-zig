@@ -171,7 +171,7 @@
 - [ghext](https://github.com/charlesrocket/ghext) - A small library for extracting head commits from Git repositories.
 - [nrdmn/ilo_license_key](https://github.com/nrdmn/ilo_license_key) - This library validates HP iLO license keys.
 - [Decryptu/zigdex](https://github.com/Decryptu/zigdex) - Display Pokémon sprites in your terminal. A Zig rewrite of pokeget.
-- [mtxr/claude-switch](https://github.com/mtxr/claude-switch) - Swap between Claude (Code + Desktop) accounts on macOS with a single command. Credentials stored securely in macOS Keychain. Fully offline.
+- [mtxr/claude-switch](https://github.com/mtxr/claude-switch) - Switch between Claude Code and Claude Desktop accounts without logging out, with per-directory profiles and concurrent terminals. Standalone binaries for macOS and Linux; Claude Desktop support is macOS only. AI-assisted.
 - [copyleftdev/whatthediff](https://github.com/copyleftdev/whatthediff) - Deterministic semantic diff across many files at once — finds consensus, drift, and outliers with inspectable evidence, from configs and JSON/YAML/XML/PDF to executables (SSDeep-style fuzzy analysis). Zero dependencies.
 - [bare-devcontainer/templates](https://github.com/bare-devcontainer/templates/tree/main/src/zig) - Security-focused Zig dev container with zls integration and a persistent build cache. The base image is available at [bare-devcontainer/images](https://github.com/bare-devcontainer/images/tree/main/zig).
 - [xsawyerx/vind](https://codeberg.org/xsawyerx/vind) - A tiny embeddable full-text search engine that also has a CLI app and a built-in service.
