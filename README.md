@@ -59,7 +59,7 @@
 - [Multimedia & Graphics](#multimedia--graphics)
   - [GPU Computing](#gpu-computing)
   - [Graphics Library](#graphics-library)
-  - [GUI](#gui)
+  - [GUI- [Verde](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace (MIT). https://verdeai.dev](#gui--verdehttpsgithubcomjonathanricheverde---native-multi-agent-coding-desktop-workspace-mit-httpsverdeaidev)
   - [Game Development](#game-development)
   - [Audio Processing](#audio-processing)
   - [Image and Video Processing](#image-and-video-processing)
@@ -691,7 +691,7 @@
 - [vancluever/z2d](https://github.com/vancluever/z2d) - A pure Zig 2D graphics library.
 - [pedronaugusto/morse](https://github.com/pedronaugusto/morse) - Writes terminal control sequences and parses the bytes a terminal sends back: keys, mouse reports, and the replies to questions a program asks. AI-assisted.
 
-### GUI
+### GUI- [Verde](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace (MIT). https://verdeai.dev
 
 - [Capy](https://github.com/capy-ui/capy) - Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/).
 - [david-vanderson/dvui](https://github.com/david-vanderson/dvui) - Easy to Integrate Immediate Mode GUI for Zig.
