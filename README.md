@@ -713,6 +713,8 @@
 - [guanchzhou/c3s](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
 - [zig-nostr/plaza](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
 
+- [Verde](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop ADE workspace. Use with Claude Code, Codex, Cursor, Grok, and OpenCode. [verdeai.dev](https://verdeai.dev).
+
 ### Game Development
 
 - [Mach](https://github.com/hexops/mach) - A game engine & graphics toolkit for the future. machengine.org.
