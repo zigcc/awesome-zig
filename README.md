@@ -59,7 +59,7 @@
 - [Multimedia & Graphics](#multimedia--graphics)
   - [GPU Computing](#gpu-computing)
   - [Graphics Library](#graphics-library)
-  - [GUI- [Verde](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace (MIT). https://verdeai.dev](#gui--verdehttpsgithubcomjonathanricheverde---native-multi-agent-coding-desktop-workspace-mit-httpsverdeaidev)
+  - [GUI](#gui)
   - [Game Development](#game-development)
   - [Audio Processing](#audio-processing)
   - [Image and Video Processing](#image-and-video-processing)
@@ -691,7 +691,7 @@
 - [vancluever/z2d](https://github.com/vancluever/z2d) - A pure Zig 2D graphics library.
 - [pedronaugusto/morse](https://github.com/pedronaugusto/morse) - Writes terminal control sequences and parses the bytes a terminal sends back: keys, mouse reports, and the replies to questions a program asks. AI-assisted.
 
-### GUI- [Verde](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop workspace (MIT). https://verdeai.dev
+### GUI
 
 - [Capy](https://github.com/capy-ui/capy) - Build one codebase and get native UI on Windows, Linux and Web. [capy-ui.org](https://capy-ui.org/).
 - [david-vanderson/dvui](https://github.com/david-vanderson/dvui) - Easy to Integrate Immediate Mode GUI for Zig.
@@ -712,6 +712,8 @@
 - [pparaxan/quark](https://codeberg.org/pparaxan/quark) - Vulkan-based GUI toolkit focused on simplicity.
 - [guanchzhou/c3s](https://github.com/guanchzhou/c3s) - Kubernetes terminal interface written in Zig. AI-assisted.
 - [zig-nostr/plaza](https://github.com/zig-nostr/plaza) - A Nostr client for macOS and Linux on the Native SDK: a hand-written feed view drawn by the toolkit, no WebView, rendered from an in-process LMDB store. AI-assisted.
+
+- [Verde](https://github.com/JonathanRiche/verde) - Native multi-agent coding desktop ADE workspace. Use with Claude Code, Codex, Cursor, Grok, and OpenCode. [verdeai.dev](https://verdeai.dev).
 
 ### Game Development
 
