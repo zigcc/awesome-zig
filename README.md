@@ -636,6 +636,7 @@
 - [deatil/zig-md4](https://github.com/deatil/zig-md4) - A MD4 hash function library for Zig.
 - [deatil/zig-sm3](https://github.com/deatil/zig-sm3) - A SM3 hash function library for Zig.
 - [myzonerocks/gossveil](https://github.com/myzonerocks/gossveil) - End-to-end encryption library for messaging applications, written in Zig. No-AI.
+- [Defense-Exploration-Holdings/crypto-api-ng](https://github.com/Defense-Exploration-Holdings/crypto-api-ng) - Zero-dependency hashing library (MD/SHA/SHA-3/BLAKE/RIPEMD/Whirlpool/Streebog/SM3, HMAC, PBKDF2, HKDF) in Zig, shipped to npm as WebAssembly. AI-generated.
 
 ### Sensor and Communication Interface
 
