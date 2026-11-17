@@ -310,6 +310,7 @@
 - [pedronaugusto/strand](https://github.com/pedronaugusto/strand) - Typed JSON Lines for Zig: one JSON value per line, read and written for append-only logs, line protocols and event streams. AI-assisted.
 - [JacobCrabill/zigdown](https://github.com/JacobCrabill/zigdown) - A Markdown toolset, not CommonMark-compliant by design, that renders to the terminal, HTML and Neovim, formats files and runs in-terminal slide shows. AI-assisted.
 - [guanchzhou/zig-pkl](https://github.com/guanchzhou/zig-pkl) - Bindings for Apple Pkl over the Message Passing API, with typed evaluation, custom and external readers, and a Pkl-to-Zig code generator. AI-assisted.
+- [h0rv/jsonschema.zig](https://github.com/h0rv/jsonschema.zig) - JSON Schema Draft 2020-12 validation and schema generation from Zig types. AI-assisted.
 
 ### Date, Time and Timezones
 
@@ -510,6 +511,7 @@
 - [GuneshRaj/zigar](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 - [llllOllOOll/spider](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 - [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
+- [h0rv/zchema](https://github.com/h0rv/zchema) - Typed JSON APIs with validation and OpenAPI 3.1 generation, built on std.http.Server. AI-assisted.
 
 ### Web3 Framework
 
@@ -622,6 +624,10 @@
 - [guanchzhou/zig-lsh](https://github.com/guanchzhou/zig-lsh) - Cross-polytope and hyperplane LSH with multi-probe for approximate nearest-neighbor search. AI-assisted.
 - [guanchzhou/zig-rabitq](https://github.com/guanchzhou/zig-rabitq) - RaBitQ one- to eight-bit vector codes with error bounds for approximate nearest-neighbor search. AI-assisted.
 - [guanchzhou/zig-pq](https://github.com/guanchzhou/zig-pq) - Product quantization, k-means, and IVF-PQ for approximate nearest-neighbor search. AI-assisted.
+- [h0rv/instructor.zig](https://github.com/h0rv/instructor.zig) - Structured LLM output with validation and retries for OpenAI and Anthropic. AI-assisted.
+- [h0rv/openai.zig](https://github.com/h0rv/openai.zig) - Generated SDK for the OpenAI API. AI-assisted.
+- [h0rv/anthropic.zig](https://github.com/h0rv/anthropic.zig) - Generated SDK for the Anthropic API. AI-assisted.
+- [h0rv/openresponses.zig](https://github.com/h0rv/openresponses.zig) - Generated SDK for the Open Responses API specification. AI-assisted.
 
 ### Machine Learning
 
