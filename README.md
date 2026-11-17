@@ -482,6 +482,7 @@
 - [guanchzhou/zig-klient](https://github.com/guanchzhou/zig-klient) - Kubernetes client library for Zig. AI-assisted.
 - [zig-nostr/deed](https://github.com/zig-nostr/deed) - Fastest and smallest nostr command line, built for AI agents and humans. AI-assisted.
 - [guanchzhou/zig-telegram](https://github.com/guanchzhou/zig-telegram) - Telegram Bot API 10.3 client, pure-Zig MTProto 2.0 core, and TDLib bridge for Zig 0.17. AI-assisted.
+- [ANODs/blackwall](https://github.com/ANODs/blackwall) - VPN client for macOS, Windows, Linux and Android with its own TCP/IP stack, TLS 1.3, REALITY, VLESS, Trojan, VMess and Shadowsocks, and a route per application. AI-generated.
 
 ### Browser
 
