@@ -108,6 +108,7 @@
 - [zed-extensions/Zig](https://github.com/zed-extensions/zig) - Zig extension for Zed editor.
 - [jinzhongjia/zig-lamp](https://github.com/jinzhongjia/zig-lamp) - Improve the Zig development experience in Neovim.
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control - a programmer's text editor written in Zig.
+- [jinzhongjia/zig-analyzer](https://github.com/jinzhongjia/zig-analyzer) - A language server (LSP) for Zig, built on an incremental query engine. AI-generated.
 
 ### Linters
 
