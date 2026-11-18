@@ -107,6 +107,7 @@
 - [zigtools/zls](https://github.com/zigtools/zls) - The @ziglang language server for all your Zig editor tooling needs, from autocomplete to goto-def! [installation](https://zigtools.org/zls/install/).
 - [zed-extensions/Zig](https://github.com/zed-extensions/zig) - Zig extension for Zed editor.
 - [jinzhongjia/zig-lamp](https://github.com/jinzhongjia/zig-lamp) - Improve the Zig development experience in Neovim.
+- [jinzhongjia/zig-analyzer](https://github.com/jinzhongjia/zig-analyzer) - A language server (LSP) for Zig, built on an incremental query engine.
 - [neurocyte/flow](https://github.com/neurocyte/flow) - Flow Control - a programmer's text editor written in Zig.
 
 ### Linters
