@@ -514,6 +514,7 @@
 - [llllOllOOll/spider](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 - [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
 - [h0rv/zchema](https://github.com/h0rv/zchema) - Typed JSON APIs with validation and OpenAPI 3.1 generation, built on std.http.Server. AI-assisted.
+- [deatil/zig-vin](https://github.com/deatil/zig-vin) - A template render library like jinja2 for zig. AI-assisted.
 
 ### Web3 Framework
 
