@@ -593,6 +593,9 @@
 ### Scientific Computation
 
 - [attron/astroz](https://github.com/ATTron/astroz) - Spacecraft and Astronomical Toolkit.
+- [SMC17/strip](https://github.com/SMC17/strip) - Evidence-bearing aerospace computation and simulation substrate. Apache-2.0.
+- [SMC17/yard](https://github.com/SMC17/yard) - Naval architecture and marine engineering simulation suite in Zig (72 modules covering hydrodynamics, seakeeping, maneuvering, propulsion, and structural analysis). Apache-2.0.
+- [SMC17/zinging](https://github.com/SMC17/zinging) - Zero-allocation Zig 0.15.2 computational substrate: ITCH LOB, sequential A/B, HNSW/IVFPQ/H3 vector search, GGUF LLM inference, quant pricing, Leontief IO, and NNUE chess (199 C ABI symbols, Python wheel, WebAssembly). MIT.
 
 ### Machine Learning Framework
 
