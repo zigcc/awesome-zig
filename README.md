@@ -66,6 +66,7 @@
 - [Interoperability](#interoperability)
   - [FFI Bindings](#ffi-bindings)
   - [Build with Zig](#build-with-zig)
+  - [Zig Progress Protocol](#zig-progress-protocol)
 
 <!-- tocstop -->
 
@@ -850,3 +851,14 @@ Existing C/C++ projects that have replaced their original build systems with Zig
 - [benchmark](https://github.com/kassane/benchmark) - A microbenchmark support library. First posted on [Ziggit](https://ziggit.dev/t/is-there-a-list-of-projects-that-has-been-zigged/1785).
 - [boring_tls](https://github.com/Thomvanoorschot/boring_tls) - Google's BoringTLS client and server. Adds TLS to any (including non standard library) TCP/HTTP traffic.
 - [libui-ng](https://github.com/happystraw/libui-ng) - Library libui-ng (a portable GUI library for C) with the build system replaced by Zig.
+
+### Zig Progress Protocol
+
+The [Zig Progress Protocol](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html#the-zig-progress-protocol-specification) lets a worker send progress updates to a supervisor through a pipe. Updates describe tasks and subtasks with completed and total item counts. The protocol has potential for wide adoption across languages and ecosystems, but remains little used outside Zig tooling. Use it in your projects to help make it a de facto standard for command-line progress reporting.
+
+- [zpg](https://github.com/asciimoth/zpg) - CLI supervisor that runs commands and displays their progress tree in the terminal.
+- Protocol clients - Libraries for reporting task progress from different languages.
+  - [zppy](https://github.com/asciimoth/zppy) - For Python.
+  - [zpgo](https://github.com/asciimoth/zpgo) - For Go.
+  - [zprs](https://github.com/asciimoth/zprs) - For Rust.
+  - [zpjs](https://github.com/asciimoth/zpjs) - For JavaScript and TypeScript (Node.js).
