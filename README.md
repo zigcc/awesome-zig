@@ -536,7 +536,7 @@
 - [keep-starknet-strange/ziggy-starkdust](https://github.com/keep-starknet-strange/ziggy-starkdust) - A Zig implementation of Cairo VM for Cairo, the STARK powered provable language.
 - [iskyd/walle](https://github.com/iskyd/walle) - A Bitcoin Wallet written in Zig.
 - [ryo-zen/zeicoin](https://github.com/ryo-zen/zeicoin) - A fast and lightweight Layer 1 Blockchain written in Zig.
-- [okcontract/oksolc](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that aims for byte-compatible output with solc 0.8.36 on its supported path, optimized via-IR compilation through Standard JSON, intended for development rather than production deployment. AI-assisted.
+- [okcontract/oksolc](https://github.com/okcontract/oksolc) - A Solidity compiler written in Zig that targets byte-for-byte compatibility with solc 0.8.36 to 0.8.39 on its supported path, optimized via-IR compilation through Standard JSON. AI-assisted.
 - [omerfirmak/zevm](https://github.com/omerfirmak/zevm) - An alpha Ethereum Virtual Machine in Zig that dispatches opcodes with threaded code, usable as a library with a pluggable state backend. AI-assisted.
 
 ### WebAssembly
