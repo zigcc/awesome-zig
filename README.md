@@ -123,6 +123,7 @@
 - [ryo-zen/zig-docs-mcp](https://github.com/ryo-zen/zig-docs-mcp) - MCP server providing access to Zig language docs, stdlib references, and working code examples.
 - [sb2bg/marionette](https://github.com/sb2bg/marionette) - Deterministic simulation testing for Zig with a `std.Io` implementation, letting you inject faults and replay failures from seeds.
 - [newmathphys/kern](https://github.com/newmathphys/kern) - Zero-trust verification gateway: a claim is admitted only with machine evidence, so every Z3 proof DAG is re-checked inside KERN's own Zig kernel and each counterexample is replayed against the real function in Python (for C/Zig/Rust the counterexample comes from the SMT model with machine-type bounds). Contract annotations (`@kern:requires`/`@kern:ensures`) are checked in Python, Zig, C and Rust, and the toolchain ships 125 Lean 4 theorems with 0 `sorry`. AI-assisted.
+- [okcontract/zean](https://github.com/okcontract/zean) - Translates supported Zig functions, captured from the compiler's AIR, into executable Lean 4 models so their memory contracts and behavior can be proved in Lean.
 
 ### Package and Version Manager
 
