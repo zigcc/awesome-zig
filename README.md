@@ -514,6 +514,7 @@
 - [GuneshRaj/zigar](https://github.com/GuneshRaj/zigar) - Zigar is a web application framework for Zig that supports ASP / JSP-like template syntax with ASP-style tags.
 - [llllOllOOll/spider](https://github.com/llllOllOOll/spider) - A web framework for Zig with a focus on ergonomics and performance.
 - [brmassa/liquidz](https://gitlab.com/brmassa/liquidz) - A [Liquid template language](https://shopify.github.io/liquid/) implementation in Zig.
+- [anole](https://github.com/xuckless/anole) - Zig backend framework with HTTP/2, HTTP/3, WebSocket and gRPC.
 - [h0rv/zchema](https://github.com/h0rv/zchema) - Typed JSON APIs with validation and OpenAPI 3.1 generation, built on std.http.Server. AI-assisted.
 - [deatil/zig-vin](https://github.com/deatil/zig-vin) - A template render library like jinja2 for zig. AI-assisted.
 
